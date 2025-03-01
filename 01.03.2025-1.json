@@ -1,0 +1,25 @@
+{
+    "name": "Brianna Rivera",
+    "age": 79,
+    "address": {
+        "street": "Catherine Fort",
+        "city": "South Benjamin",
+        "state": "Arkansas",
+        "zip": "33456"
+    },
+    "contact": {
+        "phone": "3929864916",
+        "servicePhone": "800735560"
+    },
+    "birthday": "1946-07-04",
+    "ip": "171.84.240.51",
+    "foo": "bar",
+    "profile": {
+        "about": "Still professional ten determine growth reach her onto. Whether beyond reason million everything society future. Easy nature serious actually study knowledge.",
+        "bio": "To hear American its realize condition. Improve exist away customer site.\nKey about different experience meet voice word specific. Decade should make age true."
+    },
+    "currency": [
+        "PAB",
+        "Panamanian balboa"
+    ]
+}
