@@ -1,0 +1,25 @@
+{
+    "name": "Cynthia Wolf",
+    "age": 57,
+    "address": {
+        "street": "Soto Canyon",
+        "city": "South Russellberg",
+        "state": "Massachusetts",
+        "zip": "59444"
+    },
+    "contact": {
+        "phone": "+1-305-560-0943",
+        "servicePhone": "800186651"
+    },
+    "birthday": "1968-09-06",
+    "ip": "137.195.147.4",
+    "foo": "bar",
+    "profile": {
+        "about": "Finally ok themselves according once plan writer. Against agree week.",
+        "bio": "Mouth hospital forward because sit feel. Particularly just center matter."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
