@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Miller",
+    "age": 36,
+    "address": {
+        "street": "Buck Islands",
+        "city": "Bradleystad",
+        "state": "Massachusetts",
+        "zip": "40667"
+    },
+    "contact": {
+        "phone": "2944718934",
+        "servicePhone": "800967029"
+    },
+    "birthday": "1989-29-05",
+    "ip": "172.249.133.31",
+    "foo": "bar",
+    "profile": {
+        "about": "With behavior agree production goal media who. Experience yeah unit model real Mr. Would beautiful contain the.",
+        "bio": "Per view offer cause language. Those reflect tough glass fact take anyone. Ask rise newspaper build what few.\nThe chance compare. Nearly feel college. Risk myself finally fire now college."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
