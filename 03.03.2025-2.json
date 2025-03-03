@@ -1,0 +1,25 @@
+{
+    "name": "Jon Torres",
+    "age": 45,
+    "address": {
+        "street": "Rodriguez Park",
+        "city": "Ernestport",
+        "state": "Arizona",
+        "zip": "41115"
+    },
+    "contact": {
+        "phone": "622-471-9230x8192",
+        "servicePhone": "800694485"
+    },
+    "birthday": "1980-09-11",
+    "ip": "6.162.190.38",
+    "foo": "bar",
+    "profile": {
+        "about": "Director crime physical other near majority. Government management debate coach five onto.\nEverything market reveal. Republican dog art decide window TV.",
+        "bio": "Door whatever opportunity should. Final close offer day into so focus. Order apply two you loss great."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
