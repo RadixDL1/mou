@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Cole",
+    "age": 63,
+    "address": {
+        "street": "Tristan Camp",
+        "city": "West Brittanymouth",
+        "state": "North Carolina",
+        "zip": "99310"
+    },
+    "contact": {
+        "phone": "710.527.2315",
+        "servicePhone": "800499491"
+    },
+    "birthday": "1962-14-05",
+    "ip": "79.129.2.65",
+    "foo": "bar",
+    "profile": {
+        "about": "Style conference message world standard. Same rather stay occur fight.",
+        "bio": "Note room well letter. With science instead. Note significant the notice community item. Exist notice life writer operation one early."
+    },
+    "currency": [
+        "GIP",
+        "Gibraltar pound"
+    ]
+}
