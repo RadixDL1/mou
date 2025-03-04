@@ -1,0 +1,25 @@
+{
+    "name": "Nicholas Davis",
+    "age": 16,
+    "address": {
+        "street": "Torres Mountain",
+        "city": "Griffinbury",
+        "state": "Oregon",
+        "zip": "07182"
+    },
+    "contact": {
+        "phone": "910-892-2950x00080",
+        "servicePhone": "800279457"
+    },
+    "birthday": "2009-20-10",
+    "ip": "57.35.217.241",
+    "foo": "bar",
+    "profile": {
+        "about": "Blood think arm tree anything here bar father. Very available never unit big suddenly beautiful improve. Lay put and offer him still.",
+        "bio": "Condition push kind seat learn.\nField production goal. Arrive beat approach exactly thousand agree blood. Hair body wife gun."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}
