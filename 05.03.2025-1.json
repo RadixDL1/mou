@@ -1,0 +1,25 @@
+{
+    "name": "Gregory Stokes",
+    "age": 62,
+    "address": {
+        "street": "Marshall Cape",
+        "city": "Port Cynthia",
+        "state": "California",
+        "zip": "86654"
+    },
+    "contact": {
+        "phone": "711-407-8188x98497",
+        "servicePhone": "800158422"
+    },
+    "birthday": "1963-07-04",
+    "ip": "43.153.251.195",
+    "foo": "bar",
+    "profile": {
+        "about": "Doctor should fund television. Style them animal.\nWork trip want recent type. Create bag southern better hear industry.\nYet effect ten media. Continue despite win.",
+        "bio": "Front spring home. Southern artist speech hospital letter structure foot.\nRelationship customer major exist get glass.\nMaintain quite live tough rate factor. Order successful must move through feel."
+    },
+    "currency": [
+        "QAR",
+        "Qatari riyal"
+    ]
+}
