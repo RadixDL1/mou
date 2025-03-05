@@ -1,0 +1,25 @@
+{
+    "name": "Jeremy Powell",
+    "age": 50,
+    "address": {
+        "street": "Hunt Estates",
+        "city": "Molinachester",
+        "state": "South Dakota",
+        "zip": "91057"
+    },
+    "contact": {
+        "phone": "+1-270-590-1827x201",
+        "servicePhone": "800857386"
+    },
+    "birthday": "1975-09-01",
+    "ip": "103.184.49.193",
+    "foo": "bar",
+    "profile": {
+        "about": "Soon pattern financial. Thought here marriage likely.\nDog well experience through. A lay sometimes thought likely.",
+        "bio": "Air position tell individual beyond. Imagine health thus easy half. Right market now few.\nThan doctor pattern identify environmental audience music know. Wrong bad force lose particularly."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}
