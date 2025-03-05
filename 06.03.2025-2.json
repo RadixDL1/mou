@@ -1,0 +1,25 @@
+{
+    "name": "Jeffrey Briggs",
+    "age": 50,
+    "address": {
+        "street": "Roberts Port",
+        "city": "West Whitneyberg",
+        "state": "Maryland",
+        "zip": "79525"
+    },
+    "contact": {
+        "phone": "745-330-3645x1140",
+        "servicePhone": "800047320"
+    },
+    "birthday": "1975-17-03",
+    "ip": "160.212.12.82",
+    "foo": "bar",
+    "profile": {
+        "about": "Something expert admit fight think. Care charge protect mother. Trouble occur eye reduce.\nAllow similar surface southern term. Parent explain low fast begin by try born.",
+        "bio": "Explain work behavior. By free our may. Letter cultural weight detail these describe law."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
