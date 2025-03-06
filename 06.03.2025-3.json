@@ -1,0 +1,25 @@
+{
+    "name": "Monica Olson",
+    "age": 82,
+    "address": {
+        "street": "Janet Vista",
+        "city": "Nguyenborough",
+        "state": "Missouri",
+        "zip": "38076"
+    },
+    "contact": {
+        "phone": "+1-524-789-4802",
+        "servicePhone": "800742685"
+    },
+    "birthday": "1943-18-01",
+    "ip": "192.194.39.55",
+    "foo": "bar",
+    "profile": {
+        "about": "Study three various third majority seek when. Call soldier age trade easy west. At speech program become difficult black.",
+        "bio": "Card production care doctor worry middle along indeed. Effort stuff stuff wear.\nCongress sometimes next tell paper again. These window somebody reality open call reveal around."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}
