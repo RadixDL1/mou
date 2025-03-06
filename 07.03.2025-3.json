@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Smith",
+    "age": 55,
+    "address": {
+        "street": "Kristy Pass",
+        "city": "South Jacob",
+        "state": "Vermont",
+        "zip": "28914"
+    },
+    "contact": {
+        "phone": "521-911-4061",
+        "servicePhone": "800069497"
+    },
+    "birthday": "1970-25-05",
+    "ip": "1.252.211.40",
+    "foo": "bar",
+    "profile": {
+        "about": "He could management some. Perform which media wonder since sign expert program. Fly add event high marriage foreign.\nView happy performance build. Although admit language analysis exist.",
+        "bio": "Rule take certain yard mission financial air. Standard for still.\nOnto morning like then. Baby stop perhaps couple much. Face house paper course star."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}
