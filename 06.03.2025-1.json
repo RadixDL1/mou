@@ -1,0 +1,25 @@
+{
+    "name": "Carrie Smith",
+    "age": 27,
+    "address": {
+        "street": "Burke Pines",
+        "city": "Port Katherine",
+        "state": "Rhode Island",
+        "zip": "35841"
+    },
+    "contact": {
+        "phone": "(966)620-1185",
+        "servicePhone": "800811113"
+    },
+    "birthday": "1998-09-12",
+    "ip": "18.167.158.10",
+    "foo": "bar",
+    "profile": {
+        "about": "Investment thus north society student less.\nExecutive ball country from employee bag. Such five word eye population.",
+        "bio": "Relate learn throw. Drug heart animal water forward production.\nWrong break according issue financial minute red. Seek great up."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}
