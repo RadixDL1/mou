@@ -1,0 +1,25 @@
+{
+    "name": "Shelia Jordan",
+    "age": 40,
+    "address": {
+        "street": "Swanson Parks",
+        "city": "Stacyshire",
+        "state": "Indiana",
+        "zip": "73069"
+    },
+    "contact": {
+        "phone": "+1-679-226-8140x965",
+        "servicePhone": "800524218"
+    },
+    "birthday": "1985-13-02",
+    "ip": "100.129.200.139",
+    "foo": "bar",
+    "profile": {
+        "about": "Song candidate although drug much already way. Nature four different whatever out. Raise city with police spend reveal. Hair tell new rest.",
+        "bio": "Answer red peace. Appear this have forget president. Long should finish movie mean window find.\nForce father carry relate. Discussion national pay big. Name president five here back create budget."
+    },
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}
