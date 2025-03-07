@@ -1,0 +1,25 @@
+{
+    "name": "Anita Boyer",
+    "age": 91,
+    "address": {
+        "street": "David Ranch",
+        "city": "New Stacieport",
+        "state": "California",
+        "zip": "34413"
+    },
+    "contact": {
+        "phone": "387.485.2080x68699",
+        "servicePhone": "800772627"
+    },
+    "birthday": "1934-19-06",
+    "ip": "176.232.211.212",
+    "foo": "bar",
+    "profile": {
+        "about": "Drive anyone discover apply him. Unit control raise couple under professor record still. Exactly exist which will.\nI special thought. Lead ahead receive. Can reflect indicate as.",
+        "bio": "Worker option law federal rock. Far college admit sometimes them born since. Cell speak perform under none product discuss.\nThus far building. Government here safe board hour so onto."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}
