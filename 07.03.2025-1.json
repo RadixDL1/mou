@@ -1,0 +1,25 @@
+{
+    "name": "Terry Williams",
+    "age": 1,
+    "address": {
+        "street": "Kendra Ranch",
+        "city": "Thomasshire",
+        "state": "Kentucky",
+        "zip": "11605"
+    },
+    "contact": {
+        "phone": "8003590826",
+        "servicePhone": "800530149"
+    },
+    "birthday": "2024-12-10",
+    "ip": "23.72.166.88",
+    "foo": "bar",
+    "profile": {
+        "about": "Case road difference tree sign technology. Air range husband. Service piece world month travel itself discover. Rich smile already benefit.\nWant ground run make cut my.",
+        "bio": "Vote term strategy occur daughter cost. Wait name dinner reach.\nDebate home property serious example happy. Conference head wear.\nYourself true start no. Though memory thousand maybe American."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}
