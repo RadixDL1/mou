@@ -1,0 +1,25 @@
+{
+    "name": "Candace Miller",
+    "age": 33,
+    "address": {
+        "street": "Stacy Street",
+        "city": "Riverafort",
+        "state": "Maryland",
+        "zip": "60433"
+    },
+    "contact": {
+        "phone": "868.687.4419",
+        "servicePhone": "800817785"
+    },
+    "birthday": "1992-21-05",
+    "ip": "200.107.3.55",
+    "foo": "bar",
+    "profile": {
+        "about": "Think appear candidate a. Community manager trip free section offer put. The imagine city response American while huge.",
+        "bio": "Respond among lawyer American skin two wear director. Company fact Mrs matter.\nOnto young four vote unit hot five. Some you represent maybe draw owner detail."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
