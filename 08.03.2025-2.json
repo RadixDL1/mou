@@ -1,0 +1,25 @@
+{
+    "name": "David Bond",
+    "age": 33,
+    "address": {
+        "street": "Booker Lodge",
+        "city": "West Rita",
+        "state": "California",
+        "zip": "98783"
+    },
+    "contact": {
+        "phone": "396.775.8864",
+        "servicePhone": "800263796"
+    },
+    "birthday": "1992-19-04",
+    "ip": "170.106.49.236",
+    "foo": "bar",
+    "profile": {
+        "about": "Cost become matter everybody.\nImage research interest feeling federal. Direction may response near everything probably loss. Guess visit sister campaign maintain.",
+        "bio": "Hope always may ago message. Reveal according half despite around debate successful few."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
