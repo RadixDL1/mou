@@ -1,0 +1,25 @@
+{
+    "name": "John Kane",
+    "age": 0,
+    "address": {
+        "street": "Theresa Groves",
+        "city": "East Timothy",
+        "state": "Michigan",
+        "zip": "42431"
+    },
+    "contact": {
+        "phone": "001-501-908-3208x156",
+        "servicePhone": "800186947"
+    },
+    "birthday": "2025-27-05",
+    "ip": "61.158.63.23",
+    "foo": "bar",
+    "profile": {
+        "about": "Outside writer tree person staff various. Less marriage upon these although create.\nThat parent should opportunity. Inside activity executive.",
+        "bio": "Learn fill always set catch country common. Have commercial know four however next. Discuss center by feeling surface whose ball. Exactly field since voice their a."
+    },
+    "currency": [
+        "KMF",
+        "Comorian franc"
+    ]
+}
