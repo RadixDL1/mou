@@ -1,0 +1,25 @@
+{
+    "name": "Sherri Johnson",
+    "age": 17,
+    "address": {
+        "street": "Shelia Mall",
+        "city": "West Jamiefurt",
+        "state": "Illinois",
+        "zip": "01225"
+    },
+    "contact": {
+        "phone": "429-429-0535",
+        "servicePhone": "800379981"
+    },
+    "birthday": "2008-14-01",
+    "ip": "106.195.133.220",
+    "foo": "bar",
+    "profile": {
+        "about": "Send study capital between window trip experience.\nIdea good everything minute option today. Skin trip feel age threat drop agency.",
+        "bio": "General wall model picture. Agreement similar parent right mind true use. Form open management method easy interesting sport."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}
