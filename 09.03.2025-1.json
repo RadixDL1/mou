@@ -1,0 +1,25 @@
+{
+    "name": "Dawn Downs",
+    "age": 46,
+    "address": {
+        "street": "James Corner",
+        "city": "West Josephchester",
+        "state": "Rhode Island",
+        "zip": "24836"
+    },
+    "contact": {
+        "phone": "718.257.5936x269",
+        "servicePhone": "800001518"
+    },
+    "birthday": "1979-05-10",
+    "ip": "98.228.34.86",
+    "foo": "bar",
+    "profile": {
+        "about": "Store there say future best major seat. Day guess carry ready toward. Nice similar phone expert.\nWhite plan picture pick mission west school too.",
+        "bio": "Daughter task agency. Congress information speech report to instead crime. More small affect.\nThis total audience prove bag next worker. Few would several wife. One offer base talk suffer wrong."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}
