@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Simon",
+    "age": 4,
+    "address": {
+        "street": "Jackson Plaza",
+        "city": "Kevinmouth",
+        "state": "Mississippi",
+        "zip": "93070"
+    },
+    "contact": {
+        "phone": "495.835.0984x725",
+        "servicePhone": "800423292"
+    },
+    "birthday": "2021-14-09",
+    "ip": "132.179.71.16",
+    "foo": "bar",
+    "profile": {
+        "about": "Natural sure general material federal participant. Left data view thus wrong mother while sure. Son skill world. Husband specific air job eat.",
+        "bio": "Herself memory local. Rest far home team want.\nPush part move billion wonder. Drop nearly at news.\nMuch explain suggest enjoy seat discuss not before. Part vote reality training include few."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}
