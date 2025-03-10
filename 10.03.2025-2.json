@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Lopez",
+    "age": 98,
+    "address": {
+        "street": "Kimberly Squares",
+        "city": "Lake Vanessa",
+        "state": "Pennsylvania",
+        "zip": "09985"
+    },
+    "contact": {
+        "phone": "(658)222-5896",
+        "servicePhone": "800972008"
+    },
+    "birthday": "1927-30-09",
+    "ip": "204.128.66.240",
+    "foo": "bar",
+    "profile": {
+        "about": "Person Mrs teacher. Member area media water cost. Relate such remember meeting body.\nStudy feeling street eight everything how hard series. Life professor table discover.",
+        "bio": "Tax edge tree left vote. Huge red television assume girl child. Include culture executive west skin.\nSign anything professional fire. Mean service up ball still."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}
