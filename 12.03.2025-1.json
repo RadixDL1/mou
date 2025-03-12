@@ -1,0 +1,25 @@
+{
+    "name": "Kayla Krueger",
+    "age": 26,
+    "address": {
+        "street": "Chan Port",
+        "city": "East Amyberg",
+        "state": "Nebraska",
+        "zip": "01977"
+    },
+    "contact": {
+        "phone": "(557)722-8066x47904",
+        "servicePhone": "800846601"
+    },
+    "birthday": "1999-16-08",
+    "ip": "52.165.95.152",
+    "foo": "bar",
+    "profile": {
+        "about": "Thus if agent consumer job. Something security politics six learn whole. Once rate pass.",
+        "bio": "Behavior relationship before there ten fire. Success near man none. They still their perform seven well radio. Subject movement else forget.\nOut they agent really thousand. Far let performance."
+    },
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}
