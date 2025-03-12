@@ -1,0 +1,25 @@
+{
+    "name": "Kaitlin Greene",
+    "age": 83,
+    "address": {
+        "street": "Buckley Valleys",
+        "city": "East David",
+        "state": "Nebraska",
+        "zip": "59110"
+    },
+    "contact": {
+        "phone": "+1-873-943-1347x593",
+        "servicePhone": "800971825"
+    },
+    "birthday": "1942-15-04",
+    "ip": "202.85.252.118",
+    "foo": "bar",
+    "profile": {
+        "about": "Short event enter your physical daughter. Outside prove effort amount hard always concern.\nDecision interesting when various. Today color campaign. Light hotel put thing whatever should.",
+        "bio": "Baby member pass give feel difficult record. Picture concern treatment turn.\nEvening career believe. Improve charge home someone have receive sort. Great car heavy."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
