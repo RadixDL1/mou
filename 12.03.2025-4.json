@@ -1,0 +1,25 @@
+{
+    "name": "James Dillon",
+    "age": 46,
+    "address": {
+        "street": "Lisa Inlet",
+        "city": "Lake Kimland",
+        "state": "Idaho",
+        "zip": "73263"
+    },
+    "contact": {
+        "phone": "6588955208",
+        "servicePhone": "800930834"
+    },
+    "birthday": "1979-21-09",
+    "ip": "6.189.139.0",
+    "foo": "bar",
+    "profile": {
+        "about": "Many peace visit some watch sport job. Discover us south section mean. Heart long shake.\nLanguage listen alone cost. Make enjoy century pressure write.",
+        "bio": "Whose parent section thank for often. Tree reflect opportunity recent.\nThose edge method enough base bar. Hundred blood fine set very threat heavy product.\nFace a better. Interesting turn share may."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
