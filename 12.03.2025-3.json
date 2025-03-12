@@ -1,0 +1,25 @@
+{
+    "name": "Mary Molina",
+    "age": 3,
+    "address": {
+        "street": "Hancock Crossroad",
+        "city": "Elizabethburgh",
+        "state": "New Hampshire",
+        "zip": "95884"
+    },
+    "contact": {
+        "phone": "512-442-0826x3672",
+        "servicePhone": "800478564"
+    },
+    "birthday": "2022-06-04",
+    "ip": "117.229.254.167",
+    "foo": "bar",
+    "profile": {
+        "about": "Ten responsibility accept meet woman. Can nor fire everyone join allow. Perhaps team education PM subject bring. Best story goal eight section seven.",
+        "bio": "Ask prove break billion after. Area its best seat door company.\nProduct open exactly head north chair. Join statement stop also whole."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
