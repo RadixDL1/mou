@@ -1,0 +1,25 @@
+{
+    "name": "Jonathan Willis",
+    "age": 34,
+    "address": {
+        "street": "Davis Estate",
+        "city": "Christopherhaven",
+        "state": "Delaware",
+        "zip": "57538"
+    },
+    "contact": {
+        "phone": "939.485.0137",
+        "servicePhone": "800424285"
+    },
+    "birthday": "1991-04-08",
+    "ip": "98.11.152.22",
+    "foo": "bar",
+    "profile": {
+        "about": "Collection pull authority daughter probably we. Until feeling least ok. Appear military understand.",
+        "bio": "At nature feel point. Use listen weight trouble natural management. Need in evidence voice whatever. Under of item music off.\nBaby adult popular southern drug."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
