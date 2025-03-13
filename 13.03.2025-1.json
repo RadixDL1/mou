@@ -1,0 +1,25 @@
+{
+    "name": "Kelsey Serrano",
+    "age": 32,
+    "address": {
+        "street": "Emily Pines",
+        "city": "East Adriennechester",
+        "state": "Delaware",
+        "zip": "69525"
+    },
+    "contact": {
+        "phone": "001-761-742-7994x8238",
+        "servicePhone": "800195689"
+    },
+    "birthday": "1993-13-07",
+    "ip": "41.242.119.2",
+    "foo": "bar",
+    "profile": {
+        "about": "True news cultural chance say them. Throughout mission what citizen than. Focus coach candidate whom after oil particular.\nCollection up cause mention house. Forget team instead young.",
+        "bio": "Example us compare agent vote. Court decide out alone when large. Paper parent thought along listen anything all here."
+    },
+    "currency": [
+        "VUV",
+        "Vanuatu vatu"
+    ]
+}
