@@ -1,0 +1,25 @@
+{
+    "name": "Erica Martinez",
+    "age": 53,
+    "address": {
+        "street": "Lynn Flat",
+        "city": "Port Kyle",
+        "state": "Massachusetts",
+        "zip": "56262"
+    },
+    "contact": {
+        "phone": "001-370-387-5816x03652",
+        "servicePhone": "800077863"
+    },
+    "birthday": "1972-03-09",
+    "ip": "137.68.170.131",
+    "foo": "bar",
+    "profile": {
+        "about": "Pattern defense record cut state fear. Bring nothing road fire within simple.\nRepresent follow your type bill send these. Determine pull star garden.",
+        "bio": "Him official treatment low official movement condition. Whether especially myself nature simple visit. Professional sort life effort."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}
