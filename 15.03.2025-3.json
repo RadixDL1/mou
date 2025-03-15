@@ -1,0 +1,25 @@
+{
+    "name": "Peter Taylor",
+    "age": 65,
+    "address": {
+        "street": "Robert Oval",
+        "city": "North Allisonburgh",
+        "state": "Illinois",
+        "zip": "81249"
+    },
+    "contact": {
+        "phone": "968.321.9284x816",
+        "servicePhone": "800249361"
+    },
+    "birthday": "1960-29-06",
+    "ip": "157.7.224.83",
+    "foo": "bar",
+    "profile": {
+        "about": "Measure country bit time. Big see you perform.\nList record college team one send. Knowledge nothing one analysis. Measure customer fact degree other.",
+        "bio": "True few send system worker can political walk. Dog head arm national whom memory.\nBar executive at inside top school week. Early occur bar kid both once.\nDoctor how director."
+    },
+    "currency": [
+        "SAR",
+        "Saudi riyal"
+    ]
+}
