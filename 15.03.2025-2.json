@@ -1,0 +1,25 @@
+{
+    "name": "Robert Lewis",
+    "age": 84,
+    "address": {
+        "street": "Lewis Spur",
+        "city": "South Carolinefort",
+        "state": "Oklahoma",
+        "zip": "15759"
+    },
+    "contact": {
+        "phone": "001-639-926-5596",
+        "servicePhone": "800674313"
+    },
+    "birthday": "1941-27-02",
+    "ip": "41.125.217.90",
+    "foo": "bar",
+    "profile": {
+        "about": "Suggest difficult special school. Probably over move happy four next develop. Whose TV city that usually.",
+        "bio": "Money area education point accept charge. Sister audience cut run. Speak play question role true."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
