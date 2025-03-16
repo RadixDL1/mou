@@ -1,0 +1,25 @@
+{
+    "name": "Walter Ford",
+    "age": 73,
+    "address": {
+        "street": "White Fort",
+        "city": "Port Rebeccaburgh",
+        "state": "Virginia",
+        "zip": "93031"
+    },
+    "contact": {
+        "phone": "(248)298-0364",
+        "servicePhone": "800985921"
+    },
+    "birthday": "1952-01-11",
+    "ip": "10.88.45.14",
+    "foo": "bar",
+    "profile": {
+        "about": "Police particular I east join value. Eat seven ever nation. Oil dream manage kind loss.\nToday crime the compare during. Doctor energy pay American ability help. Total possible simple apply if.",
+        "bio": "Onto school sometimes word article. Grow according three line.\nMilitary three research total public. Company eat teach large beat. These visit occur million."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
