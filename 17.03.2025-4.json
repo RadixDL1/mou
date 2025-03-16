@@ -1,0 +1,25 @@
+{
+    "name": "William Smith",
+    "age": 78,
+    "address": {
+        "street": "Alexander Mountains",
+        "city": "New Jennifer",
+        "state": "Delaware",
+        "zip": "78188"
+    },
+    "contact": {
+        "phone": "261.210.1442x043",
+        "servicePhone": "800097939"
+    },
+    "birthday": "1947-19-12",
+    "ip": "182.97.81.23",
+    "foo": "bar",
+    "profile": {
+        "about": "Friend environmental language determine consumer. Along size appear environmental thought. Current nearly for test American civil.\nParty old director college. Defense almost response base face apply.",
+        "bio": "Could focus goal through at. Try economy perhaps others. Never table clearly population color hospital."
+    },
+    "currency": [
+        "XCD",
+        "Eastern Caribbean dollar"
+    ]
+}
