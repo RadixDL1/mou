@@ -1,0 +1,25 @@
+{
+    "name": "Mr. Craig Heath IV",
+    "age": 81,
+    "address": {
+        "street": "Andrew Brook",
+        "city": "Port Daniel",
+        "state": "Minnesota",
+        "zip": "28146"
+    },
+    "contact": {
+        "phone": "502-943-8574x9350",
+        "servicePhone": "800975651"
+    },
+    "birthday": "1944-13-04",
+    "ip": "86.250.251.63",
+    "foo": "bar",
+    "profile": {
+        "about": "Per eat determine because order. Want major girl space system he leader. Four pattern your base maybe return ask.\nCandidate stage improve computer until decide. Reason law even local.",
+        "bio": "Expert his though. Message agency project let level career. Use someone opportunity raise.\nPhone world simply court. Perform sort get site number matter laugh support."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}
