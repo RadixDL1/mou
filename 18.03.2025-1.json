@@ -1,0 +1,25 @@
+{
+    "name": "Raymond Romero",
+    "age": 107,
+    "address": {
+        "street": "Knight Loaf",
+        "city": "New Fernando",
+        "state": "Wyoming",
+        "zip": "46926"
+    },
+    "contact": {
+        "phone": "612-839-0290x7825",
+        "servicePhone": "800024193"
+    },
+    "birthday": "1918-12-10",
+    "ip": "82.61.106.194",
+    "foo": "bar",
+    "profile": {
+        "about": "Member anyone kid able they idea. Student more spring oil concern across yard good. Her recognize really them quickly.\nToward stage budget move. Herself today wife expect class show end.",
+        "bio": "Together animal everything activity. Should recognize lose daughter a compare cover.\nConcern ever about Mrs. Education law senior yet thus end. Help full some well green town material."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
