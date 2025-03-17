@@ -1,0 +1,25 @@
+{
+    "name": "Shane Baker",
+    "age": 8,
+    "address": {
+        "street": "Olsen Spurs",
+        "city": "South Melissa",
+        "state": "Delaware",
+        "zip": "01530"
+    },
+    "contact": {
+        "phone": "913-681-1680",
+        "servicePhone": "800119140"
+    },
+    "birthday": "2017-24-01",
+    "ip": "84.250.91.181",
+    "foo": "bar",
+    "profile": {
+        "about": "Subject interesting first mouth staff ability threat others. Type first street cell both.",
+        "bio": "Increase always husband. Hair increase ground reveal hear response.\nLevel whom lot miss.\nMr trade decade car project. Leave wish it partner worry drug. To meeting claim social black."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
