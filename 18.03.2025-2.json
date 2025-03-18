@@ -1,0 +1,25 @@
+{
+    "name": "Sydney Hall",
+    "age": 45,
+    "address": {
+        "street": "Richard River",
+        "city": "Mcdanielmouth",
+        "state": "Colorado",
+        "zip": "77682"
+    },
+    "contact": {
+        "phone": "+1-744-921-2418x63811",
+        "servicePhone": "800060772"
+    },
+    "birthday": "1980-28-09",
+    "ip": "96.115.165.126",
+    "foo": "bar",
+    "profile": {
+        "about": "Huge source religious deal represent. Network sure moment clearly nation rock environmental foreign. Question suddenly debate job against alone computer.",
+        "bio": "Treat unit finish near. Onto radio religious word indicate firm."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}
