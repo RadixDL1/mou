@@ -1,0 +1,25 @@
+{
+    "name": "Tracy Thompson",
+    "age": 51,
+    "address": {
+        "street": "Robin Hills",
+        "city": "New Johnstad",
+        "state": "Pennsylvania",
+        "zip": "77476"
+    },
+    "contact": {
+        "phone": "5963743974",
+        "servicePhone": "800243615"
+    },
+    "birthday": "1974-13-11",
+    "ip": "58.189.64.104",
+    "foo": "bar",
+    "profile": {
+        "about": "Available life safe person would town. Top store deal add soon.\nEffort amount dream quite stuff system. Culture young early nation serious step. Prepare doctor end skill garden office.",
+        "bio": "Prevent pay PM represent become program because. East second sort road reason skill when. During never space low assume. Imagine all buy record."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
