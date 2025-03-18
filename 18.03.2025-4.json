@@ -1,0 +1,25 @@
+{
+    "name": "Mr. Michael Braun",
+    "age": 0,
+    "address": {
+        "street": "Simmons Squares",
+        "city": "Port Ronaldstad",
+        "state": "South Dakota",
+        "zip": "44550"
+    },
+    "contact": {
+        "phone": "682.304.8712",
+        "servicePhone": "800914822"
+    },
+    "birthday": "2025-14-01",
+    "ip": "62.71.188.90",
+    "foo": "bar",
+    "profile": {
+        "about": "Board within career off not. Direction bit blue during discussion. Hospital message quality five car.\nNight upon walk why message. Community film step people statement dream. Some treat today.",
+        "bio": "Public college word claim surface. Reach daughter management dog. Difference say reason new visit office public.\nFinancial son include must usually finally ball."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}
