@@ -1,0 +1,25 @@
+{
+    "name": "Jacqueline Levy",
+    "age": 71,
+    "address": {
+        "street": "Huff Garden",
+        "city": "South Karenfort",
+        "state": "Maryland",
+        "zip": "59407"
+    },
+    "contact": {
+        "phone": "2319715005",
+        "servicePhone": "800832939"
+    },
+    "birthday": "1954-30-11",
+    "ip": "98.221.184.30",
+    "foo": "bar",
+    "profile": {
+        "about": "Religious yeah while national. On white themselves maintain mission.\nCould soon officer successful song campaign buy. Once detail stay give perhaps place.",
+        "bio": "General own best understand. Born sit them pressure.\nFine owner student. Choice contain man lot attorney range answer service.\nTest quickly simply. War accept other although."
+    },
+    "currency": [
+        "SZL",
+        "Swazi lilangeni"
+    ]
+}
