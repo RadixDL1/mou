@@ -1,0 +1,25 @@
+{
+    "name": "Taylor Keller",
+    "age": 66,
+    "address": {
+        "street": "Erickson Points",
+        "city": "Sherrybury",
+        "state": "California",
+        "zip": "66148"
+    },
+    "contact": {
+        "phone": "808-819-6370x463",
+        "servicePhone": "800159957"
+    },
+    "birthday": "1959-28-11",
+    "ip": "203.101.99.161",
+    "foo": "bar",
+    "profile": {
+        "about": "Part many stage song. Fill lay other leave clearly either amount. Break religious fact by huge business.",
+        "bio": "Various discuss wind despite. Respond memory everything activity phone loss nice. Manage child series wall act teacher each white.\nDrive prove edge around. Again marriage him indicate."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
