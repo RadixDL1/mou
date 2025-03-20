@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Browning",
+    "age": 93,
+    "address": {
+        "street": "Hall Summit",
+        "city": "Stoneberg",
+        "state": "Indiana",
+        "zip": "14462"
+    },
+    "contact": {
+        "phone": "+1-283-709-6460",
+        "servicePhone": "800550360"
+    },
+    "birthday": "1932-07-07",
+    "ip": "193.241.7.112",
+    "foo": "bar",
+    "profile": {
+        "about": "Economic offer realize concern next. Break education home anything. Commercial call fine.\nEstablish actually take audience. Finally determine analysis herself plan Congress fill.",
+        "bio": "Friend stage fast woman. Catch surface choose where.\nRadio real type various dog ahead win state. Business common smile sister effort receive. Say tend growth yes story management investment."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
