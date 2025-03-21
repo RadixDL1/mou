@@ -1,0 +1,25 @@
+{
+    "name": "John Jackson",
+    "age": 32,
+    "address": {
+        "street": "Tim Courts",
+        "city": "Candiceborough",
+        "state": "South Dakota",
+        "zip": "38373"
+    },
+    "contact": {
+        "phone": "(929)253-7928x99806",
+        "servicePhone": "800318950"
+    },
+    "birthday": "1993-23-09",
+    "ip": "138.16.143.200",
+    "foo": "bar",
+    "profile": {
+        "about": "Happy beautiful cold voice throughout. Me project nor yard.\nSuccessful product by but drive. Simply fall no cut receive.\nMention you amount red part. Environment someone receive.",
+        "bio": "Author school end join bad fall hotel. Hard offer current their participant give.\nJoin cost memory. Resource stay member tree."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
