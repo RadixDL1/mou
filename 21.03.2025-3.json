@@ -1,0 +1,25 @@
+{
+    "name": "Alyssa Kim",
+    "age": 7,
+    "address": {
+        "street": "Raymond Meadows",
+        "city": "Port Williamburgh",
+        "state": "Iowa",
+        "zip": "49241"
+    },
+    "contact": {
+        "phone": "(908)944-5340x3877",
+        "servicePhone": "800468559"
+    },
+    "birthday": "2018-27-03",
+    "ip": "1.21.81.99",
+    "foo": "bar",
+    "profile": {
+        "about": "Letter nice you president however. Perform sure through we thus natural later civil.\nWould science fly second. Rock prevent though open guy program turn nor. Wish church know loss.",
+        "bio": "City make piece least animal impact near. Leg also cultural to.\nSon head safe moment."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}
