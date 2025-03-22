@@ -1,0 +1,25 @@
+{
+    "name": "Angel Sanchez",
+    "age": 27,
+    "address": {
+        "street": "Lee Spurs",
+        "city": "Mariafurt",
+        "state": "Virginia",
+        "zip": "98232"
+    },
+    "contact": {
+        "phone": "+1-408-223-5814x116",
+        "servicePhone": "800913567"
+    },
+    "birthday": "1998-25-04",
+    "ip": "173.130.110.134",
+    "foo": "bar",
+    "profile": {
+        "about": "Pull prepare population conference condition training. Create center where without couple.\nSecurity likely long institution wish paper weight mouth. One rich just receive person expert.",
+        "bio": "Home contain nice budget.\nOne even there. Strong everyone power if television other kitchen."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}
