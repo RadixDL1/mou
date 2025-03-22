@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Johnson",
+    "age": 31,
+    "address": {
+        "street": "Kevin Points",
+        "city": "Harveyton",
+        "state": "Texas",
+        "zip": "73889"
+    },
+    "contact": {
+        "phone": "001-325-767-5672",
+        "servicePhone": "800752758"
+    },
+    "birthday": "1994-21-06",
+    "ip": "185.211.139.255",
+    "foo": "bar",
+    "profile": {
+        "about": "Expert big money artist world than now. Best key wonder recent environmental between hit. Oil business something exactly shake.",
+        "bio": "Parent eat bad. Win feel state building Republican style. Discover skill provide wear section.\nPerform education sort treat behind. Maintain here baby let. Town here college movement live election."
+    },
+    "currency": [
+        "JMD",
+        "Jamaican dollar"
+    ]
+}
