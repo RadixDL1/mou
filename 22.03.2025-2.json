@@ -1,0 +1,25 @@
+{
+    "name": "Samuel Rodriguez",
+    "age": 76,
+    "address": {
+        "street": "Donald Path",
+        "city": "Lake Matthew",
+        "state": "Alabama",
+        "zip": "57295"
+    },
+    "contact": {
+        "phone": "935.568.2519x16167",
+        "servicePhone": "800087299"
+    },
+    "birthday": "1949-12-02",
+    "ip": "44.176.153.60",
+    "foo": "bar",
+    "profile": {
+        "about": "Forward PM medical four history stock. Couple structure best behind rest.\nNear call door be especially little. Technology always career game.",
+        "bio": "Admit three more establish employee suffer. Prove though age behind into. Player level school baby.\nGuess through national attack help guess. Bill add present shake son. If long seat worry speak."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}
