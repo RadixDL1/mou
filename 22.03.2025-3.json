@@ -1,0 +1,25 @@
+{
+    "name": "Richard Watkins",
+    "age": 28,
+    "address": {
+        "street": "Mcneil Mountains",
+        "city": "Lake Sherry",
+        "state": "Kansas",
+        "zip": "38913"
+    },
+    "contact": {
+        "phone": "+1-682-633-9074",
+        "servicePhone": "800684444"
+    },
+    "birthday": "1997-25-05",
+    "ip": "61.90.225.48",
+    "foo": "bar",
+    "profile": {
+        "about": "Country mission develop us. Total leave artist nothing process stock popular. Throw community tough employee college court quite.",
+        "bio": "That market drive tend focus pretty. Situation stock who act Mr record. Law product up point fall mother well."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}
