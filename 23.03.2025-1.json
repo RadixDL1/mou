@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Chang",
+    "age": 60,
+    "address": {
+        "street": "Horne Glen",
+        "city": "West Adam",
+        "state": "Nevada",
+        "zip": "64702"
+    },
+    "contact": {
+        "phone": "7755417660",
+        "servicePhone": "800982394"
+    },
+    "birthday": "1965-28-11",
+    "ip": "17.62.61.22",
+    "foo": "bar",
+    "profile": {
+        "about": "Herself edge person whom would. Letter term class hot. Smile whose north family age all.\nIndeed stand understand establish water. Agency house beautiful pressure. Anyone policy seem able letter last.",
+        "bio": "Religious maintain father he usually but. Ever firm girl fact station fear idea."
+    },
+    "currency": [
+        "ERN",
+        "Eritrean nakfa"
+    ]
+}
