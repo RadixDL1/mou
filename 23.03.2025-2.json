@@ -1,0 +1,25 @@
+{
+    "name": "Isabel Francis",
+    "age": 43,
+    "address": {
+        "street": "Dennis Extensions",
+        "city": "Kevinfort",
+        "state": "Nevada",
+        "zip": "71076"
+    },
+    "contact": {
+        "phone": "(540)425-8334",
+        "servicePhone": "800807449"
+    },
+    "birthday": "1982-28-05",
+    "ip": "145.8.234.177",
+    "foo": "bar",
+    "profile": {
+        "about": "Sing trade rule reveal think push. Station sing know local soldier wind human. Receive budget method.\nStop each foot memory. Deep teach southern front beautiful.",
+        "bio": "Detail right sport language course. Success single fish nor treatment race these.\nPeace back well meet wide. Issue data term."
+    },
+    "currency": [
+        "GYD",
+        "Guyanese dollar"
+    ]
+}
