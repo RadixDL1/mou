@@ -1,0 +1,25 @@
+{
+    "name": "Michael Martinez",
+    "age": 43,
+    "address": {
+        "street": "Lauren Vista",
+        "city": "Anthonymouth",
+        "state": "Georgia",
+        "zip": "73265"
+    },
+    "contact": {
+        "phone": "574-925-6230x1220",
+        "servicePhone": "800035470"
+    },
+    "birthday": "1982-02-05",
+    "ip": "47.206.46.115",
+    "foo": "bar",
+    "profile": {
+        "about": "Throw board song him sure care start will. Can seven area forward beautiful. Deal security property pattern.\nCall and case lead.",
+        "bio": "Agree check make reality. Determine three price TV manager. Book single college pretty action dark.\nForward street industry. Gas south trial animal side save world."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}
