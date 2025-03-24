@@ -1,0 +1,25 @@
+{
+    "name": "Scott Miller",
+    "age": 11,
+    "address": {
+        "street": "Osborn Brooks",
+        "city": "West Kyle",
+        "state": "Louisiana",
+        "zip": "27294"
+    },
+    "contact": {
+        "phone": "677.863.6225",
+        "servicePhone": "800598940"
+    },
+    "birthday": "2014-19-01",
+    "ip": "12.22.151.196",
+    "foo": "bar",
+    "profile": {
+        "about": "Training authority read he when effect approach. Well along design town.\nAction meeting writer actually. Dog blood receive. Market night improve much evening.",
+        "bio": "Follow evidence civil possible always stand still. Exactly nor production front wonder thousand.\nActually total lead third. Determine by pattern again."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}
