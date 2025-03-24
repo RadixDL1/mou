@@ -1,0 +1,25 @@
+{
+    "name": "Cassandra Burnett",
+    "age": 114,
+    "address": {
+        "street": "Fisher Mountain",
+        "city": "Christopherport",
+        "state": "Missouri",
+        "zip": "56137"
+    },
+    "contact": {
+        "phone": "468.848.7996x7412",
+        "servicePhone": "800702228"
+    },
+    "birthday": "1911-04-05",
+    "ip": "141.71.20.98",
+    "foo": "bar",
+    "profile": {
+        "about": "Seem risk Mr instead personal recently.\nAs reason serious action. Statement before finish. Admit beat yard result cup campaign few. Beyond training economy gun down.",
+        "bio": "Another add thank resource late range. Marriage suggest particular under financial paper. Shoulder five maybe exactly central."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}
