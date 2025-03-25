@@ -1,0 +1,25 @@
+{
+    "name": "Melinda Fowler",
+    "age": 99,
+    "address": {
+        "street": "Gerald Coves",
+        "city": "Port Ambermouth",
+        "state": "Texas",
+        "zip": "82613"
+    },
+    "contact": {
+        "phone": "865-249-0047x71239",
+        "servicePhone": "800777133"
+    },
+    "birthday": "1926-06-12",
+    "ip": "181.25.145.49",
+    "foo": "bar",
+    "profile": {
+        "about": "Trip player response all keep. Between less approach right program.\nCapital operation western drug floor trade. Daughter story man. Edge officer future new picture success.",
+        "bio": "History worry financial national present view example. Animal after later mind authority newspaper five.\nBoard morning others experience health own. Decision lot color quality outside series entire."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}
