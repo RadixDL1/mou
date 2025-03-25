@@ -1,0 +1,25 @@
+{
+    "name": "Teresa Cole",
+    "age": 18,
+    "address": {
+        "street": "Carpenter Spring",
+        "city": "Karenmouth",
+        "state": "South Carolina",
+        "zip": "47787"
+    },
+    "contact": {
+        "phone": "001-756-616-9518x092",
+        "servicePhone": "800493783"
+    },
+    "birthday": "2007-28-03",
+    "ip": "207.71.246.27",
+    "foo": "bar",
+    "profile": {
+        "about": "Provide affect good card much item. Fear behind herself hard.\nAgent reduce score threat treatment mouth example. Thought gun control film.",
+        "bio": "Lay party technology create rule respond. Newspaper land body black positive administration country family."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}
