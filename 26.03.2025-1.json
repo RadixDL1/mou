@@ -1,0 +1,25 @@
+{
+    "name": "Erin Gay",
+    "age": 33,
+    "address": {
+        "street": "Myers Ways",
+        "city": "Port Jonathan",
+        "state": "Nebraska",
+        "zip": "59153"
+    },
+    "contact": {
+        "phone": "001-412-410-6231x38061",
+        "servicePhone": "800151517"
+    },
+    "birthday": "1992-19-03",
+    "ip": "104.213.189.74",
+    "foo": "bar",
+    "profile": {
+        "about": "Decide important interview third man every of. Lead city think turn. Glass think eye gas within rule actually.",
+        "bio": "Indeed case realize. Top stock soon key arrive. Finish myself just the past sound bill.\nIndustry herself main. Reflect situation there general guess scene possible resource."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
