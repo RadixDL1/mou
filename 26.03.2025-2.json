@@ -1,0 +1,25 @@
+{
+    "name": "Stephen Ward",
+    "age": 98,
+    "address": {
+        "street": "Jones Canyon",
+        "city": "Owensburgh",
+        "state": "Louisiana",
+        "zip": "95423"
+    },
+    "contact": {
+        "phone": "862-991-7567x25837",
+        "servicePhone": "800060417"
+    },
+    "birthday": "1927-23-04",
+    "ip": "15.251.59.188",
+    "foo": "bar",
+    "profile": {
+        "about": "Cut decision class day institution explain. All message low military too certain then. Your just cover per serve second.",
+        "bio": "Send individual gas difference team morning. Science American serve fill billion.\nAt step rest fund. Capital firm respond challenge yes chair."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}
