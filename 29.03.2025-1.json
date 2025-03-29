@@ -1,0 +1,25 @@
+{
+    "name": "Adam Roberts",
+    "age": 19,
+    "address": {
+        "street": "Connie Ford",
+        "city": "Juanberg",
+        "state": "Connecticut",
+        "zip": "74901"
+    },
+    "contact": {
+        "phone": "001-493-316-1790x694",
+        "servicePhone": "800193429"
+    },
+    "birthday": "2006-28-06",
+    "ip": "37.22.72.122",
+    "foo": "bar",
+    "profile": {
+        "about": "Evening shoulder attorney mention man to this.\nAlready also question political us about eight consumer. Same rather early above parent president number.",
+        "bio": "Picture realize serve trouble. Government they lose suggest firm production people.\nOil six future forget. Box draw five act move grow. Situation movement stock decade."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
