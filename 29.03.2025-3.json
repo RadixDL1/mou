@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Woodard",
+    "age": 20,
+    "address": {
+        "street": "Murphy Plains",
+        "city": "West Kathleenfurt",
+        "state": "Indiana",
+        "zip": "49277"
+    },
+    "contact": {
+        "phone": "(343)423-4556x85964",
+        "servicePhone": "800683431"
+    },
+    "birthday": "2005-09-11",
+    "ip": "96.188.8.48",
+    "foo": "bar",
+    "profile": {
+        "about": "Professor administration side mean. Garden special involve I lead eat into. Green plan arm. Religious treat specific.\nPersonal minute draw throw key. Say power pretty agreement.",
+        "bio": "Court stay hot budget when kitchen. Turn wide company determine painting white.\nHowever of somebody claim dream arm respond. Serious from face military can herself put property. Because dark another."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
