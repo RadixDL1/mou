@@ -1,0 +1,25 @@
+{
+    "name": "Lori Sullivan",
+    "age": 32,
+    "address": {
+        "street": "Sean Rapids",
+        "city": "Wallacemouth",
+        "state": "Delaware",
+        "zip": "71600"
+    },
+    "contact": {
+        "phone": "819.982.5496x300",
+        "servicePhone": "800073950"
+    },
+    "birthday": "1993-01-01",
+    "ip": "46.174.216.32",
+    "foo": "bar",
+    "profile": {
+        "about": "Former their once above town force. Across apply thank side threat moment story continue. Capital art everyone eye sing.",
+        "bio": "Ok position significant side. Daughter tell exist news today keep record camera. Resource resource worry rich city.\nColor science else. Many other ask quickly. Rock area American fast kitchen put."
+    },
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}
