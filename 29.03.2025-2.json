@@ -1,0 +1,25 @@
+{
+    "name": "Kelly Wells",
+    "age": 29,
+    "address": {
+        "street": "Diane Highway",
+        "city": "Chadport",
+        "state": "Alabama",
+        "zip": "68024"
+    },
+    "contact": {
+        "phone": "(997)904-1783x058",
+        "servicePhone": "800388218"
+    },
+    "birthday": "1996-30-11",
+    "ip": "36.235.11.123",
+    "foo": "bar",
+    "profile": {
+        "about": "Front community boy new. Respond population rock onto spend bad walk.\nTeach page understand system sometimes. Information shake within deep follow rise window project.",
+        "bio": "Cut suggest edge pattern. Huge me many I last. Central everybody reason trip way.\nNature eat section film include finally involve. Garden sign movie recent."
+    },
+    "currency": [
+        "CNY",
+        "Renminbi"
+    ]
+}
