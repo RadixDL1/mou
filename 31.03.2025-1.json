@@ -1,0 +1,25 @@
+{
+    "name": "Patrick Johnson",
+    "age": 103,
+    "address": {
+        "street": "John Ramp",
+        "city": "Fordtown",
+        "state": "Hawaii",
+        "zip": "25102"
+    },
+    "contact": {
+        "phone": "419.923.7740",
+        "servicePhone": "800585201"
+    },
+    "birthday": "1922-07-05",
+    "ip": "223.55.152.145",
+    "foo": "bar",
+    "profile": {
+        "about": "Cover mind safe side discover consider part manager. Area Congress person approach true type.\nOften lawyer without. Discuss write and event south respond involve.",
+        "bio": "Similar nice member Republican. Force believe wrong will entire. Ready always development behavior nor others.\nBank pretty nearly. Yourself rock it management."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}
