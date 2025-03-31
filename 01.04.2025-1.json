@@ -1,0 +1,25 @@
+{
+    "name": "Mrs. Mackenzie Sullivan",
+    "age": 20,
+    "address": {
+        "street": "Burns Trail",
+        "city": "South Paigeland",
+        "state": "Maine",
+        "zip": "40653"
+    },
+    "contact": {
+        "phone": "5436165080",
+        "servicePhone": "800051625"
+    },
+    "birthday": "2005-03-07",
+    "ip": "20.229.126.26",
+    "foo": "bar",
+    "profile": {
+        "about": "Business form always over movie decade investment. Capital player seven north hold. No tree forward my city.\nTrue every also ever summer sea child.",
+        "bio": "Kitchen have article land left part class. Which account low care. College ever address he."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}
