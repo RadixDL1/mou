@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Davis",
+    "age": 24,
+    "address": {
+        "street": "Harry Heights",
+        "city": "Sharonton",
+        "state": "Minnesota",
+        "zip": "24465"
+    },
+    "contact": {
+        "phone": "001-634-998-1602x814",
+        "servicePhone": "800338587"
+    },
+    "birthday": "2001-29-06",
+    "ip": "85.254.152.99",
+    "foo": "bar",
+    "profile": {
+        "about": "Meet learn everybody lot those fine. Unit marriage protect hold face including safe. Low reach stop pull analysis though. Enter meeting management.",
+        "bio": "Job us apply out memory ahead several field. Raise hotel price western man second foreign. Almost suffer too camera participant."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
