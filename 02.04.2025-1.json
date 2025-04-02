@@ -1,0 +1,25 @@
+{
+    "name": "Edward Jefferson",
+    "age": 3,
+    "address": {
+        "street": "Lindsay Mountains",
+        "city": "Kellytown",
+        "state": "South Carolina",
+        "zip": "42333"
+    },
+    "contact": {
+        "phone": "+1-211-503-3084x59259",
+        "servicePhone": "800010773"
+    },
+    "birthday": "2022-09-11",
+    "ip": "187.142.172.71",
+    "foo": "bar",
+    "profile": {
+        "about": "Commercial total item.\nRecognize over drug shoulder. Movie piece choice move center weight. Wall may by health probably stay physical.",
+        "bio": "Order test stuff share view figure.\nChoice upon every detail rate determine. Young modern city beautiful consumer learn."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}
