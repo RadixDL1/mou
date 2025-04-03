@@ -1,0 +1,25 @@
+{
+    "name": "Nicholas Buck",
+    "age": 18,
+    "address": {
+        "street": "Baker Court",
+        "city": "Benjaminton",
+        "state": "Missouri",
+        "zip": "07694"
+    },
+    "contact": {
+        "phone": "971-931-2566x251",
+        "servicePhone": "800892303"
+    },
+    "birthday": "2007-18-09",
+    "ip": "160.248.71.131",
+    "foo": "bar",
+    "profile": {
+        "about": "Store speak space hard citizen study understand. Once one apply could actually sport hot. Change church nearly performance of where low.",
+        "bio": "No dog ground throughout. Million teacher adult president. Thought several blue let relate point baby set. Stop series media coach."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
