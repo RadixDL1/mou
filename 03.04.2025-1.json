@@ -1,0 +1,25 @@
+{
+    "name": "William Brown",
+    "age": 101,
+    "address": {
+        "street": "Jeffrey Terrace",
+        "city": "North Makayla",
+        "state": "Massachusetts",
+        "zip": "62618"
+    },
+    "contact": {
+        "phone": "001-317-818-9083x89498",
+        "servicePhone": "800735990"
+    },
+    "birthday": "1924-29-11",
+    "ip": "22.71.123.31",
+    "foo": "bar",
+    "profile": {
+        "about": "Less bank skin interest once yard often. Ability street seven shake PM beat story.\nNor others source beyond significant standard from. Fire control seek sort into remember.",
+        "bio": "Choose claim provide same. Marriage data radio pattern represent information."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
