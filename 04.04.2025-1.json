@@ -1,0 +1,25 @@
+{
+    "name": "Tamara Morrison",
+    "age": 22,
+    "address": {
+        "street": "Hendricks Parkway",
+        "city": "Lake Dean",
+        "state": "New Mexico",
+        "zip": "56997"
+    },
+    "contact": {
+        "phone": "(849)885-6995x5113",
+        "servicePhone": "800232796"
+    },
+    "birthday": "2003-25-07",
+    "ip": "55.226.118.140",
+    "foo": "bar",
+    "profile": {
+        "about": "Within grow couple majority heart anyone. These brother ok need whether many.\nTwo spring drop side hand these building. Speech time thank ahead blood million sure.",
+        "bio": "Along paper mission citizen everything animal down. Bed rock few agent civil many. Thousand adult even.\nEspecially black we open down. Low meeting court decide world free why."
+    },
+    "currency": [
+        "ERN",
+        "Eritrean nakfa"
+    ]
+}
