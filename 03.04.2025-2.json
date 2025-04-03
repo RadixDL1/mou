@@ -1,0 +1,25 @@
+{
+    "name": "Tammy Roberts",
+    "age": 81,
+    "address": {
+        "street": "Marissa Park",
+        "city": "Paulfurt",
+        "state": "Arizona",
+        "zip": "52794"
+    },
+    "contact": {
+        "phone": "+1-534-941-7866x61386",
+        "servicePhone": "800282105"
+    },
+    "birthday": "1944-18-08",
+    "ip": "70.38.176.20",
+    "foo": "bar",
+    "profile": {
+        "about": "Wrong visit national everybody media family maintain. Structure take speech similar major spring.\nExpect read pretty. Science various history produce among.",
+        "bio": "Glass too benefit house. Information challenge gun even.\nAudience full decide senior rise. Share build range approach hour understand production family."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}
