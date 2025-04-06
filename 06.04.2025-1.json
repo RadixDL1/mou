@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Finley",
+    "age": 53,
+    "address": {
+        "street": "Gray Ranch",
+        "city": "Port Juanmouth",
+        "state": "Massachusetts",
+        "zip": "89106"
+    },
+    "contact": {
+        "phone": "458-311-1856x0085",
+        "servicePhone": "800866460"
+    },
+    "birthday": "1972-23-05",
+    "ip": "208.15.121.4",
+    "foo": "bar",
+    "profile": {
+        "about": "Town himself north ready. Sometimes assume tax address institution. Response really together increase.\nRate live get ground leg forget. Growth police provide likely moment turn reason.",
+        "bio": "Matter exactly building why. Bank play into big. Under father would theory half feeling task. Check where poor indicate upon forward."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
