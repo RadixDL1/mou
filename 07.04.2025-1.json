@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Clark",
+    "age": 1,
+    "address": {
+        "street": "Robinson Lights",
+        "city": "New Michelle",
+        "state": "Arkansas",
+        "zip": "84090"
+    },
+    "contact": {
+        "phone": "712-861-0376",
+        "servicePhone": "800617801"
+    },
+    "birthday": "2024-20-12",
+    "ip": "182.39.177.151",
+    "foo": "bar",
+    "profile": {
+        "about": "Than just according certainly for she resource. Real medical compare trade crime. Detail common cause society.\nMore hit stuff skill. Me nearly maintain water why relate remain.",
+        "bio": "Record forget cultural issue couple amount. Prepare act nature should fine time pretty. Weight six we."
+    },
+    "currency": [
+        "GTQ",
+        "Guatemalan quetzal"
+    ]
+}
