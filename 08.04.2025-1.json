@@ -1,0 +1,25 @@
+{
+    "name": "Troy Oneal",
+    "age": 17,
+    "address": {
+        "street": "Lopez Locks",
+        "city": "Karaview",
+        "state": "Alaska",
+        "zip": "49756"
+    },
+    "contact": {
+        "phone": "5368423684",
+        "servicePhone": "800924663"
+    },
+    "birthday": "2008-06-12",
+    "ip": "211.9.161.54",
+    "foo": "bar",
+    "profile": {
+        "about": "Tonight service effort picture general once business. Ago investment have wish.\nInclude most special can like general sign.",
+        "bio": "Mouth local class throw. Serve time home family fill finally science.\nAnyone only as seven poor total. Against world something cut paper civil."
+    },
+    "currency": [
+        "TND",
+        "Tunisian dinar"
+    ]
+}
