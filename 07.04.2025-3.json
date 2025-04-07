@@ -1,0 +1,25 @@
+{
+    "name": "Michael Thompson",
+    "age": 59,
+    "address": {
+        "street": "Ryan Drive",
+        "city": "Port Jasmineport",
+        "state": "Hawaii",
+        "zip": "35375"
+    },
+    "contact": {
+        "phone": "696.882.2417",
+        "servicePhone": "800907015"
+    },
+    "birthday": "1966-16-12",
+    "ip": "176.200.221.214",
+    "foo": "bar",
+    "profile": {
+        "about": "A business should bank name PM. Property question citizen able. Important use morning carry community.",
+        "bio": "Eight side consumer available election analysis sell truth. Him lot fast television company. Guess environment particularly computer enough article maybe."
+    },
+    "currency": [
+        "SZL",
+        "Swazi lilangeni"
+    ]
+}
