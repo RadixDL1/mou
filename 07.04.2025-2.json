@@ -1,0 +1,25 @@
+{
+    "name": "Nicholas Mills",
+    "age": 100,
+    "address": {
+        "street": "Bryan Burgs",
+        "city": "Port Robertomouth",
+        "state": "Iowa",
+        "zip": "51542"
+    },
+    "contact": {
+        "phone": "377-864-2860",
+        "servicePhone": "800289147"
+    },
+    "birthday": "1925-02-04",
+    "ip": "81.231.120.253",
+    "foo": "bar",
+    "profile": {
+        "about": "Read recently their wear kid act particular. Appear improve safe. Support six set ball prevent director necessary.\nBeat check safe save guess produce. Very conference its fish.",
+        "bio": "Suddenly threat year same become pressure forget. Especially firm theory production dark research. Nature value state two speech gun bank."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
