@@ -1,0 +1,25 @@
+{
+    "name": "Jeremy Hayes",
+    "age": 97,
+    "address": {
+        "street": "Bryan Freeway",
+        "city": "New Georgehaven",
+        "state": "Vermont",
+        "zip": "74561"
+    },
+    "contact": {
+        "phone": "+1-663-780-5075x18831",
+        "servicePhone": "800759012"
+    },
+    "birthday": "1928-25-09",
+    "ip": "39.148.138.66",
+    "foo": "bar",
+    "profile": {
+        "about": "Short fight not impact program nothing imagine. Dark fine five. Morning have wind develop family government leave human.",
+        "bio": "Population nice son include tax international. Culture art song opportunity me democratic.\nListen arrive knowledge off improve approach whatever. Generation hope above single."
+    },
+    "currency": [
+        "CDF",
+        "Congolese franc"
+    ]
+}
