@@ -1,0 +1,25 @@
+{
+    "name": "Cassie Jackson",
+    "age": 84,
+    "address": {
+        "street": "Torres Ford",
+        "city": "Hannahville",
+        "state": "Nebraska",
+        "zip": "44242"
+    },
+    "contact": {
+        "phone": "838-335-4574x32175",
+        "servicePhone": "800942294"
+    },
+    "birthday": "1941-16-04",
+    "ip": "144.19.94.117",
+    "foo": "bar",
+    "profile": {
+        "about": "Hope result change direction discussion history. Talk bill building pass. Though court girl force level land.",
+        "bio": "Trouble me short drug start.\nRealize rule will according find each. Class room in address building year state. Avoid money hope. Specific serious relate dream health white."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
