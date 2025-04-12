@@ -1,0 +1,25 @@
+{
+    "name": "Mary Smith",
+    "age": 33,
+    "address": {
+        "street": "Ronnie Roads",
+        "city": "East Jameshaven",
+        "state": "Alaska",
+        "zip": "04671"
+    },
+    "contact": {
+        "phone": "001-947-562-6724",
+        "servicePhone": "800863138"
+    },
+    "birthday": "1992-25-11",
+    "ip": "90.215.17.84",
+    "foo": "bar",
+    "profile": {
+        "about": "Republican and data. Treatment industry carry themselves once.\nThough age law loss. Call our six leader piece thank.",
+        "bio": "Statement thing deep interview remember listen. Area itself show. Option many thank never clear sure."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
