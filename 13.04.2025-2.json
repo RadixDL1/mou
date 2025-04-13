@@ -1,0 +1,25 @@
+{
+    "name": "Michael Richardson",
+    "age": 18,
+    "address": {
+        "street": "Bailey Lock",
+        "city": "Michaelton",
+        "state": "Vermont",
+        "zip": "44578"
+    },
+    "contact": {
+        "phone": "5056388812",
+        "servicePhone": "800343379"
+    },
+    "birthday": "2007-29-11",
+    "ip": "34.18.179.129",
+    "foo": "bar",
+    "profile": {
+        "about": "Senior serious purpose everyone soldier.\nBar black sing growth same than recognize. Wide our memory person.\nMove they account back hit. Night executive early environmental agent energy economy lay.",
+        "bio": "Six near whose agreement to us thousand. Together base exist citizen. So participant red task offer over. Even politics brother executive."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
