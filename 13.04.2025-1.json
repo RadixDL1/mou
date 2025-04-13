@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Ashley Carter MD",
+    "age": 63,
+    "address": {
+        "street": "Miller Oval",
+        "city": "Fieldsshire",
+        "state": "Alaska",
+        "zip": "88575"
+    },
+    "contact": {
+        "phone": "(924)580-5963x5685",
+        "servicePhone": "800407153"
+    },
+    "birthday": "1962-11-03",
+    "ip": "5.64.204.198",
+    "foo": "bar",
+    "profile": {
+        "about": "Skin debate such board plant. Rather present garden school present recent.",
+        "bio": "Bag care our low. Form something source however. Activity baby hard especially language.\nThroughout difference who table picture next pass."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
