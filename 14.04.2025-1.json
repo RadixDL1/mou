@@ -1,0 +1,25 @@
+{
+    "name": "Eric Bruce",
+    "age": 84,
+    "address": {
+        "street": "Wood Point",
+        "city": "Lake Kurt",
+        "state": "Iowa",
+        "zip": "54162"
+    },
+    "contact": {
+        "phone": "(703)623-4390",
+        "servicePhone": "800052235"
+    },
+    "birthday": "1941-13-04",
+    "ip": "198.255.120.196",
+    "foo": "bar",
+    "profile": {
+        "about": "The seem senior easy right. Report college during deal camera realize his participant. Several use fire specific generation.",
+        "bio": "Describe season any fly office. Prepare like water section.\nInvolve development eat accept cold attack attack. Structure evidence quite development so. Leg several energy Democrat their."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}
