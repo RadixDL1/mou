@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Mcdaniel",
+    "age": 14,
+    "address": {
+        "street": "Kim Streets",
+        "city": "South Danaland",
+        "state": "Nebraska",
+        "zip": "87610"
+    },
+    "contact": {
+        "phone": "219-591-6161x49210",
+        "servicePhone": "800484539"
+    },
+    "birthday": "2011-02-07",
+    "ip": "7.176.158.243",
+    "foo": "bar",
+    "profile": {
+        "about": "Second trade participant impact walk result fund. Rise former audience vote.\nAgent fight century decade. Dinner treatment son catch national according.",
+        "bio": "Power manager than within class. Sound natural term president. Radio officer plant weight over number conference."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
