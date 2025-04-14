@@ -1,0 +1,25 @@
+{
+    "name": "Robert Davis",
+    "age": 24,
+    "address": {
+        "street": "Andrew Summit",
+        "city": "East Christopher",
+        "state": "North Carolina",
+        "zip": "77160"
+    },
+    "contact": {
+        "phone": "+1-470-514-6225x1211",
+        "servicePhone": "800838514"
+    },
+    "birthday": "2001-20-05",
+    "ip": "142.241.125.218",
+    "foo": "bar",
+    "profile": {
+        "about": "Age thought build could certain fact foot. Model stand usually boy. Body realize vote later concern involve. Wear from environment hope rather particularly or break.",
+        "bio": "Find treatment join. Prove focus small entire common center.\nMake food lead report lose tax worry decision. Smile rise capital event reality pick affect.\nFoot worry can policy."
+    },
+    "currency": [
+        "BWP",
+        "Botswana pula"
+    ]
+}
