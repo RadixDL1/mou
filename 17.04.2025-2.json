@@ -1,0 +1,25 @@
+{
+    "name": "Jimmy Stanley",
+    "age": 24,
+    "address": {
+        "street": "Michael Green",
+        "city": "West Suzannemouth",
+        "state": "New Mexico",
+        "zip": "60886"
+    },
+    "contact": {
+        "phone": "559-257-7826x372",
+        "servicePhone": "800711632"
+    },
+    "birthday": "2001-23-04",
+    "ip": "187.127.29.76",
+    "foo": "bar",
+    "profile": {
+        "about": "Discover present top miss smile bill PM. Cost traditional mind upon.\nFar explain beat cover of benefit. Simply too reflect expect public. Nothing enjoy author name treatment something.",
+        "bio": "Edge reduce nor. Road give nor as. Spend produce gas.\nRace expect inside trial number. Above evidence show.\nTop production major major pick respond tree. Condition stuff individual run."
+    },
+    "currency": [
+        "VUV",
+        "Vanuatu vatu"
+    ]
+}
