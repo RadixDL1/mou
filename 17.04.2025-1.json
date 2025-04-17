@@ -1,0 +1,25 @@
+{
+    "name": "Kathleen Crane",
+    "age": 75,
+    "address": {
+        "street": "Weber Track",
+        "city": "East Elizabeth",
+        "state": "Virginia",
+        "zip": "44746"
+    },
+    "contact": {
+        "phone": "001-796-525-4300x3442",
+        "servicePhone": "800976353"
+    },
+    "birthday": "1950-07-12",
+    "ip": "45.30.125.194",
+    "foo": "bar",
+    "profile": {
+        "about": "Hear stage bar human close president. Firm difficult purpose simply successful be stuff. Whose wind still.",
+        "bio": "Audience hundred ready matter into soldier. She discover guy defense call page perform. Wind degree rich seat build."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}
