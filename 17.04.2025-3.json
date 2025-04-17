@@ -1,0 +1,25 @@
+{
+    "name": "Eric Bennett",
+    "age": 112,
+    "address": {
+        "street": "Troy Plaza",
+        "city": "Lake Amanda",
+        "state": "Wyoming",
+        "zip": "00736"
+    },
+    "contact": {
+        "phone": "585.357.8907",
+        "servicePhone": "800183453"
+    },
+    "birthday": "1913-11-11",
+    "ip": "133.111.99.174",
+    "foo": "bar",
+    "profile": {
+        "about": "He rule scene indeed every week. Yeah catch religious traditional skin. Agency structure sell hospital.\nAhead age item meeting agreement occur decision wonder. Management range car say doctor.",
+        "bio": "Ask catch data floor. Physical free yet require that.\nWhom sit someone. Top low reduce together together next. Design hospital other."
+    },
+    "currency": [
+        "TMT",
+        "Turkmenistan manat"
+    ]
+}
