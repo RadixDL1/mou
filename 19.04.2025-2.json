@@ -1,0 +1,25 @@
+{
+    "name": "Kristopher Hamilton",
+    "age": 12,
+    "address": {
+        "street": "Doyle View",
+        "city": "Laurahaven",
+        "state": "Hawaii",
+        "zip": "73990"
+    },
+    "contact": {
+        "phone": "3372420090",
+        "servicePhone": "800030573"
+    },
+    "birthday": "2013-21-05",
+    "ip": "38.103.167.253",
+    "foo": "bar",
+    "profile": {
+        "about": "Weight level often put several anything.\nPoint itself mother between. Safe blood college.\nFirst blood firm mean left cup red. Reduce simply land owner own. You race single budget trial focus little.",
+        "bio": "Big person similar six training deep owner plan. Number concern wide it economic way after manage. Conference down father defense lose end very."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
