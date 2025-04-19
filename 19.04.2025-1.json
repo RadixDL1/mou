@@ -1,0 +1,25 @@
+{
+    "name": "Douglas Peterson",
+    "age": 6,
+    "address": {
+        "street": "Davis Well",
+        "city": "Campbellchester",
+        "state": "Massachusetts",
+        "zip": "64647"
+    },
+    "contact": {
+        "phone": "001-667-752-1307x747",
+        "servicePhone": "800681060"
+    },
+    "birthday": "2019-19-05",
+    "ip": "100.15.68.104",
+    "foo": "bar",
+    "profile": {
+        "about": "Fish recognize success star son nature agency. Movie administration dinner. Tv north less poor push school. Daughter family student money above baby.",
+        "bio": "Address then collection attorney small. Article meet turn enough action. After establish what none city."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}
