@@ -1,0 +1,25 @@
+{
+    "name": "Karen Clark",
+    "age": 56,
+    "address": {
+        "street": "Lin Cliffs",
+        "city": "South Travis",
+        "state": "Wisconsin",
+        "zip": "91677"
+    },
+    "contact": {
+        "phone": "690.599.4135",
+        "servicePhone": "800916604"
+    },
+    "birthday": "1969-27-05",
+    "ip": "210.248.96.69",
+    "foo": "bar",
+    "profile": {
+        "about": "Man when to. Notice do kitchen war newspaper exactly. Kid this relationship carry now huge these.\nCollege stay talk such board arrive. Name white significant produce.",
+        "bio": "Hear serve experience society. Drop strategy third certain material politics example.\nPush while free quickly. Network between list term. Few free performance Mrs above ago some answer."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}
