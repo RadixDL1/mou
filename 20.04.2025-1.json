@@ -1,0 +1,25 @@
+{
+    "name": "Casey May",
+    "age": 16,
+    "address": {
+        "street": "Lee Ports",
+        "city": "Batestown",
+        "state": "Tennessee",
+        "zip": "27941"
+    },
+    "contact": {
+        "phone": "(376)698-9469",
+        "servicePhone": "800973392"
+    },
+    "birthday": "2009-27-10",
+    "ip": "215.157.188.76",
+    "foo": "bar",
+    "profile": {
+        "about": "Live reach season list cost. Theory together present security organization serious night.",
+        "bio": "Serve party customer certain hospital. Capital better similar during prepare on spend short. Main dark fly resource simply weight light. Loss threat break have bar me skill."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}
