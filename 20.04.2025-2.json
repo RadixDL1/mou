@@ -1,0 +1,25 @@
+{
+    "name": "Robert Lee",
+    "age": 99,
+    "address": {
+        "street": "Anderson Forge",
+        "city": "Garciaview",
+        "state": "Montana",
+        "zip": "21152"
+    },
+    "contact": {
+        "phone": "370-730-0170x23752",
+        "servicePhone": "800014371"
+    },
+    "birthday": "1926-18-10",
+    "ip": "91.68.83.255",
+    "foo": "bar",
+    "profile": {
+        "about": "Successful play administration character. Action themselves citizen bill.\nBusiness after true wind. College behind exist act enter center.",
+        "bio": "Attention room others drop must social.\nPattern structure around yeah just brother development. Affect act eye partner probably condition."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
