@@ -1,0 +1,25 @@
+{
+    "name": "Rhonda Smith",
+    "age": 61,
+    "address": {
+        "street": "Harris Glen",
+        "city": "Donnamouth",
+        "state": "South Carolina",
+        "zip": "34998"
+    },
+    "contact": {
+        "phone": "448.362.5964x346",
+        "servicePhone": "800911777"
+    },
+    "birthday": "1964-15-12",
+    "ip": "85.106.146.24",
+    "foo": "bar",
+    "profile": {
+        "about": "Mrs so successful rest. Along past resource good whether toward.\nPopulation region involve each suddenly action even. Hot laugh certain him who.",
+        "bio": "Five TV deal common some until never. Stand knowledge oil line idea join imagine area. Price evidence style huge black give.\nLive test deal money talk plant. According ten board record father sport."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}
