@@ -1,0 +1,25 @@
+{
+    "name": "Manuel Gonzalez",
+    "age": 46,
+    "address": {
+        "street": "Connie Lock",
+        "city": "Andersenside",
+        "state": "Indiana",
+        "zip": "19499"
+    },
+    "contact": {
+        "phone": "001-939-231-4232x40869",
+        "servicePhone": "800554863"
+    },
+    "birthday": "1979-10-04",
+    "ip": "214.132.171.21",
+    "foo": "bar",
+    "profile": {
+        "about": "Song stop economy detail budget look year office. Finally suddenly home save together. Must sea three west organization compare toward. Serious meeting suffer trial compare sometimes.",
+        "bio": "Policy when close evening never magazine material. History call collection size skill.\nAnd cup issue hope realize prepare question. Effect fish interview reality create."
+    },
+    "currency": [
+        "KGS",
+        "Kyrgyzstani som"
+    ]
+}
