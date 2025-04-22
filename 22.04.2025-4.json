@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Miller",
+    "age": 49,
+    "address": {
+        "street": "Wright Forest",
+        "city": "Arellanoside",
+        "state": "South Carolina",
+        "zip": "90273"
+    },
+    "contact": {
+        "phone": "8074019177",
+        "servicePhone": "800200556"
+    },
+    "birthday": "1976-22-08",
+    "ip": "203.54.194.173",
+    "foo": "bar",
+    "profile": {
+        "about": "Find arrive force home last city. Base another maintain last stage thank. Book agency husband way she.",
+        "bio": "Teach letter item whatever. Customer usually land country leader try. Production soldier idea style.\nDegree talk five deal most how marriage data. Beyond who matter attorney billion care."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}
