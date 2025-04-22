@@ -1,0 +1,25 @@
+{
+    "name": "Caleb Mcfarland",
+    "age": 33,
+    "address": {
+        "street": "Kathryn View",
+        "city": "Nguyentown",
+        "state": "Missouri",
+        "zip": "38572"
+    },
+    "contact": {
+        "phone": "+1-962-352-2521x6510",
+        "servicePhone": "800150002"
+    },
+    "birthday": "1992-06-12",
+    "ip": "171.234.217.227",
+    "foo": "bar",
+    "profile": {
+        "about": "Hold provide more room. Us option bit expect.\nStaff main none worker. Support yourself religious interest drug manage reduce especially.",
+        "bio": "Present west heavy pattern. Cause go star allow policy. Discuss politics suggest hard above race election.\nProgram politics last black.\nRate continue bad respond within. Charge less word throughout."
+    },
+    "currency": [
+        "PAB",
+        "Panamanian balboa"
+    ]
+}
