@@ -1,0 +1,25 @@
+{
+    "name": "John Travis",
+    "age": 62,
+    "address": {
+        "street": "Connie Meadow",
+        "city": "Montgomerybury",
+        "state": "Texas",
+        "zip": "03506"
+    },
+    "contact": {
+        "phone": "2647195568",
+        "servicePhone": "800966090"
+    },
+    "birthday": "1963-07-04",
+    "ip": "138.57.114.238",
+    "foo": "bar",
+    "profile": {
+        "about": "Local approach kid few after event late. Appear real ability important. Less maybe this kind act describe hospital. Gas home way discuss.",
+        "bio": "Early would there management very watch instead clear. Main crime risk field.\nHusband land sell feel short. Defense baby president image little. Friend ball majority country first."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
