@@ -1,0 +1,25 @@
+{
+    "name": "Cynthia Lewis",
+    "age": 45,
+    "address": {
+        "street": "Beasley Fords",
+        "city": "Bryanfurt",
+        "state": "Maine",
+        "zip": "74910"
+    },
+    "contact": {
+        "phone": "001-565-448-7039x8136",
+        "servicePhone": "800118960"
+    },
+    "birthday": "1980-18-01",
+    "ip": "128.126.138.204",
+    "foo": "bar",
+    "profile": {
+        "about": "Point upon face chance light product action. Word our energy goal everybody bill. Near collection theory east east red of.\nSpeak shoulder describe yes investment.",
+        "bio": "War positive help carry prove play husband. Color option enter no improve increase Mrs. Against truth real material.\nBeyond soldier how hundred respond between less. Heart rest produce or trial note."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}
