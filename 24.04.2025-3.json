@@ -1,0 +1,25 @@
+{
+    "name": "Sheri Lyons",
+    "age": 50,
+    "address": {
+        "street": "Donaldson Forks",
+        "city": "East Deannaton",
+        "state": "Wyoming",
+        "zip": "97811"
+    },
+    "contact": {
+        "phone": "+1-357-690-5444x431",
+        "servicePhone": "800907464"
+    },
+    "birthday": "1975-27-09",
+    "ip": "35.139.1.111",
+    "foo": "bar",
+    "profile": {
+        "about": "Talk system difficult fall speech. Bar international whom word yard serious both.\nSeries short happy fast hundred defense. Yeah idea our because newspaper enjoy. Art sure listen.",
+        "bio": "Ago feel ten such deep himself rate. Share decade share.\nDrop stay cover explain. Commercial address such he possible."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}
