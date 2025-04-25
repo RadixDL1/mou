@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Bishop",
+    "age": 17,
+    "address": {
+        "street": "Walker Ridges",
+        "city": "West Morganport",
+        "state": "Virginia",
+        "zip": "17272"
+    },
+    "contact": {
+        "phone": "(231)374-2969",
+        "servicePhone": "800945202"
+    },
+    "birthday": "2008-15-05",
+    "ip": "78.30.56.99",
+    "foo": "bar",
+    "profile": {
+        "about": "Produce protect sign part father. No add local involve deep economy from. Name blue treat home describe.\nExist carry born list break see. Sound ever by new although experience eight.",
+        "bio": "Or push group difference easy. Drive drive human rise still between. City feel task.\nFamily way forget describe person action. Turn party result seven believe. Base main action blue international."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
