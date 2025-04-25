@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Cordova",
+    "age": 75,
+    "address": {
+        "street": "Dixon Run",
+        "city": "Sullivanbury",
+        "state": "North Carolina",
+        "zip": "88534"
+    },
+    "contact": {
+        "phone": "(953)406-9625x601",
+        "servicePhone": "800962586"
+    },
+    "birthday": "1950-04-12",
+    "ip": "144.109.82.11",
+    "foo": "bar",
+    "profile": {
+        "about": "Character just most true education. Congress race mind face.\nAgency these you course free.\nAttention where catch nation service. Radio statement left where music administration minute.",
+        "bio": "Save make office simple involve several and. Economic service trouble modern claim prevent. Claim event when daughter different."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
