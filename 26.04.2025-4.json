@@ -1,0 +1,25 @@
+{
+    "name": "Jacqueline Lane",
+    "age": 108,
+    "address": {
+        "street": "Smith Trail",
+        "city": "Williamsburgh",
+        "state": "Mississippi",
+        "zip": "64421"
+    },
+    "contact": {
+        "phone": "(351)339-4346x2485",
+        "servicePhone": "800488412"
+    },
+    "birthday": "1917-09-02",
+    "ip": "206.66.17.222",
+    "foo": "bar",
+    "profile": {
+        "about": "Business current woman consider might health. Food base television character short detail much.\nMessage very describe per especially mind. And government pressure rise.",
+        "bio": "Still half music teach. Fund generation relationship save citizen knowledge management fund. Seat purpose chance management town improve recent but."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}
