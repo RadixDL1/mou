@@ -1,0 +1,25 @@
+{
+    "name": "Jeremy Bird",
+    "age": 38,
+    "address": {
+        "street": "Gonzales Pines",
+        "city": "Fernandezmouth",
+        "state": "Colorado",
+        "zip": "71475"
+    },
+    "contact": {
+        "phone": "001-561-261-6467x211",
+        "servicePhone": "800731221"
+    },
+    "birthday": "1987-25-01",
+    "ip": "2.196.174.25",
+    "foo": "bar",
+    "profile": {
+        "about": "Former song public anything maybe medical. Either animal he.\nMay once option billion. Tree product wall. Training response main green first cell practice.",
+        "bio": "Community partner market financial him support. Themselves there call.\nInvolve offer time station floor. Western traditional event bank."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
