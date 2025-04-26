@@ -1,0 +1,25 @@
+{
+    "name": "David Spence",
+    "age": 73,
+    "address": {
+        "street": "Scott Oval",
+        "city": "New Craig",
+        "state": "Oklahoma",
+        "zip": "57185"
+    },
+    "contact": {
+        "phone": "+1-431-422-5476",
+        "servicePhone": "800816142"
+    },
+    "birthday": "1952-23-11",
+    "ip": "149.45.114.7",
+    "foo": "bar",
+    "profile": {
+        "about": "How guess care among. Lead customer option list entire year.\nFactor pick plant available collection if. Instead lay spring simply child thank commercial. Situation director stand.",
+        "bio": "Population hospital quickly score. Interesting money stock authority way rather interest similar. Size pretty full degree one top face hear."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}
