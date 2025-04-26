@@ -1,0 +1,25 @@
+{
+    "name": "Marie Gates",
+    "age": 92,
+    "address": {
+        "street": "Kimberly Corner",
+        "city": "Lake Jason",
+        "state": "Delaware",
+        "zip": "32811"
+    },
+    "contact": {
+        "phone": "5787501290",
+        "servicePhone": "800412589"
+    },
+    "birthday": "1933-25-11",
+    "ip": "37.100.138.160",
+    "foo": "bar",
+    "profile": {
+        "about": "Certain Mrs Mr. Product pretty be number total.\nOften left mind could article. Finish expert child phone past. Score visit state create across. Station bill create nor name suggest animal box.",
+        "bio": "Discuss assume trade mission son magazine. Article better protect hotel. Include argue president resource.\nIt alone high understand. Upon three provide such."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
