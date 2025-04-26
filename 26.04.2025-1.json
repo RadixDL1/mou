@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Gonzalez",
+    "age": 100,
+    "address": {
+        "street": "Thompson Spring",
+        "city": "Lake Erik",
+        "state": "Oregon",
+        "zip": "67413"
+    },
+    "contact": {
+        "phone": "948.793.9426x72312",
+        "servicePhone": "800288600"
+    },
+    "birthday": "1925-17-12",
+    "ip": "157.42.213.205",
+    "foo": "bar",
+    "profile": {
+        "about": "Program kind manager try kid memory single. Daughter large star standard trade process above. Morning stand design mention.",
+        "bio": "Network tree than billion. Source term up opportunity test during. Recent check help bank.\nSocial easy tough bring lot throw himself. Especially employee knowledge sea eight."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}
