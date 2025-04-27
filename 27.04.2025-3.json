@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Moore",
+    "age": 2,
+    "address": {
+        "street": "Taylor Knoll",
+        "city": "Lake Amanda",
+        "state": "Texas",
+        "zip": "21526"
+    },
+    "contact": {
+        "phone": "384.334.4047",
+        "servicePhone": "800380275"
+    },
+    "birthday": "2023-08-11",
+    "ip": "9.163.165.105",
+    "foo": "bar",
+    "profile": {
+        "about": "Moment TV continue allow myself hundred. Energy much agree. Movie relate pattern road whom peace.\nNewspaper beat south outside cover view. Window himself reflect thousand summer.",
+        "bio": "Exactly grow require. Begin serious television attack.\nSize really camera. Really study through. Among store movement yes. Thing out watch board response."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}
