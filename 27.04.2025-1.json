@@ -1,0 +1,25 @@
+{
+    "name": "Kenneth Cunningham",
+    "age": 91,
+    "address": {
+        "street": "William Estate",
+        "city": "West Mary",
+        "state": "Ohio",
+        "zip": "46154"
+    },
+    "contact": {
+        "phone": "913-249-1659",
+        "servicePhone": "800396022"
+    },
+    "birthday": "1934-05-08",
+    "ip": "177.83.86.46",
+    "foo": "bar",
+    "profile": {
+        "about": "Leave step country letter. Stock able candidate lawyer establish.\nAnother current top team finally carry. Meet again call per view successful.",
+        "bio": "Live away measure. Up avoid government debate interesting. Understand city find involve.\nHotel return already collection face increase. Ready public defense. Cell nice program project quickly."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}
