@@ -1,0 +1,25 @@
+{
+    "name": "Angela Clayton",
+    "age": 9,
+    "address": {
+        "street": "Holmes Avenue",
+        "city": "North Andre",
+        "state": "Alabama",
+        "zip": "98910"
+    },
+    "contact": {
+        "phone": "640.556.3072",
+        "servicePhone": "800044999"
+    },
+    "birthday": "2016-30-07",
+    "ip": "71.165.100.99",
+    "foo": "bar",
+    "profile": {
+        "about": "Girl play activity kitchen perform stuff structure. Free identify lay exactly improve high attack home.\nCause picture and collection. War or itself local.",
+        "bio": "Certain meet then think. Likely time throw statement worker.\nList actually usually. Raise over visit various the because.\nDrive word give. Choose for something rock. Decision carry whatever."
+    },
+    "currency": [
+        "TMT",
+        "Turkmenistan manat"
+    ]
+}
