@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Strickland",
+    "age": 22,
+    "address": {
+        "street": "Antonio Prairie",
+        "city": "New Brandontown",
+        "state": "South Carolina",
+        "zip": "67243"
+    },
+    "contact": {
+        "phone": "001-856-496-7589x4476",
+        "servicePhone": "800704223"
+    },
+    "birthday": "2003-05-09",
+    "ip": "12.233.172.137",
+    "foo": "bar",
+    "profile": {
+        "about": "Company significant first far center decade consider. Garden hard force prove.",
+        "bio": "Energy report radio despite understand end his. Drop make daughter budget. Middle outside including already staff mother."
+    },
+    "currency": [
+        "LTL",
+        "Lithuanian litas"
+    ]
+}
