@@ -1,0 +1,25 @@
+{
+    "name": "David Flores",
+    "age": 77,
+    "address": {
+        "street": "Caroline Isle",
+        "city": "Annafort",
+        "state": "Maine",
+        "zip": "94246"
+    },
+    "contact": {
+        "phone": "(565)294-8750x93653",
+        "servicePhone": "800621137"
+    },
+    "birthday": "1948-07-02",
+    "ip": "209.209.22.30",
+    "foo": "bar",
+    "profile": {
+        "about": "Short president go try on. Choose education sometimes so management again.\nSerious they east fact worker daughter machine relationship. Environmental bed four choice break.",
+        "bio": "Take mention these away age behavior region. Item partner arm stand act subject.\nLeader really box dark blood."
+    },
+    "currency": [
+        "NZD",
+        "New Zealand dollar"
+    ]
+}
