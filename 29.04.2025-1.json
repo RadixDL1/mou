@@ -1,0 +1,25 @@
+{
+    "name": "Jesus Weaver",
+    "age": 64,
+    "address": {
+        "street": "Bautista River",
+        "city": "Lake Karina",
+        "state": "Wisconsin",
+        "zip": "31145"
+    },
+    "contact": {
+        "phone": "(203)614-0455",
+        "servicePhone": "800078272"
+    },
+    "birthday": "1961-01-07",
+    "ip": "133.230.70.136",
+    "foo": "bar",
+    "profile": {
+        "about": "Lay air thank finish join either turn perhaps. Game play something leg. Already unit fear break left agreement.",
+        "bio": "Food study share natural travel. Push probably watch staff wait level pattern help. Past walk event gun.\nSafe dark probably despite."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
