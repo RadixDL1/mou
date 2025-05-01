@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Nguyen",
+    "age": 91,
+    "address": {
+        "street": "White Route",
+        "city": "Wallville",
+        "state": "Indiana",
+        "zip": "09438"
+    },
+    "contact": {
+        "phone": "+1-680-943-5804x9604",
+        "servicePhone": "800226046"
+    },
+    "birthday": "1934-17-07",
+    "ip": "149.133.102.199",
+    "foo": "bar",
+    "profile": {
+        "about": "Director stay away eat action main staff. I same line east almost.\nLine and offer national letter.\nSpace but true task decade. Notice school help base remember fear. Discover gas pattern under scene.",
+        "bio": "Eight know trial before campaign human. Away personal child director money itself. Physical less society magazine nation grow. Beyond blood well outside fish."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
