@@ -1,0 +1,25 @@
+{
+    "name": "Laura Spence",
+    "age": 24,
+    "address": {
+        "street": "Christopher Burg",
+        "city": "Carpenterton",
+        "state": "Alaska",
+        "zip": "54162"
+    },
+    "contact": {
+        "phone": "591-585-6293",
+        "servicePhone": "800706277"
+    },
+    "birthday": "2001-18-09",
+    "ip": "53.180.198.55",
+    "foo": "bar",
+    "profile": {
+        "about": "Medical six use some contain. Oil arm group civil hope. Office that almost keep child.\nAway top music maybe life high list certain. Few audience government who level.",
+        "bio": "Learn society thus when miss change. Why loss return consumer whose style.\nLoss body discuss medical professional. Form side each least opportunity. Nothing food final standard."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}
