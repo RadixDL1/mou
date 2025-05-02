@@ -1,0 +1,25 @@
+{
+    "name": "Paula Stewart",
+    "age": 12,
+    "address": {
+        "street": "Austin Court",
+        "city": "Port Ryanton",
+        "state": "Delaware",
+        "zip": "06144"
+    },
+    "contact": {
+        "phone": "(652)574-8245",
+        "servicePhone": "800971900"
+    },
+    "birthday": "2013-31-01",
+    "ip": "138.240.78.141",
+    "foo": "bar",
+    "profile": {
+        "about": "Democrat physical owner green bad. Wear young care if own. Choose economic whom money inside often.",
+        "bio": "Memory ground with subject allow sound. Trade yes blue read pick. Official sometimes available ahead oil poor."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
