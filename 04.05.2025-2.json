@@ -1,0 +1,25 @@
+{
+    "name": "Brett Braun",
+    "age": 71,
+    "address": {
+        "street": "Amber Hollow",
+        "city": "Port Cody",
+        "state": "New Jersey",
+        "zip": "76269"
+    },
+    "contact": {
+        "phone": "(632)885-8353x069",
+        "servicePhone": "800658173"
+    },
+    "birthday": "1954-17-04",
+    "ip": "215.21.165.255",
+    "foo": "bar",
+    "profile": {
+        "about": "Or idea hot doctor bag behind mention. Kitchen foreign difference charge bring Democrat couple.",
+        "bio": "Nation authority sort company draw reality. Center find under soldier common have role."
+    },
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}
