@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Thornton",
+    "age": 43,
+    "address": {
+        "street": "John Path",
+        "city": "Juanmouth",
+        "state": "Illinois",
+        "zip": "06857"
+    },
+    "contact": {
+        "phone": "001-212-226-2785x467",
+        "servicePhone": "800525383"
+    },
+    "birthday": "1982-06-09",
+    "ip": "69.77.43.164",
+    "foo": "bar",
+    "profile": {
+        "about": "Themselves American idea condition himself whole employee. Current executive help feeling hard. Indeed attention brother finish prevent spend tree read.",
+        "bio": "Team must only heavy example executive. Today decade officer.\nToday brother choose side film doctor performance door. Wife recent sit almost office today order."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
