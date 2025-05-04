@@ -1,0 +1,25 @@
+{
+    "name": "William Colon",
+    "age": 107,
+    "address": {
+        "street": "Daniels Shores",
+        "city": "South Pamelaton",
+        "state": "Hawaii",
+        "zip": "48264"
+    },
+    "contact": {
+        "phone": "947-430-4073x515",
+        "servicePhone": "800458674"
+    },
+    "birthday": "1918-15-11",
+    "ip": "68.4.254.144",
+    "foo": "bar",
+    "profile": {
+        "about": "Guy poor special cost. Girl establish specific camera.\nHusband responsibility method performance born wish move ago. Pretty sense would within. Most before although.",
+        "bio": "Mission in federal kitchen talk than. Budget than my figure.\nTerm begin certain same tax finish. When mention suffer air worker past college.\nIncrease key factor pattern role both point."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
