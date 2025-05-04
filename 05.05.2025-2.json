@@ -1,0 +1,25 @@
+{
+    "name": "Jonathan Williams",
+    "age": 6,
+    "address": {
+        "street": "Allen Meadow",
+        "city": "Underwoodshire",
+        "state": "Arkansas",
+        "zip": "89865"
+    },
+    "contact": {
+        "phone": "804.479.3688x089",
+        "servicePhone": "800313091"
+    },
+    "birthday": "2019-15-12",
+    "ip": "63.194.2.208",
+    "foo": "bar",
+    "profile": {
+        "about": "As suffer movie customer glass speak. New during audience bad including thank hundred.\nNecessary strong fund enough identify same. Several raise particular money policy.",
+        "bio": "Address these appear forward teacher tonight answer hand. Security seem him.\nSure audience born however. Bit nor these sister while sister. Little reduce listen mean impact other end actually."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}
