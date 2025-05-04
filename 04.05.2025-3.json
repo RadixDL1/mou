@@ -1,0 +1,25 @@
+{
+    "name": "William Weber",
+    "age": 58,
+    "address": {
+        "street": "Miller Glens",
+        "city": "Christianfort",
+        "state": "Kentucky",
+        "zip": "92174"
+    },
+    "contact": {
+        "phone": "2512874091",
+        "servicePhone": "800554986"
+    },
+    "birthday": "1967-05-10",
+    "ip": "207.239.176.207",
+    "foo": "bar",
+    "profile": {
+        "about": "International letter protect control.\nIf other scientist worker too clear.",
+        "bio": "Open late which box. Special choice value remember simple from. Account between attack seat dinner life.\nBase while imagine site end each skill. Only than dog their from general."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}
