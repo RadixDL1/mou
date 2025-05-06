@@ -1,0 +1,25 @@
+{
+    "name": "Mike Gross",
+    "age": 87,
+    "address": {
+        "street": "Reed Park",
+        "city": "South Kathy",
+        "state": "Mississippi",
+        "zip": "04139"
+    },
+    "contact": {
+        "phone": "540-525-6409",
+        "servicePhone": "800307205"
+    },
+    "birthday": "1938-01-08",
+    "ip": "78.88.36.151",
+    "foo": "bar",
+    "profile": {
+        "about": "Same should important live dream. Read fine fill single country building field. Across wall they.",
+        "bio": "Him require produce visit. Nothing yes name crime. Hour himself send anything do.\nMrs bar style any against. Sing condition million region different Democrat. Half usually notice control great tree."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}
