@@ -1,0 +1,25 @@
+{
+    "name": "Allen Clark",
+    "age": 77,
+    "address": {
+        "street": "Andrews Vista",
+        "city": "Lake Lisa",
+        "state": "Texas",
+        "zip": "83252"
+    },
+    "contact": {
+        "phone": "(687)935-2187",
+        "servicePhone": "800327366"
+    },
+    "birthday": "1948-03-08",
+    "ip": "206.3.200.57",
+    "foo": "bar",
+    "profile": {
+        "about": "Step kitchen bank me car thought million. Cause room professor on reveal maybe rest. Deep focus particularly.\nFeeling audience tonight shake item color do.",
+        "bio": "Boy southern painting recently finally. Thousand pattern decade government.\nWhere include everything difficult least. White join evening provide size hit audience.\nWhether about left."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
