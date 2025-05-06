@@ -1,0 +1,25 @@
+{
+    "name": "Marie Moore",
+    "age": 47,
+    "address": {
+        "street": "Huerta Plains",
+        "city": "Katrinaborough",
+        "state": "Mississippi",
+        "zip": "02761"
+    },
+    "contact": {
+        "phone": "+1-584-623-2328x161",
+        "servicePhone": "800567514"
+    },
+    "birthday": "1978-12-08",
+    "ip": "81.63.249.16",
+    "foo": "bar",
+    "profile": {
+        "about": "Feel step cause later feel majority. House left relate item produce total.\nTask against book employee simply religious front. Today power worker rather pull. Meet also then clearly nation reason.",
+        "bio": "Window any on indeed standard keep everything accept. Everyone side later today house. Heavy agency address police second shake both."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}
