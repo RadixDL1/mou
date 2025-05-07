@@ -1,0 +1,25 @@
+{
+    "name": "Sydney Jensen",
+    "age": 32,
+    "address": {
+        "street": "Morales Circle",
+        "city": "Jonathanview",
+        "state": "Maryland",
+        "zip": "20974"
+    },
+    "contact": {
+        "phone": "7125750519",
+        "servicePhone": "800323809"
+    },
+    "birthday": "1993-05-10",
+    "ip": "82.22.9.142",
+    "foo": "bar",
+    "profile": {
+        "about": "Style culture apply bank law. Different bank ago off ever difficult crime. Wall direction senior only leg debate administration.",
+        "bio": "Exactly anyone pressure red ability way. Try commercial table fill fire.\nEveryone bit ground artist citizen education structure. My interview choice seven wait require."
+    },
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}
