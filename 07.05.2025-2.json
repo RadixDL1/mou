@@ -1,0 +1,25 @@
+{
+    "name": "Kendra Chaney",
+    "age": 34,
+    "address": {
+        "street": "Christine Springs",
+        "city": "Karenview",
+        "state": "Iowa",
+        "zip": "70036"
+    },
+    "contact": {
+        "phone": "001-244-688-2067x58829",
+        "servicePhone": "800117019"
+    },
+    "birthday": "1991-28-11",
+    "ip": "166.115.162.188",
+    "foo": "bar",
+    "profile": {
+        "about": "Magazine blood very those three. Item purpose before ball have theory. Artist election thing rock right.",
+        "bio": "Within support degree bad yet green. Good art add example. Policy agency expect move.\nInterest wait then eight work food his live. Discussion outside attorney exactly media occur size."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}
