@@ -1,0 +1,25 @@
+{
+    "name": "Charles Collier",
+    "age": 90,
+    "address": {
+        "street": "Flowers Walks",
+        "city": "New Derek",
+        "state": "Mississippi",
+        "zip": "83579"
+    },
+    "contact": {
+        "phone": "+1-359-252-1161x0672",
+        "servicePhone": "800901650"
+    },
+    "birthday": "1935-28-12",
+    "ip": "131.107.20.164",
+    "foo": "bar",
+    "profile": {
+        "about": "Perhaps shoulder impact once idea. Lay degree amount image question.\nPower hour design use bring. Less stop production PM size.",
+        "bio": "These serious store like line feeling. Knowledge truth white week nation case where smile. Air notice none our into."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}
