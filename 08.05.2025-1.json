@@ -1,0 +1,25 @@
+{
+    "name": "James Weaver",
+    "age": 2,
+    "address": {
+        "street": "Ashley Fort",
+        "city": "Bishopberg",
+        "state": "Michigan",
+        "zip": "92839"
+    },
+    "contact": {
+        "phone": "940-712-6505",
+        "servicePhone": "800878863"
+    },
+    "birthday": "2023-05-11",
+    "ip": "158.198.182.202",
+    "foo": "bar",
+    "profile": {
+        "about": "Drug military whatever energy experience specific sell herself. Book live front official address heart. Capital forward current cost. Body bring cut suffer card.",
+        "bio": "Quickly number card four. Surface production different response some generation region most.\nAct front understand off.\nBehavior first would evidence dream. Turn loss ball like marriage."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
