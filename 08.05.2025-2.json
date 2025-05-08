@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Samantha Gross",
+    "age": 33,
+    "address": {
+        "street": "Leah Mills",
+        "city": "East Courtneyview",
+        "state": "Arkansas",
+        "zip": "56794"
+    },
+    "contact": {
+        "phone": "619-341-4437x75291",
+        "servicePhone": "800478190"
+    },
+    "birthday": "1992-31-12",
+    "ip": "222.19.102.196",
+    "foo": "bar",
+    "profile": {
+        "about": "Middle brother fish mention. Can study serious yourself. Perform behavior activity dog strong main.\nSort garden argue tough brother.",
+        "bio": "Wrong best leave natural cup society employee. Process protect say radio. Over another seat.\nAction though training staff talk cut. Serious arrive activity nor article present."
+    },
+    "currency": [
+        "XOF",
+        "West African CFA franc"
+    ]
+}
