@@ -1,0 +1,25 @@
+{
+    "name": "Gail Garcia",
+    "age": 43,
+    "address": {
+        "street": "Melissa Gateway",
+        "city": "Lake Melissa",
+        "state": "New Hampshire",
+        "zip": "61771"
+    },
+    "contact": {
+        "phone": "861-759-5032",
+        "servicePhone": "800666769"
+    },
+    "birthday": "1982-05-03",
+    "ip": "15.56.218.111",
+    "foo": "bar",
+    "profile": {
+        "about": "Produce but appear board fast. They foreign rather along or can bit. Color investment note the.",
+        "bio": "Serve management great effort teach area. Offer any other war success. Poor the represent serve.\nPerson tough decide laugh idea religious you write. Cost hold area."
+    },
+    "currency": [
+        "GIP",
+        "Gibraltar pound"
+    ]
+}
