@@ -1,0 +1,25 @@
+{
+    "name": "Alex Shelton",
+    "age": 28,
+    "address": {
+        "street": "Kyle Mews",
+        "city": "Carterville",
+        "state": "Oregon",
+        "zip": "70198"
+    },
+    "contact": {
+        "phone": "+1-511-592-4255x4768",
+        "servicePhone": "800281943"
+    },
+    "birthday": "1997-11-06",
+    "ip": "170.242.29.201",
+    "foo": "bar",
+    "profile": {
+        "about": "Partner quickly who. Environmental campaign task most without worry me involve.",
+        "bio": "Ahead study take you outside modern between. Fact matter represent drug agreement spring."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
