@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Foster",
+    "age": 106,
+    "address": {
+        "street": "Harrison Junction",
+        "city": "Martinhaven",
+        "state": "Tennessee",
+        "zip": "48631"
+    },
+    "contact": {
+        "phone": "8155649135",
+        "servicePhone": "800533205"
+    },
+    "birthday": "1919-16-08",
+    "ip": "42.155.228.133",
+    "foo": "bar",
+    "profile": {
+        "about": "Factor allow spend on herself politics as. National into campaign tax. Social bad number worker themselves partner beat. Adult simply answer mean maintain film look spend.",
+        "bio": "Program since late watch government sister financial. Process run down old give course."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
