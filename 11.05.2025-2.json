@@ -1,0 +1,25 @@
+{
+    "name": "Caitlin Taylor",
+    "age": 108,
+    "address": {
+        "street": "Kayla Prairie",
+        "city": "Lake Joyce",
+        "state": "Kansas",
+        "zip": "02202"
+    },
+    "contact": {
+        "phone": "(419)631-3812x3453",
+        "servicePhone": "800061502"
+    },
+    "birthday": "1917-31-12",
+    "ip": "192.76.113.36",
+    "foo": "bar",
+    "profile": {
+        "about": "Hear sound meet feel late professional. Seem treatment between culture center side.\nLaugh policy final own. Exist help foot benefit garden help beautiful career. Serve finally walk.",
+        "bio": "International newspaper so around fly Mr ball. Child something foreign should color avoid majority. Smile professor wife official step decide."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
