@@ -1,0 +1,25 @@
+{
+    "name": "Michael Russell",
+    "age": 83,
+    "address": {
+        "street": "Sharp Field",
+        "city": "Cummingsland",
+        "state": "Texas",
+        "zip": "26045"
+    },
+    "contact": {
+        "phone": "534.390.7239x558",
+        "servicePhone": "800007487"
+    },
+    "birthday": "1942-20-07",
+    "ip": "218.24.117.52",
+    "foo": "bar",
+    "profile": {
+        "about": "Officer state rise religious could. Oil cause stage always nation anything.",
+        "bio": "Deep various continue enter level participant probably. Personal keep use mean beyond themselves. Beyond strong close democratic PM success."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}
