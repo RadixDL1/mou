@@ -1,0 +1,25 @@
+{
+    "name": "Brandon Coffey",
+    "age": 91,
+    "address": {
+        "street": "Walsh Curve",
+        "city": "New Angela",
+        "state": "Oregon",
+        "zip": "10044"
+    },
+    "contact": {
+        "phone": "+1-516-559-7728x9861",
+        "servicePhone": "800391455"
+    },
+    "birthday": "1934-30-11",
+    "ip": "41.150.4.74",
+    "foo": "bar",
+    "profile": {
+        "about": "Seek event from whether. Sea central magazine. Read history result food.",
+        "bio": "Let probably law figure they decision. Measure upon actually pretty bed meeting. Dog conference property establish when source. Start care my."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
