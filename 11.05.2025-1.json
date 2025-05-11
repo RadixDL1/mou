@@ -1,0 +1,25 @@
+{
+    "name": "Hannah Mclaughlin",
+    "age": 62,
+    "address": {
+        "street": "Fisher Burg",
+        "city": "New Jonathanport",
+        "state": "Washington",
+        "zip": "78468"
+    },
+    "contact": {
+        "phone": "894.376.9016x0835",
+        "servicePhone": "800147469"
+    },
+    "birthday": "1963-22-10",
+    "ip": "195.42.134.48",
+    "foo": "bar",
+    "profile": {
+        "about": "Tree moment today age arm.\nPrice case serious sea career plant service. Between society soldier board red everything. Figure bank give official statement coach.",
+        "bio": "Despite measure road. That town lot different tree challenge any. Second raise gas likely information take doctor power.\nMake if decision beyond.\nShow relationship where feel rather."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
