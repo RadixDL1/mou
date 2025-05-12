@@ -1,0 +1,25 @@
+{
+    "name": "Justin Contreras",
+    "age": 83,
+    "address": {
+        "street": "Destiny Coves",
+        "city": "East David",
+        "state": "Vermont",
+        "zip": "64588"
+    },
+    "contact": {
+        "phone": "938.475.6849x834",
+        "servicePhone": "800143652"
+    },
+    "birthday": "1942-09-05",
+    "ip": "195.222.210.63",
+    "foo": "bar",
+    "profile": {
+        "about": "Whose cut hair figure north drop. Dog movement final talk college expert. Everything may drug piece inside serve.",
+        "bio": "Song within expert. Smile meeting assume. Herself including spring early she and case. Reach budget social anything college rule."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}
