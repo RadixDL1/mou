@@ -1,0 +1,25 @@
+{
+    "name": "Miranda Johnson",
+    "age": 15,
+    "address": {
+        "street": "Anderson Meadows",
+        "city": "South Alice",
+        "state": "Oklahoma",
+        "zip": "57625"
+    },
+    "contact": {
+        "phone": "001-648-745-5157x979",
+        "servicePhone": "800531610"
+    },
+    "birthday": "2010-12-05",
+    "ip": "110.192.105.229",
+    "foo": "bar",
+    "profile": {
+        "about": "According catch step. Economy star friend wall last nearly.\nRecently process seem. Moment each material present we design.\nMovie show draw garden center fire. Theory kid part threat into.",
+        "bio": "View art third behavior. Tonight movement manage end early dog.\nManage else environment spend lot recognize present. Bag fight hope change professional term power."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}
