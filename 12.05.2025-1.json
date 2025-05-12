@@ -1,0 +1,25 @@
+{
+    "name": "Cheryl Barnett",
+    "age": 87,
+    "address": {
+        "street": "Elizabeth Ports",
+        "city": "Traceyhaven",
+        "state": "South Carolina",
+        "zip": "80803"
+    },
+    "contact": {
+        "phone": "001-579-555-7692x66382",
+        "servicePhone": "800040827"
+    },
+    "birthday": "1938-02-06",
+    "ip": "45.174.102.138",
+    "foo": "bar",
+    "profile": {
+        "about": "Action back shoulder situation sign. Else happy television add grow must beautiful.\nCollection health necessary strategy interesting present tend.",
+        "bio": "Mind across piece face candidate. Government continue responsibility none property network question.\nTest since follow lose support impact. By economy customer fall."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}
