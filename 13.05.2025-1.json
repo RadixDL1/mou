@@ -1,0 +1,25 @@
+{
+    "name": "Alexander Parker",
+    "age": 51,
+    "address": {
+        "street": "Jones Islands",
+        "city": "Robinsonton",
+        "state": "Mississippi",
+        "zip": "42550"
+    },
+    "contact": {
+        "phone": "(236)329-3941",
+        "servicePhone": "800959317"
+    },
+    "birthday": "1974-20-07",
+    "ip": "19.151.105.19",
+    "foo": "bar",
+    "profile": {
+        "about": "Structure question individual themselves. Always paper cell all.\nFinancial mind help his these bag alone. Build science physical. Relate whole agreement upon your. Happy politics weight.",
+        "bio": "Care laugh traditional life vote everybody relationship effort. While upon term significant still ahead marriage. Knowledge feel window goal writer current."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
