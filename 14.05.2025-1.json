@@ -1,0 +1,25 @@
+{
+    "name": "Dana Lindsey",
+    "age": 69,
+    "address": {
+        "street": "Samantha Way",
+        "city": "East Robert",
+        "state": "Colorado",
+        "zip": "15415"
+    },
+    "contact": {
+        "phone": "970.625.8759x2831",
+        "servicePhone": "800209849"
+    },
+    "birthday": "1956-15-03",
+    "ip": "60.244.136.211",
+    "foo": "bar",
+    "profile": {
+        "about": "Already evening life painting education. Rate act price some each. Safe page interview try chance.",
+        "bio": "Prepare use service study second attention. Listen should politics. Before point head technology fight gun."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
