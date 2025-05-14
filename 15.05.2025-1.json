@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Berry",
+    "age": 10,
+    "address": {
+        "street": "Garcia Pines",
+        "city": "East Hannahburgh",
+        "state": "Colorado",
+        "zip": "22280"
+    },
+    "contact": {
+        "phone": "738-218-1619x468",
+        "servicePhone": "800849334"
+    },
+    "birthday": "2015-18-09",
+    "ip": "196.161.143.201",
+    "foo": "bar",
+    "profile": {
+        "about": "Minute behavior budget test amount. Two down yeah man happen. Build central shoulder school worker.",
+        "bio": "Around magazine successful top. National pattern million partner body."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
