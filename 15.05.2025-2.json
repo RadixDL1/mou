@@ -1,0 +1,25 @@
+{
+    "name": "Adam Hansen",
+    "age": 113,
+    "address": {
+        "street": "Jodi Manors",
+        "city": "Ryanberg",
+        "state": "Wisconsin",
+        "zip": "29424"
+    },
+    "contact": {
+        "phone": "(506)932-1404x517",
+        "servicePhone": "800530410"
+    },
+    "birthday": "1912-16-06",
+    "ip": "167.34.192.211",
+    "foo": "bar",
+    "profile": {
+        "about": "Add total face keep democratic sure money court. Dark series between act soldier less kid.\nSame to husband moment true. Even pressure sometimes measure start everyone.",
+        "bio": "Forget you star success mother avoid citizen. Black party food stand. Note movie prevent remain process but charge."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}
