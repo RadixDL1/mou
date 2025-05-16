@@ -1,0 +1,25 @@
+{
+    "name": "Christian Owens",
+    "age": 29,
+    "address": {
+        "street": "Jeremiah Court",
+        "city": "Erikberg",
+        "state": "Nevada",
+        "zip": "09982"
+    },
+    "contact": {
+        "phone": "+1-547-364-2479x16104",
+        "servicePhone": "800363310"
+    },
+    "birthday": "1996-27-02",
+    "ip": "134.64.59.103",
+    "foo": "bar",
+    "profile": {
+        "about": "End heart something similar cut. Of collection natural do. Foot enough ever.\nEvidence executive reveal add way old. Skill significant senior computer get nor.",
+        "bio": "Focus even article. Into court pull agency drug toward.\nCourse film also thousand enough friend recent. For people scientist white green magazine."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
