@@ -1,0 +1,25 @@
+{
+    "name": "Erik Garcia",
+    "age": 71,
+    "address": {
+        "street": "Johnny Greens",
+        "city": "Gregorybury",
+        "state": "New Mexico",
+        "zip": "97480"
+    },
+    "contact": {
+        "phone": "578-678-1185x94413",
+        "servicePhone": "800602954"
+    },
+    "birthday": "1954-27-09",
+    "ip": "152.92.157.253",
+    "foo": "bar",
+    "profile": {
+        "about": "Must human choose consider military pass. Course sing admit far all throw. Dinner everyone six help.\nOutside tonight ok dog.",
+        "bio": "Both easy officer reveal get."
+    },
+    "currency": [
+        "TOP",
+        "Tongan paʻanga"
+    ]
+}
