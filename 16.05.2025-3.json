@@ -1,0 +1,25 @@
+{
+    "name": "Edward Love",
+    "age": 112,
+    "address": {
+        "street": "English Mountain",
+        "city": "Thompsonfurt",
+        "state": "California",
+        "zip": "27633"
+    },
+    "contact": {
+        "phone": "(644)358-0594",
+        "servicePhone": "800366524"
+    },
+    "birthday": "1913-03-01",
+    "ip": "14.148.155.107",
+    "foo": "bar",
+    "profile": {
+        "about": "Interview visit scene across almost like pick. Always still stand.\nCultural different professor. Program feeling mean first computer of. Sport stop culture base.\nTree relate man.",
+        "bio": "Education perform industry sound computer doctor audience nothing. Type glass rise remain including. Later throughout suggest marriage. My population treatment president."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}
