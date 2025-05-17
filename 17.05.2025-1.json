@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Matthews",
+    "age": 53,
+    "address": {
+        "street": "Madison Parkway",
+        "city": "Lake Sethland",
+        "state": "Wyoming",
+        "zip": "72261"
+    },
+    "contact": {
+        "phone": "805.384.7768x486",
+        "servicePhone": "800527207"
+    },
+    "birthday": "1972-29-02",
+    "ip": "93.49.210.209",
+    "foo": "bar",
+    "profile": {
+        "about": "Impact environment whole course. She join hospital including after take whether hope. Listen why wrong wall human charge account.",
+        "bio": "Individual whole detail. Statement body will. Admit policy they rate understand charge. Accept environmental star create who."
+    },
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}
