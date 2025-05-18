@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Turner",
+    "age": 78,
+    "address": {
+        "street": "Atkins Run",
+        "city": "Williammouth",
+        "state": "Tennessee",
+        "zip": "07854"
+    },
+    "contact": {
+        "phone": "001-562-284-3129x906",
+        "servicePhone": "800571529"
+    },
+    "birthday": "1947-13-08",
+    "ip": "75.215.13.4",
+    "foo": "bar",
+    "profile": {
+        "about": "Environmental seven they. Exist TV dark listen behavior reason tax. Agree positive conference great pull war sport. Firm ever according.",
+        "bio": "Five enter again itself name per pick. Clear make Democrat describe hotel wear morning."
+    },
+    "currency": [
+        "LBP",
+        "Lebanese pound"
+    ]
+}
