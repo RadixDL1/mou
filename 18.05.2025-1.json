@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Long",
+    "age": 40,
+    "address": {
+        "street": "Dougherty Light",
+        "city": "New Mark",
+        "state": "Oklahoma",
+        "zip": "35899"
+    },
+    "contact": {
+        "phone": "(869)960-0921x245",
+        "servicePhone": "800707691"
+    },
+    "birthday": "1985-31-03",
+    "ip": "175.104.205.235",
+    "foo": "bar",
+    "profile": {
+        "about": "Prevent Congress also. Provide level nothing sign window.\nWish sport record family. Professor what side mind town reason picture field.",
+        "bio": "Boy coach beyond left reach right. Many television next government rather teacher.\nSomeone itself ahead interest. Down lead world generation project blue word down. Suddenly her to."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}
