@@ -1,0 +1,25 @@
+{
+    "name": "Joe Bender",
+    "age": 25,
+    "address": {
+        "street": "Parker Forge",
+        "city": "Jasminport",
+        "state": "Rhode Island",
+        "zip": "53792"
+    },
+    "contact": {
+        "phone": "367.953.7743x8250",
+        "servicePhone": "800957790"
+    },
+    "birthday": "2000-16-12",
+    "ip": "210.87.59.43",
+    "foo": "bar",
+    "profile": {
+        "about": "Knowledge drug foreign enjoy. Central as today red news. Decision explain central allow reason.",
+        "bio": "Difference safe indicate reach TV just. Whether season resource appear. Reflect become available factor."
+    },
+    "currency": [
+        "BMD",
+        "Bermudian dollar"
+    ]
+}
