@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Smith",
+    "age": 79,
+    "address": {
+        "street": "Sarah Dam",
+        "city": "Bellborough",
+        "state": "Mississippi",
+        "zip": "41796"
+    },
+    "contact": {
+        "phone": "235-935-6930",
+        "servicePhone": "800689529"
+    },
+    "birthday": "1946-14-05",
+    "ip": "178.227.192.81",
+    "foo": "bar",
+    "profile": {
+        "about": "Address candidate off game firm. Everybody science hold occur.\nBoard according evidence suggest offer break. Director around ball.",
+        "bio": "Director include institution watch talk. Cut continue plant page machine. Road region within.\nCourse beat beautiful interview house door."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}
