@@ -1,0 +1,25 @@
+{
+    "name": "Nancy Frank",
+    "age": 81,
+    "address": {
+        "street": "Brown Corner",
+        "city": "Lake Sarahbury",
+        "state": "North Dakota",
+        "zip": "56766"
+    },
+    "contact": {
+        "phone": "838.700.4126x2437",
+        "servicePhone": "800007713"
+    },
+    "birthday": "1944-01-02",
+    "ip": "78.92.153.106",
+    "foo": "bar",
+    "profile": {
+        "about": "Heavy game worry beautiful. Fire expert former name.\nPretty wish dream wrong. Hour heart stand bad age south upon.\nEach on everyone sister else message teach.",
+        "bio": "Red writer effect rule small letter. All while sort purpose country. Course just same who after."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
