@@ -1,0 +1,25 @@
+{
+    "name": "Kathryn Tucker",
+    "age": 65,
+    "address": {
+        "street": "Madison Roads",
+        "city": "Jacksontown",
+        "state": "Arkansas",
+        "zip": "28962"
+    },
+    "contact": {
+        "phone": "001-939-208-1433x475",
+        "servicePhone": "800324182"
+    },
+    "birthday": "1960-09-03",
+    "ip": "193.213.205.203",
+    "foo": "bar",
+    "profile": {
+        "about": "Out write visit hold produce we. Both point affect interesting.\nDark lawyer plan billion ground. Off decision green past majority star issue town.",
+        "bio": "Either discuss task during make chair. Allow people seat. Where anything away deal executive.\nFill base it safe manage among call. Which finish will several catch economy indicate."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
