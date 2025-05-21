@@ -1,0 +1,25 @@
+{
+    "name": "Robert Phelps",
+    "age": 30,
+    "address": {
+        "street": "Sherman Garden",
+        "city": "Mccoyburgh",
+        "state": "Massachusetts",
+        "zip": "25899"
+    },
+    "contact": {
+        "phone": "(365)752-4506x076",
+        "servicePhone": "800705174"
+    },
+    "birthday": "1995-21-01",
+    "ip": "139.88.37.69",
+    "foo": "bar",
+    "profile": {
+        "about": "Religious both majority nearly charge. Paper perhaps PM federal list recent the. Radio same time final industry rich.",
+        "bio": "Speak security gun reflect author minute action authority. Table budget about hour man Congress relationship page."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
