@@ -1,0 +1,25 @@
+{
+    "name": "David Fritz",
+    "age": 58,
+    "address": {
+        "street": "Simpson Pines",
+        "city": "New Sarahhaven",
+        "state": "North Carolina",
+        "zip": "97731"
+    },
+    "contact": {
+        "phone": "(550)386-4859x2759",
+        "servicePhone": "800733638"
+    },
+    "birthday": "1967-02-10",
+    "ip": "142.149.171.175",
+    "foo": "bar",
+    "profile": {
+        "about": "Future cut describe realize. Theory always several job against.\nResponse degree technology know. List front care run.",
+        "bio": "History Congress three key.\nHeavy interview threat southern similar create little. Break father young blood evidence.\nBlue life seem year. Suddenly relationship window anyone fly it song."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
