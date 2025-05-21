@@ -1,0 +1,25 @@
+{
+    "name": "Jay Sanchez",
+    "age": 56,
+    "address": {
+        "street": "Fischer Shoal",
+        "city": "Katieberg",
+        "state": "New York",
+        "zip": "54013"
+    },
+    "contact": {
+        "phone": "+1-798-511-2636x1123",
+        "servicePhone": "800523367"
+    },
+    "birthday": "1969-24-12",
+    "ip": "71.31.128.171",
+    "foo": "bar",
+    "profile": {
+        "about": "Popular young hot half then. Pay lot process matter program read.\nProduction usually design fight. Song job of card.",
+        "bio": "Analysis girl compare step. Push civil skill effect truth condition. Catch feeling kid table manager magazine billion spend."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}
