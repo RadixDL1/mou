@@ -1,0 +1,25 @@
+{
+    "name": "Jeffrey Kelley",
+    "age": 38,
+    "address": {
+        "street": "Howard Garden",
+        "city": "Aaronton",
+        "state": "Kansas",
+        "zip": "12478"
+    },
+    "contact": {
+        "phone": "001-428-346-6463",
+        "servicePhone": "800070279"
+    },
+    "birthday": "1987-15-03",
+    "ip": "119.212.203.85",
+    "foo": "bar",
+    "profile": {
+        "about": "Necessary production easy development sign into time. Analysis recognize military defense even answer. Can control space article.\nManage direction which.",
+        "bio": "First surface light common plant wife one.\nCustomer stand beautiful fire blue. Employee wife direction mention answer contain off inside. Message debate team teach mean rate there down."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
