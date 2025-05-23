@@ -1,0 +1,25 @@
+{
+    "name": "David Bird II",
+    "age": 111,
+    "address": {
+        "street": "Barrera Locks",
+        "city": "West Jessicamouth",
+        "state": "Rhode Island",
+        "zip": "00929"
+    },
+    "contact": {
+        "phone": "(644)625-5490x116",
+        "servicePhone": "800002832"
+    },
+    "birthday": "1914-26-12",
+    "ip": "5.36.169.156",
+    "foo": "bar",
+    "profile": {
+        "about": "Politics memory soon take trouble author. Level fund else six song officer. Up almost account ever sport step.",
+        "bio": "Kid occur simply garden. Expect his this can test."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}
