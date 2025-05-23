@@ -1,0 +1,25 @@
+{
+    "name": "Rachel Bennett",
+    "age": 86,
+    "address": {
+        "street": "Stephanie Mountains",
+        "city": "Robinsonville",
+        "state": "North Dakota",
+        "zip": "23919"
+    },
+    "contact": {
+        "phone": "987.281.8559x45205",
+        "servicePhone": "800692216"
+    },
+    "birthday": "1939-09-06",
+    "ip": "115.239.206.92",
+    "foo": "bar",
+    "profile": {
+        "about": "Matter space likely under reality. Mission clear record model bill size. Son study drop laugh kid.\nMission make night soon public.",
+        "bio": "Project blood something ability long stand likely. Head onto west speak.\nSoldier attention hotel reach economic federal."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
