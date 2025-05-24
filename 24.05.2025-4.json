@@ -1,0 +1,25 @@
+{
+    "name": "Corey Mitchell",
+    "age": 95,
+    "address": {
+        "street": "Anderson Streets",
+        "city": "Mullinsberg",
+        "state": "Massachusetts",
+        "zip": "97602"
+    },
+    "contact": {
+        "phone": "453-620-3911",
+        "servicePhone": "800689526"
+    },
+    "birthday": "1930-25-11",
+    "ip": "63.55.146.175",
+    "foo": "bar",
+    "profile": {
+        "about": "Star about husband control road wish. About city alone process thousand. School conference series admit exactly under.",
+        "bio": "Despite employee even risk happy management. Say pick wonder leader investment. Top different level hear off he item."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}
