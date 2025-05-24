@@ -1,0 +1,25 @@
+{
+    "name": "Scott Reid",
+    "age": 71,
+    "address": {
+        "street": "Katie Bridge",
+        "city": "Port Natalieport",
+        "state": "New York",
+        "zip": "89024"
+    },
+    "contact": {
+        "phone": "+1-260-905-3655x288",
+        "servicePhone": "800336081"
+    },
+    "birthday": "1954-09-10",
+    "ip": "141.105.245.145",
+    "foo": "bar",
+    "profile": {
+        "about": "Conference police responsibility economy. Past part be certain increase. Course down point give race contain.",
+        "bio": "End form maybe wife. Nature spend toward PM allow however. North why sometimes note."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}
