@@ -1,0 +1,25 @@
+{
+    "name": "Julie Potter",
+    "age": 52,
+    "address": {
+        "street": "Christine Ford",
+        "city": "Port Pamelamouth",
+        "state": "Delaware",
+        "zip": "81013"
+    },
+    "contact": {
+        "phone": "7629626238",
+        "servicePhone": "800822961"
+    },
+    "birthday": "1973-28-03",
+    "ip": "28.68.86.112",
+    "foo": "bar",
+    "profile": {
+        "about": "Blood ready need forward clearly answer. Smile voice idea daughter. With tough statement risk scientist truth yes poor.\nArt former face try west. Require six throw apply out.",
+        "bio": "Serve former throughout.\nIf Democrat affect find bar fill career. Want affect describe space argue local research.\nFull exist never among son yourself."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}
