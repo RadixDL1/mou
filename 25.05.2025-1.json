@@ -1,0 +1,25 @@
+{
+    "name": "Dean Gomez",
+    "age": 107,
+    "address": {
+        "street": "Parker Flats",
+        "city": "Richardsonborough",
+        "state": "Connecticut",
+        "zip": "43884"
+    },
+    "contact": {
+        "phone": "001-433-797-3477x837",
+        "servicePhone": "800904998"
+    },
+    "birthday": "1918-01-04",
+    "ip": "223.238.118.246",
+    "foo": "bar",
+    "profile": {
+        "about": "Street fine point contain treatment daughter worry lead. Meet so while probably them continue church.\nWide ok too during. Continue store pass health.",
+        "bio": "Appear require enjoy measure organization within. Rule lot pretty edge. Stay result whom station.\nThe project raise similar crime anyone. Heart energy will."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}
