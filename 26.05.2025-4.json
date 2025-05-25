@@ -1,0 +1,25 @@
+{
+    "name": "Dale Villarreal",
+    "age": 85,
+    "address": {
+        "street": "Brenda Neck",
+        "city": "Phillipsmouth",
+        "state": "South Dakota",
+        "zip": "31926"
+    },
+    "contact": {
+        "phone": "542.500.6114x92417",
+        "servicePhone": "800901407"
+    },
+    "birthday": "1940-04-09",
+    "ip": "86.21.27.99",
+    "foo": "bar",
+    "profile": {
+        "about": "Leave candidate think save. Control trial girl avoid little this ask.\nReflect according design fear of manage. Mother unit none big kid one.",
+        "bio": "Kitchen church truth financial.\nSite news six minute forward approach. Box individual American agreement itself anyone beyond."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}
