@@ -1,0 +1,25 @@
+{
+    "name": "Katie Frye",
+    "age": 19,
+    "address": {
+        "street": "Ortiz Common",
+        "city": "Lake Douglas",
+        "state": "New Mexico",
+        "zip": "94888"
+    },
+    "contact": {
+        "phone": "389-907-2647x5687",
+        "servicePhone": "800494271"
+    },
+    "birthday": "2006-07-11",
+    "ip": "13.215.2.118",
+    "foo": "bar",
+    "profile": {
+        "about": "Everyone pressure important chair. Factor coach many laugh myself challenge understand great.\nPretty network owner common adult.\nMore their art nearly. Example or test.",
+        "bio": "Yet me your reason professional to. Husband usually fact next dog science fill.\nPerformance task commercial plant light expect activity. Attack money deal her anything. South sport computer paper."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}
