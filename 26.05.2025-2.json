@@ -1,0 +1,25 @@
+{
+    "name": "Frank Harvey",
+    "age": 64,
+    "address": {
+        "street": "Watson Path",
+        "city": "Adamland",
+        "state": "North Dakota",
+        "zip": "12321"
+    },
+    "contact": {
+        "phone": "(690)721-4948",
+        "servicePhone": "800186480"
+    },
+    "birthday": "1961-13-08",
+    "ip": "84.42.132.97",
+    "foo": "bar",
+    "profile": {
+        "about": "Smile all recognize most station vote. Level small attorney how close moment test. Court big including always may successful.\nSignificant next his responsibility lot image hospital.",
+        "bio": "Learn food social but student theory organization within.\nType final fight. Public director career trade.\nParticularly kid grow. Interest system red challenge. Nice yeah factor yeah rise."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}
