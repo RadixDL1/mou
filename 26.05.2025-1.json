@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Greene",
+    "age": 65,
+    "address": {
+        "street": "Jon Branch",
+        "city": "Port Kevinbury",
+        "state": "Montana",
+        "zip": "72650"
+    },
+    "contact": {
+        "phone": "001-672-543-8349",
+        "servicePhone": "800637379"
+    },
+    "birthday": "1960-07-02",
+    "ip": "167.231.155.114",
+    "foo": "bar",
+    "profile": {
+        "about": "Foot fire world mean. House among history risk. Space play find interesting.\nPm serious probably employee hotel.\nIndustry less fire night subject himself.",
+        "bio": "Somebody determine hospital reason five street ahead wait."
+    },
+    "currency": [
+        "LTL",
+        "Lithuanian litas"
+    ]
+}
