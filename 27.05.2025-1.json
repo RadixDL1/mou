@@ -1,0 +1,25 @@
+{
+    "name": "Patrick Andrews",
+    "age": 49,
+    "address": {
+        "street": "Patrick Run",
+        "city": "Rosschester",
+        "state": "New Jersey",
+        "zip": "43861"
+    },
+    "contact": {
+        "phone": "2978207112",
+        "servicePhone": "800405056"
+    },
+    "birthday": "1976-19-06",
+    "ip": "15.207.94.62",
+    "foo": "bar",
+    "profile": {
+        "about": "Too table live subject so create.\nAlmost similar realize. Research table tax game well prove fast specific. Interesting can relationship detail.\nAbove worker identify. Ability day they century until.",
+        "bio": "Poor prevent Mr it feeling. Low though soldier manager. Enter young will here picture investment support."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}
