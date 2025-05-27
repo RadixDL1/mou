@@ -1,0 +1,25 @@
+{
+    "name": "Roger Alvarez",
+    "age": 36,
+    "address": {
+        "street": "Fernando Plaza",
+        "city": "New Denisestad",
+        "state": "Connecticut",
+        "zip": "69689"
+    },
+    "contact": {
+        "phone": "+1-320-391-3790x8858",
+        "servicePhone": "800781987"
+    },
+    "birthday": "1989-04-10",
+    "ip": "128.199.245.96",
+    "foo": "bar",
+    "profile": {
+        "about": "Discussion fund employee stay whose design everyone. So sing do success memory receive begin. Suffer dog most form.\nStudy simply low hard week bad. And still able. Standard threat good its.",
+        "bio": "Reveal occur need star standard again someone employee. Decide strong rise onto voice reach. Various size analysis court."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}
