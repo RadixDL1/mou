@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Wilson",
+    "age": 49,
+    "address": {
+        "street": "Karina Square",
+        "city": "Susanhaven",
+        "state": "Kansas",
+        "zip": "33884"
+    },
+    "contact": {
+        "phone": "451.476.3713",
+        "servicePhone": "800675914"
+    },
+    "birthday": "1976-03-06",
+    "ip": "180.143.214.198",
+    "foo": "bar",
+    "profile": {
+        "about": "Edge night poor century house. Foreign scientist suffer three.",
+        "bio": "War can set within. Everybody however relate painting.\nFollow here body hard. President tell television statement school garden include woman."
+    },
+    "currency": [
+        "PAB",
+        "Panamanian balboa"
+    ]
+}
