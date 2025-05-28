@@ -1,0 +1,25 @@
+{
+    "name": "Jessica White",
+    "age": 29,
+    "address": {
+        "street": "Victor Summit",
+        "city": "Kennethhaven",
+        "state": "Connecticut",
+        "zip": "04178"
+    },
+    "contact": {
+        "phone": "+1-983-550-8258x463",
+        "servicePhone": "800367335"
+    },
+    "birthday": "1996-11-12",
+    "ip": "201.18.208.141",
+    "foo": "bar",
+    "profile": {
+        "about": "Your method evening none among. Side PM forward common. Stand trouble know town then ball audience growth.",
+        "bio": "Modern factor deep six.\nYoung third hit open without amount. Can record either enter hand. Others wind yes animal teach trouble bad whether. Look bag this education."
+    },
+    "currency": [
+        "SZL",
+        "Swazi lilangeni"
+    ]
+}
