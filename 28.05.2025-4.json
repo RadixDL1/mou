@@ -1,0 +1,25 @@
+{
+    "name": "James Coleman",
+    "age": 79,
+    "address": {
+        "street": "Norris Fork",
+        "city": "Davistown",
+        "state": "Mississippi",
+        "zip": "93701"
+    },
+    "contact": {
+        "phone": "673-573-9661x007",
+        "servicePhone": "800513167"
+    },
+    "birthday": "1946-14-07",
+    "ip": "62.239.129.43",
+    "foo": "bar",
+    "profile": {
+        "about": "Put simple maybe song. Organization window avoid have guess future. Change according time north next produce.",
+        "bio": "Explain difficult buy body evening red summer. Involve character ahead writer ten. Test security skill hospital white case team."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
