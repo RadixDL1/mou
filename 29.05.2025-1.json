@@ -1,0 +1,25 @@
+{
+    "name": "John Schmidt",
+    "age": 100,
+    "address": {
+        "street": "Obrien Mews",
+        "city": "Cruzview",
+        "state": "Illinois",
+        "zip": "46100"
+    },
+    "contact": {
+        "phone": "+1-263-283-4176x6607",
+        "servicePhone": "800000908"
+    },
+    "birthday": "1925-08-10",
+    "ip": "160.22.92.239",
+    "foo": "bar",
+    "profile": {
+        "about": "Wonder discover lawyer site take current. Sea kind audience window behind quality. Head action outside treat.",
+        "bio": "Feeling strategy information. Team believe down citizen.\nGive lawyer add occur Mr tough. Nor who today smile six."
+    },
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}
