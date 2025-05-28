@@ -1,0 +1,25 @@
+{
+    "name": "Nicole Reed",
+    "age": 67,
+    "address": {
+        "street": "Rich Island",
+        "city": "Rachelland",
+        "state": "Wyoming",
+        "zip": "50240"
+    },
+    "contact": {
+        "phone": "577.622.2363",
+        "servicePhone": "800711773"
+    },
+    "birthday": "1958-18-01",
+    "ip": "27.20.220.152",
+    "foo": "bar",
+    "profile": {
+        "about": "Wish result science now measure.\nSay raise resource state few. Today but although participant technology after. Hotel ball save look within have.",
+        "bio": "Response three certainly whatever wrong fly soon. Myself cell Mrs player.\nSocial economic simply great dream apply class around. Meeting interview budget important.\nProduction above role site color."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
