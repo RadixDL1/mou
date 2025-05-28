@@ -1,0 +1,25 @@
+{
+    "name": "James Fowler",
+    "age": 93,
+    "address": {
+        "street": "Brown Meadow",
+        "city": "South Autumnshire",
+        "state": "Indiana",
+        "zip": "37677"
+    },
+    "contact": {
+        "phone": "001-652-481-5925x98579",
+        "servicePhone": "800710420"
+    },
+    "birthday": "1932-29-01",
+    "ip": "161.91.4.64",
+    "foo": "bar",
+    "profile": {
+        "about": "Company speech ability add behind great. Order down future become. Happy admit yet raise ten trouble.",
+        "bio": "Sea pass prepare business finish yes. Theory manage social herself stock despite phone."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
