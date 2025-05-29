@@ -1,0 +1,25 @@
+{
+    "name": "Karen Larson",
+    "age": 84,
+    "address": {
+        "street": "Gonzales Lake",
+        "city": "Spearsland",
+        "state": "South Carolina",
+        "zip": "93095"
+    },
+    "contact": {
+        "phone": "431.858.7940",
+        "servicePhone": "800703444"
+    },
+    "birthday": "1941-29-07",
+    "ip": "104.67.184.76",
+    "foo": "bar",
+    "profile": {
+        "about": "Production even doctor the be hot explain. Reality reflect agency around how gas. Building bag future difficult buy less.\nActually full bag happen activity. Hold spend tonight prove local.",
+        "bio": "Work bill story worker building agency. Least day green year.\nPrepare difficult TV interview if recently. Area price movie forward growth difference. Kitchen challenge nation likely tend least news."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}
