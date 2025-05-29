@@ -1,0 +1,25 @@
+{
+    "name": "Corey Jimenez",
+    "age": 0,
+    "address": {
+        "street": "George Point",
+        "city": "Donaldberg",
+        "state": "New Jersey",
+        "zip": "28336"
+    },
+    "contact": {
+        "phone": "+1-212-872-1938x6678",
+        "servicePhone": "800085609"
+    },
+    "birthday": "2025-11-04",
+    "ip": "27.85.56.242",
+    "foo": "bar",
+    "profile": {
+        "about": "Behavior score particular attorney method. Them tonight tonight name week perform exactly. Give box fast across hospital house.",
+        "bio": "Skill ok morning ten away help kid family. Apply provide end pattern hold remember let.\nGood sometimes including toward third up base. System of computer attention feeling enter."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}
