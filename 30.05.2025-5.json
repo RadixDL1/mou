@@ -1,0 +1,25 @@
+{
+    "name": "Bryan Copeland",
+    "age": 38,
+    "address": {
+        "street": "Johnson Heights",
+        "city": "South Marcus",
+        "state": "Florida",
+        "zip": "44985"
+    },
+    "contact": {
+        "phone": "7798230150",
+        "servicePhone": "800718313"
+    },
+    "birthday": "1987-23-07",
+    "ip": "145.211.106.86",
+    "foo": "bar",
+    "profile": {
+        "about": "Guy computer chair staff concern foot thank. Plant ago tax impact course win home. Civil require be fund.",
+        "bio": "Eight away page million job. Democrat force hair organization indeed give.\nDream produce take relationship yard despite. Anyone coach machine lawyer bill."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
