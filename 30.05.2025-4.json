@@ -1,0 +1,25 @@
+{
+    "name": "Amy Hansen",
+    "age": 59,
+    "address": {
+        "street": "Butler Fields",
+        "city": "Port Johnport",
+        "state": "Hawaii",
+        "zip": "91470"
+    },
+    "contact": {
+        "phone": "803.635.2446x5867",
+        "servicePhone": "800017208"
+    },
+    "birthday": "1966-31-12",
+    "ip": "218.128.108.44",
+    "foo": "bar",
+    "profile": {
+        "about": "It other night difficult. Today cell section also their way newspaper. Major start pick process Mrs baby.\nRemember born chair consider region whom night throw. Candidate culture resource.",
+        "bio": "Poor human door truth pressure try surface. So own drug imagine Congress beat."
+    },
+    "currency": [
+        "LBP",
+        "Lebanese pound"
+    ]
+}
