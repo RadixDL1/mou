@@ -1,0 +1,25 @@
+{
+    "name": "Alexander Collins",
+    "age": 5,
+    "address": {
+        "street": "Lynch Forge",
+        "city": "Brandonborough",
+        "state": "Washington",
+        "zip": "81339"
+    },
+    "contact": {
+        "phone": "601.404.2553x159",
+        "servicePhone": "800723022"
+    },
+    "birthday": "2020-09-09",
+    "ip": "210.135.17.37",
+    "foo": "bar",
+    "profile": {
+        "about": "Marriage wide debate probably. Least worry research him draw town. Themselves if very charge agree.",
+        "bio": "Them mouth wait.\nTwo condition for interview. Whom future produce serve author report employee.\nLose political several although society until type. Sing enjoy thing garden woman."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}
