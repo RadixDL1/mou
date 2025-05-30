@@ -1,0 +1,25 @@
+{
+    "name": "Alyssa Wood",
+    "age": 89,
+    "address": {
+        "street": "Kristen Corners",
+        "city": "New Donnaburgh",
+        "state": "New Mexico",
+        "zip": "67302"
+    },
+    "contact": {
+        "phone": "470.346.5243x083",
+        "servicePhone": "800181782"
+    },
+    "birthday": "1936-05-12",
+    "ip": "70.160.187.3",
+    "foo": "bar",
+    "profile": {
+        "about": "Company establish language face than animal argue. Former season owner cold market federal production.\nAdd side or couple. Whether break central second.",
+        "bio": "Language reason activity act skill reveal. Economic four fund between human quite quickly lot. Rich summer outside necessary matter much."
+    },
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}
