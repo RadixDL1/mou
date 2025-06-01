@@ -1,0 +1,25 @@
+{
+    "name": "Kyle Johnson",
+    "age": 59,
+    "address": {
+        "street": "Robert Burgs",
+        "city": "Port Curtisland",
+        "state": "Iowa",
+        "zip": "01437"
+    },
+    "contact": {
+        "phone": "001-273-876-1870x0865",
+        "servicePhone": "800686629"
+    },
+    "birthday": "1966-18-04",
+    "ip": "112.88.124.125",
+    "foo": "bar",
+    "profile": {
+        "about": "Create today form win. Central treatment off example.\nYard us seat step. Peace town each account successful federal manager. Sure best vote.\nKid stand remain. Military wear cover wait station.",
+        "bio": "Cost eat quickly. Now last herself.\nFear wear parent area final. Story police arrive different record cover town. Write follow just pay easy."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
