@@ -1,0 +1,25 @@
+{
+    "name": "Scott Bradford",
+    "age": 13,
+    "address": {
+        "street": "Johnson Passage",
+        "city": "Davenportfurt",
+        "state": "California",
+        "zip": "09295"
+    },
+    "contact": {
+        "phone": "+1-338-916-9491x03495",
+        "servicePhone": "800812803"
+    },
+    "birthday": "2012-19-12",
+    "ip": "144.197.9.193",
+    "foo": "bar",
+    "profile": {
+        "about": "No company new spend among reduce design color. State bit feel story article term administration. Area student two know.",
+        "bio": "Open study value manager everything find leg. Out herself return admit. Professional company chance future. Reveal themselves last team general similar."
+    },
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}
