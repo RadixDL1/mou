@@ -1,0 +1,25 @@
+{
+    "name": "Mary Myers",
+    "age": 49,
+    "address": {
+        "street": "Kaitlin Falls",
+        "city": "South Jeannefort",
+        "state": "Hawaii",
+        "zip": "57499"
+    },
+    "contact": {
+        "phone": "(957)736-1475x4326",
+        "servicePhone": "800594062"
+    },
+    "birthday": "1976-31-05",
+    "ip": "65.56.72.26",
+    "foo": "bar",
+    "profile": {
+        "about": "Material member throw their turn huge value. Tv they serious know garden.\nFocus visit student left. Better cost peace executive little heavy should.",
+        "bio": "Down ten face method on position. Company nothing class than expert pattern section. While position drop together culture meet opportunity."
+    },
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}
