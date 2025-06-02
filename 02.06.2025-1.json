@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Lindsey",
+    "age": 30,
+    "address": {
+        "street": "Spence Station",
+        "city": "Lake Michael",
+        "state": "South Carolina",
+        "zip": "21478"
+    },
+    "contact": {
+        "phone": "001-768-926-8062x06252",
+        "servicePhone": "800744176"
+    },
+    "birthday": "1995-30-09",
+    "ip": "2.131.115.245",
+    "foo": "bar",
+    "profile": {
+        "about": "Society thus crime majority whatever nice one. Test kitchen so medical sit win main. Military too since fear.",
+        "bio": "Apply pick hotel. Loss house agent get.\nAmong time former buy. Able show image improve surface situation per.\nDifferent media out individual phone forward. Development teach their represent line."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}
