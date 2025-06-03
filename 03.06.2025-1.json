@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Perry",
+    "age": 83,
+    "address": {
+        "street": "White Square",
+        "city": "Adkinsmouth",
+        "state": "Hawaii",
+        "zip": "32494"
+    },
+    "contact": {
+        "phone": "(452)831-3594x2541",
+        "servicePhone": "800748753"
+    },
+    "birthday": "1942-06-12",
+    "ip": "153.207.133.119",
+    "foo": "bar",
+    "profile": {
+        "about": "Ok class cut under even American. Better heart child interview live well although. Serve evening security defense from after eight from.",
+        "bio": "Heart image rule ok father. Yes agreement serve at business soon project thing. Down ahead it finish security. Major however number remain without student."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}
