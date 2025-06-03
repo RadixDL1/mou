@@ -1,0 +1,25 @@
+{
+    "name": "Aaron Howell",
+    "age": 65,
+    "address": {
+        "street": "Steven Plaza",
+        "city": "West Luke",
+        "state": "Utah",
+        "zip": "36169"
+    },
+    "contact": {
+        "phone": "+1-565-598-7173",
+        "servicePhone": "800038588"
+    },
+    "birthday": "1960-09-01",
+    "ip": "92.80.75.137",
+    "foo": "bar",
+    "profile": {
+        "about": "Finally food yourself her. Bar group everything loss base apply. Similar couple magazine parent tree full certain. Key common near through whether.",
+        "bio": "Table open business picture. Site change want game.\nOption wind against meet you follow. Ok human director cut pretty show."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
