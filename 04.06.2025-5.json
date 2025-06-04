@@ -1,0 +1,25 @@
+{
+    "name": "Michael Neal",
+    "age": 58,
+    "address": {
+        "street": "Rogers Mountain",
+        "city": "Lake Lindaland",
+        "state": "New York",
+        "zip": "78500"
+    },
+    "contact": {
+        "phone": "791.603.5787x480",
+        "servicePhone": "800436257"
+    },
+    "birthday": "1967-04-04",
+    "ip": "129.148.77.213",
+    "foo": "bar",
+    "profile": {
+        "about": "Along guy be blood service each. Teacher series control wish.",
+        "bio": "Live will both. Throughout she call center someone suggest would summer. Cut coach parent. Voice head have describe."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}
