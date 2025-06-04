@@ -1,0 +1,25 @@
+{
+    "name": "Russell Luna",
+    "age": 63,
+    "address": {
+        "street": "Paige Crossing",
+        "city": "South Molly",
+        "state": "Maine",
+        "zip": "12211"
+    },
+    "contact": {
+        "phone": "310-234-7759x56993",
+        "servicePhone": "800012674"
+    },
+    "birthday": "1962-18-11",
+    "ip": "77.140.215.49",
+    "foo": "bar",
+    "profile": {
+        "about": "Such film but including election religious would. Throughout sell international. Although available development without remember politics catch.",
+        "bio": "Field movement who baby serious it. Unit throw before west control professional coach rate. Situation station apply.\nEspecially need do. East simply poor others everyone."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}
