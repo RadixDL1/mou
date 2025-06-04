@@ -1,0 +1,25 @@
+{
+    "name": "Nancy Burton",
+    "age": 105,
+    "address": {
+        "street": "Morrison Via",
+        "city": "Robinsonmouth",
+        "state": "South Carolina",
+        "zip": "90495"
+    },
+    "contact": {
+        "phone": "959.872.1544x4551",
+        "servicePhone": "800833676"
+    },
+    "birthday": "1920-12-09",
+    "ip": "5.166.246.120",
+    "foo": "bar",
+    "profile": {
+        "about": "But season smile could bar wall enter. Bad building movement her budget. Garden people people tough. Scientist development behavior stand such way argue pull.",
+        "bio": "Walk analysis heavy key call. Treatment power director resource.\nDetermine win security against bar add rest. Drop method national through. Author ok key church very apply bring."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
