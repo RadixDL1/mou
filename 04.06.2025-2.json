@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Morris",
+    "age": 7,
+    "address": {
+        "street": "Brooks Street",
+        "city": "Beverlystad",
+        "state": "New Hampshire",
+        "zip": "45420"
+    },
+    "contact": {
+        "phone": "3449250555",
+        "servicePhone": "800240747"
+    },
+    "birthday": "2018-12-09",
+    "ip": "182.189.87.164",
+    "foo": "bar",
+    "profile": {
+        "about": "According dinner avoid involve total wife capital. Among hit likely stay player fast material. Parent discussion quite recently.",
+        "bio": "It center cup big. Wear produce until table result democratic explain. Former key line bar ready owner speech."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
