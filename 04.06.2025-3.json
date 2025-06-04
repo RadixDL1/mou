@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Jones",
+    "age": 25,
+    "address": {
+        "street": "Walker Road",
+        "city": "East Nina",
+        "state": "Florida",
+        "zip": "37242"
+    },
+    "contact": {
+        "phone": "001-488-800-3772",
+        "servicePhone": "800160524"
+    },
+    "birthday": "2000-16-07",
+    "ip": "88.253.237.100",
+    "foo": "bar",
+    "profile": {
+        "about": "Soldier spend worker nice. Conference property eye to politics break appear Congress.\nSpeak break economic kitchen. Air receive him Mr. Student every phone.",
+        "bio": "Can doctor too each ago dog voice although.\nHear prevent owner free whom.\nSell ball partner in born avoid type. Its weight reflect. Prepare several team quickly health."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}
