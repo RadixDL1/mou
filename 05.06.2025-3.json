@@ -1,0 +1,25 @@
+{
+    "name": "David Morgan",
+    "age": 19,
+    "address": {
+        "street": "Jerry View",
+        "city": "North Maxshire",
+        "state": "Nevada",
+        "zip": "48814"
+    },
+    "contact": {
+        "phone": "785.339.9818x065",
+        "servicePhone": "800855176"
+    },
+    "birthday": "2006-20-12",
+    "ip": "150.24.180.40",
+    "foo": "bar",
+    "profile": {
+        "about": "Section range develop factor economic with hour. Central air beyond season prepare wrong yard.",
+        "bio": "Owner player popular should apply me or. Child say may sound some.\nFor manager similar parent rise pattern according. Performance including hear."
+    },
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}
