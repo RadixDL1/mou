@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Lawson",
+    "age": 89,
+    "address": {
+        "street": "Hoover Forest",
+        "city": "Robinsonville",
+        "state": "South Carolina",
+        "zip": "06838"
+    },
+    "contact": {
+        "phone": "8268433690",
+        "servicePhone": "800205314"
+    },
+    "birthday": "1936-27-11",
+    "ip": "149.234.86.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Your woman drop month cause necessary. Be heavy investment there audience recognize another great. Summer owner pick true town side difficult. Example particular four.",
+        "bio": "Job network bill.\nMay trouble wide information degree. Grow peace other enough.\nState answer business cause. Much argue hit find. Machine development above herself answer over."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}
