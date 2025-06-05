@@ -1,0 +1,25 @@
+{
+    "name": "Lauren Navarro",
+    "age": 13,
+    "address": {
+        "street": "Anderson Plaza",
+        "city": "North Michaelstad",
+        "state": "Alabama",
+        "zip": "29518"
+    },
+    "contact": {
+        "phone": "3752490939",
+        "servicePhone": "800756692"
+    },
+    "birthday": "2012-07-11",
+    "ip": "197.131.87.250",
+    "foo": "bar",
+    "profile": {
+        "about": "Professional run detail age group try national. Detail fly pull ok. Crime cut approach because stock most.",
+        "bio": "Woman can middle its coach hit see. Reality best fire likely star wind affect.\nAvoid represent unit center down give. Voice research sign doctor short amount miss practice."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
