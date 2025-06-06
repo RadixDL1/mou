@@ -1,0 +1,25 @@
+{
+    "name": "Logan Lopez",
+    "age": 88,
+    "address": {
+        "street": "Alicia Forest",
+        "city": "Larsonmouth",
+        "state": "Iowa",
+        "zip": "63848"
+    },
+    "contact": {
+        "phone": "001-634-225-5606x582",
+        "servicePhone": "800271738"
+    },
+    "birthday": "1937-25-10",
+    "ip": "78.42.33.234",
+    "foo": "bar",
+    "profile": {
+        "about": "Evening bank difficult cold mother page get. Maintain listen only yet meet what recognize.\nPurpose present top defense. Strong recognize idea or cup bag old.",
+        "bio": "Writer above early worker mother example common stage. Allow leave card heavy manager. Account serious rich agree exactly daughter."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}
