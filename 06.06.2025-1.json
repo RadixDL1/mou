@@ -1,0 +1,25 @@
+{
+    "name": "Glenn Simpson",
+    "age": 80,
+    "address": {
+        "street": "Pratt Prairie",
+        "city": "New Melanieville",
+        "state": "Wisconsin",
+        "zip": "12222"
+    },
+    "contact": {
+        "phone": "2913832065",
+        "servicePhone": "800008177"
+    },
+    "birthday": "1945-14-09",
+    "ip": "128.100.138.140",
+    "foo": "bar",
+    "profile": {
+        "about": "Star need image they score. Whatever raise try deal model program us. Education road away return week great trip generation. Hard certain every start however door.",
+        "bio": "Sure recently listen. Evening team thought.\nIn science door item to parent. Audience name responsibility religious.\nHigh become note. Themselves as no they goal school."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
