@@ -1,0 +1,25 @@
+{
+    "name": "Michele Gordon",
+    "age": 59,
+    "address": {
+        "street": "Beasley Falls",
+        "city": "Hannahhaven",
+        "state": "New Hampshire",
+        "zip": "76463"
+    },
+    "contact": {
+        "phone": "001-384-541-6664x36185",
+        "servicePhone": "800010070"
+    },
+    "birthday": "1966-17-04",
+    "ip": "91.211.45.120",
+    "foo": "bar",
+    "profile": {
+        "about": "Say sure trade summer Democrat threat today. About camera high. Let business drop eight feeling rich.\nTrade scene add message bring institution. Picture long include.",
+        "bio": "Indeed popular TV director deep box cause. Change former represent prove write set.\nManager mention record value player. Writer grow dream change might. Four view help box."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}
