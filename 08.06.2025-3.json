@@ -1,0 +1,25 @@
+{
+    "name": "Scott Tran",
+    "age": 21,
+    "address": {
+        "street": "Carpenter Row",
+        "city": "South Christopher",
+        "state": "Louisiana",
+        "zip": "44383"
+    },
+    "contact": {
+        "phone": "+1-912-608-2670x11740",
+        "servicePhone": "800801661"
+    },
+    "birthday": "2004-17-03",
+    "ip": "135.191.72.85",
+    "foo": "bar",
+    "profile": {
+        "about": "Science understand area ask above minute administration watch. Eat condition they blood somebody bit. Expect as father north.\nSeven police now likely leave spring. Cause perhaps seek among unit down.",
+        "bio": "Prove artist why appear shoulder appear. Through force quickly particular need suffer buy choice. President Mr hit hold performance knowledge guy."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
