@@ -1,0 +1,25 @@
+{
+    "name": "Donald Gaines",
+    "age": 33,
+    "address": {
+        "street": "Marc Plains",
+        "city": "North Meganview",
+        "state": "Florida",
+        "zip": "81018"
+    },
+    "contact": {
+        "phone": "(242)849-4812x624",
+        "servicePhone": "800444240"
+    },
+    "birthday": "1992-08-02",
+    "ip": "221.163.128.87",
+    "foo": "bar",
+    "profile": {
+        "about": "Alone agreement better approach high. Pressure teach forget necessary. Material physical from play almost.",
+        "bio": "Take floor past whatever probably down girl. End billion water make less white heavy. However arm leader three teacher."
+    },
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}
