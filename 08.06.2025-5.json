@@ -1,0 +1,25 @@
+{
+    "name": "Isaac Hawkins",
+    "age": 55,
+    "address": {
+        "street": "Joshua Course",
+        "city": "Davidsontown",
+        "state": "Texas",
+        "zip": "01077"
+    },
+    "contact": {
+        "phone": "(450)748-3351x328",
+        "servicePhone": "800365678"
+    },
+    "birthday": "1970-19-05",
+    "ip": "42.60.38.3",
+    "foo": "bar",
+    "profile": {
+        "about": "Oil surface research heavy. Some point important little fill sport physical.\nRelate grow international floor reality. Tv front case program. Night view mission yet tough possible able.",
+        "bio": "Thousand energy dinner tough three seven get. Tend reveal soldier hundred.\nSing who road push either wait.\nAdministration administration security claim fear buy sort. Crime relate buy."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
