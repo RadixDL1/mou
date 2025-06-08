@@ -1,0 +1,25 @@
+{
+    "name": "Ann Smith",
+    "age": 57,
+    "address": {
+        "street": "Michael Heights",
+        "city": "East Michellemouth",
+        "state": "Connecticut",
+        "zip": "28382"
+    },
+    "contact": {
+        "phone": "+1-564-808-7752",
+        "servicePhone": "800569724"
+    },
+    "birthday": "1968-09-08",
+    "ip": "36.230.236.46",
+    "foo": "bar",
+    "profile": {
+        "about": "Reach keep he light water without month. Teacher star win teach although central. Data responsibility nearly.\nMore contain plant before sell hot building policy. Wear fight civil want rate tough.",
+        "bio": "Opportunity federal call. Beautiful protect according shoulder subject.\nThus window card physical others me behavior. Enjoy adult some bank since."
+    },
+    "currency": [
+        "BWP",
+        "Botswana pula"
+    ]
+}
