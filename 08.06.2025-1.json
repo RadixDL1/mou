@@ -1,0 +1,25 @@
+{
+    "name": "Patrick Jones",
+    "age": 86,
+    "address": {
+        "street": "Estrada Hill",
+        "city": "Lake Anthony",
+        "state": "Arizona",
+        "zip": "33342"
+    },
+    "contact": {
+        "phone": "001-497-485-7085x528",
+        "servicePhone": "800618308"
+    },
+    "birthday": "1939-29-10",
+    "ip": "148.36.193.50",
+    "foo": "bar",
+    "profile": {
+        "about": "Drop together like give foot understand suggest. Provide cold maintain Mrs concern fall before.",
+        "bio": "Fire up anyone your tough. Traditional face heavy practice.\nThose help artist range cell expect magazine away. Large similar hundred sister indicate PM."
+    },
+    "currency": [
+        "PKR",
+        "Pakistani rupee"
+    ]
+}
