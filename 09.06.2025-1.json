@@ -1,0 +1,25 @@
+{
+    "name": "Diana Shaw",
+    "age": 33,
+    "address": {
+        "street": "Meredith Bypass",
+        "city": "Danaberg",
+        "state": "New Mexico",
+        "zip": "39077"
+    },
+    "contact": {
+        "phone": "+1-963-815-8788",
+        "servicePhone": "800355601"
+    },
+    "birthday": "1992-18-12",
+    "ip": "94.16.217.201",
+    "foo": "bar",
+    "profile": {
+        "about": "He factor point necessary education low few thank. Gas coach ten possible song.\nDream before their it. Month simply hold hard site ground east. System analysis step far rise fast.",
+        "bio": "Ability special challenge ever century almost serious. Shoulder who cost choice follow reach strategy. Phone line including the possible.\nEvent fire meeting actually."
+    },
+    "currency": [
+        "BWP",
+        "Botswana pula"
+    ]
+}
