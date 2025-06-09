@@ -1,0 +1,25 @@
+{
+    "name": "William Lowe",
+    "age": 109,
+    "address": {
+        "street": "Eric Creek",
+        "city": "Brandonburgh",
+        "state": "California",
+        "zip": "89795"
+    },
+    "contact": {
+        "phone": "351-962-2160x3397",
+        "servicePhone": "800244183"
+    },
+    "birthday": "1916-10-04",
+    "ip": "146.219.200.186",
+    "foo": "bar",
+    "profile": {
+        "about": "Share wait election product quite allow. Support produce choice end reflect recognize gas debate. Why adult her positive agent.\nOne country account remember. Country glass trouble degree short.",
+        "bio": "Character resource teacher them technology current subject in.\nCentral pull campaign each last until everyone. Military school us.\nFish after difficult soon. Tough single leave across contain."
+    },
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}
