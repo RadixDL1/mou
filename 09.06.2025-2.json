@@ -1,0 +1,25 @@
+{
+    "name": "Pamela Payne",
+    "age": 64,
+    "address": {
+        "street": "Hernandez Crossing",
+        "city": "Taylorfurt",
+        "state": "Alaska",
+        "zip": "44857"
+    },
+    "contact": {
+        "phone": "993.797.1531",
+        "servicePhone": "800552714"
+    },
+    "birthday": "1961-15-09",
+    "ip": "165.37.135.1",
+    "foo": "bar",
+    "profile": {
+        "about": "Law actually budget number serious role much. Born sister family various various identify toward. Religious film grow myself will beyond.",
+        "bio": "Serve body Mr knowledge international. Music goal easy management. Care oil off score economy."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}
