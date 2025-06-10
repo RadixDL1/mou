@@ -1,0 +1,25 @@
+{
+    "name": "Michael Riggs",
+    "age": 15,
+    "address": {
+        "street": "Dennis Square",
+        "city": "Josephbury",
+        "state": "North Carolina",
+        "zip": "99401"
+    },
+    "contact": {
+        "phone": "001-887-469-6732",
+        "servicePhone": "800293599"
+    },
+    "birthday": "2010-11-08",
+    "ip": "53.222.112.196",
+    "foo": "bar",
+    "profile": {
+        "about": "Ask population south bit. Might picture home career physical so herself budget. Child camera scene pass station development born charge. Too conference play help place.",
+        "bio": "For war agreement agree. Probably buy bit arrive clearly. Building value cold as. Over space determine language bar Mrs."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
