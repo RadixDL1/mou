@@ -1,0 +1,25 @@
+{
+    "name": "Desiree Stone",
+    "age": 49,
+    "address": {
+        "street": "Hurst Shoals",
+        "city": "Jilltown",
+        "state": "Nevada",
+        "zip": "73292"
+    },
+    "contact": {
+        "phone": "8455834224",
+        "servicePhone": "800977537"
+    },
+    "birthday": "1976-24-10",
+    "ip": "87.204.145.8",
+    "foo": "bar",
+    "profile": {
+        "about": "Statement score fine none significant southern kitchen. Take billion building often whatever. Military know far series.",
+        "bio": "I campaign pressure fear. Themselves poor such. Program stuff purpose close.\nCamera look hotel key discussion billion. Trip feeling thousand tough have national his."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}
