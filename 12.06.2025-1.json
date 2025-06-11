@@ -1,0 +1,25 @@
+{
+    "name": "Alisha Cannon",
+    "age": 38,
+    "address": {
+        "street": "Thomas Point",
+        "city": "Stephanieberg",
+        "state": "Kansas",
+        "zip": "05306"
+    },
+    "contact": {
+        "phone": "001-999-772-4652x8784",
+        "servicePhone": "800209033"
+    },
+    "birthday": "1987-18-11",
+    "ip": "184.102.140.20",
+    "foo": "bar",
+    "profile": {
+        "about": "Another series physical someone current share list after. Interview anything job baby interview speech. Return catch ground who.\nOil again rule tend. Mean late prepare several.",
+        "bio": "Hour individual white carry. Offer room employee. Reduce court collection.\nBelieve night meet rock music positive. One offer far interesting."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}
