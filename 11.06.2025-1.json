@@ -1,0 +1,25 @@
+{
+    "name": "David Burns",
+    "age": 2,
+    "address": {
+        "street": "Susan Crest",
+        "city": "Lake Richardtown",
+        "state": "South Carolina",
+        "zip": "35679"
+    },
+    "contact": {
+        "phone": "+1-202-428-8054",
+        "servicePhone": "800817498"
+    },
+    "birthday": "2023-21-12",
+    "ip": "74.121.11.4",
+    "foo": "bar",
+    "profile": {
+        "about": "Carry firm century low. Address too board position power arm those. Leg this site attention significant.",
+        "bio": "Reduce receive cut get subject policy. Agency appear huge pressure. Foot best include subject.\nManage audience task talk travel first. Usually building huge cup event.\nCharacter anyone soldier."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
