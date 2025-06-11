@@ -1,0 +1,25 @@
+{
+    "name": "Robert Perkins",
+    "age": 91,
+    "address": {
+        "street": "Jones Shore",
+        "city": "South Denise",
+        "state": "Pennsylvania",
+        "zip": "81783"
+    },
+    "contact": {
+        "phone": "662.637.1648x5441",
+        "servicePhone": "800705267"
+    },
+    "birthday": "1934-16-05",
+    "ip": "68.65.228.31",
+    "foo": "bar",
+    "profile": {
+        "about": "Animal mouth myself the player treatment. Difference manage improve plant color them. Threat federal compare past.",
+        "bio": "Happen quickly either. Sure note data.\nManager television raise service trouble between course perhaps. Might friend like subject agree."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
