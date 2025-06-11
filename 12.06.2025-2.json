@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Watson",
+    "age": 53,
+    "address": {
+        "street": "Gamble Plain",
+        "city": "East Maurice",
+        "state": "West Virginia",
+        "zip": "53368"
+    },
+    "contact": {
+        "phone": "(567)938-0104",
+        "servicePhone": "800784364"
+    },
+    "birthday": "1972-21-03",
+    "ip": "65.172.128.146",
+    "foo": "bar",
+    "profile": {
+        "about": "Eight everyone fly hotel yourself sense. Sit do when between read movie agree. Stuff suggest score image.",
+        "bio": "Address this number health hair. That wait protect card. Board building husband network. Road production stage goal.\nInformation nearly senior. Throw raise her fire must middle race."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}
