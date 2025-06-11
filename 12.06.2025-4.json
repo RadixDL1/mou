@@ -1,0 +1,25 @@
+{
+    "name": "Jamie Stevens",
+    "age": 39,
+    "address": {
+        "street": "Hall Haven",
+        "city": "West Kimberlyfurt",
+        "state": "Virginia",
+        "zip": "22783"
+    },
+    "contact": {
+        "phone": "(745)726-5369x2673",
+        "servicePhone": "800196583"
+    },
+    "birthday": "1986-14-10",
+    "ip": "128.151.212.65",
+    "foo": "bar",
+    "profile": {
+        "about": "Let recent agent early may common should officer. Other yourself tonight. Edge provide year loss after perhaps last.\nAlways worry fact particular worry cultural.",
+        "bio": "Nice president pick present forget reason whatever. Movement today individual political social take machine.\nCommunity let stand meeting. Son process common wear itself low alone because."
+    },
+    "currency": [
+        "CNY",
+        "Renminbi"
+    ]
+}
