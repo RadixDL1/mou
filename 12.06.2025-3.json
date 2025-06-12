@@ -1,0 +1,25 @@
+{
+    "name": "Diane Jones",
+    "age": 102,
+    "address": {
+        "street": "Smith Throughway",
+        "city": "Moorefurt",
+        "state": "Tennessee",
+        "zip": "69400"
+    },
+    "contact": {
+        "phone": "(276)985-4574x77849",
+        "servicePhone": "800431543"
+    },
+    "birthday": "1923-26-08",
+    "ip": "223.49.21.219",
+    "foo": "bar",
+    "profile": {
+        "about": "Their financial your some share. Measure present recent reason painting. Understand walk college sound your.",
+        "bio": "Despite news industry effect see. Teach alone cut worker.\nThen control election fast option international. Well it throughout hold."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}
