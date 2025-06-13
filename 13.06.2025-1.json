@@ -1,0 +1,25 @@
+{
+    "name": "Craig Ryan",
+    "age": 12,
+    "address": {
+        "street": "Antonio Falls",
+        "city": "West Brandon",
+        "state": "New York",
+        "zip": "61507"
+    },
+    "contact": {
+        "phone": "484.795.9988x278",
+        "servicePhone": "800322740"
+    },
+    "birthday": "2013-08-08",
+    "ip": "160.189.131.244",
+    "foo": "bar",
+    "profile": {
+        "about": "Film word much. Speak resource official former wait. Possible central know.\nPer she notice side. Question measure local company if husband country. His rate walk.",
+        "bio": "Feeling discuss have against anything response song. Relate blood whole after per body. Who often about away eat.\nSite at value hour build. City up modern arm. Week admit organization."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}
