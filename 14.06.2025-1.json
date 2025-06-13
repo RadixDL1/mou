@@ -1,0 +1,25 @@
+{
+    "name": "Erik Mckinney",
+    "age": 46,
+    "address": {
+        "street": "Jeffrey Cliffs",
+        "city": "Michaelfurt",
+        "state": "South Carolina",
+        "zip": "04742"
+    },
+    "contact": {
+        "phone": "001-581-788-7196x51324",
+        "servicePhone": "800574973"
+    },
+    "birthday": "1979-31-01",
+    "ip": "185.51.13.1",
+    "foo": "bar",
+    "profile": {
+        "about": "Foot ask behavior make city skin. Page sometimes federal.\nHear chair and street building unit. There teach hope each dinner difficult drive. Thus hundred account teacher note structure.",
+        "bio": "Brother because safe lot their. Serious among suggest long dinner book market. First beyond thus piece might write along."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
