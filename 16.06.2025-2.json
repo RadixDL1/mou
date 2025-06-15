@@ -1,0 +1,25 @@
+{
+    "name": "Diane Hale",
+    "age": 4,
+    "address": {
+        "street": "Leslie Inlet",
+        "city": "West Sydneyport",
+        "state": "South Dakota",
+        "zip": "90031"
+    },
+    "contact": {
+        "phone": "(421)382-0820x713",
+        "servicePhone": "800855992"
+    },
+    "birthday": "2021-20-12",
+    "ip": "27.56.204.178",
+    "foo": "bar",
+    "profile": {
+        "about": "Which executive Republican somebody. Best customer true fact. Radio hand body situation the.",
+        "bio": "Guess natural address surface. Exactly way green get star claim pick. Success lawyer space idea certainly. Career compare appear dark because yes tell."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}
