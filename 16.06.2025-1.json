@@ -1,0 +1,25 @@
+{
+    "name": "Michael Lyons",
+    "age": 1,
+    "address": {
+        "street": "Washington Hollow",
+        "city": "Zacharystad",
+        "state": "Missouri",
+        "zip": "17385"
+    },
+    "contact": {
+        "phone": "859.795.6747",
+        "servicePhone": "800623686"
+    },
+    "birthday": "2024-14-10",
+    "ip": "60.252.80.189",
+    "foo": "bar",
+    "profile": {
+        "about": "Population score so beautiful concern. Notice inside challenge think happen late.",
+        "bio": "Their successful science record price. Common across before center affect.\nWeight drive course. Oil sign smile put walk different he consumer."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}
