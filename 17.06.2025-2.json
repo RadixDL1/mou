@@ -1,0 +1,25 @@
+{
+    "name": "Peter Perry",
+    "age": 42,
+    "address": {
+        "street": "Adams Corners",
+        "city": "Seanville",
+        "state": "New Jersey",
+        "zip": "25413"
+    },
+    "contact": {
+        "phone": "(700)264-7696x9489",
+        "servicePhone": "800888070"
+    },
+    "birthday": "1983-12-04",
+    "ip": "149.239.16.94",
+    "foo": "bar",
+    "profile": {
+        "about": "Guess turn family television top. Relationship fire heart increase opportunity option develop.\nAgreement spring sit case yes.",
+        "bio": "Good assume interview care. Several artist rock term wrong feel.\nApproach anyone evening most. Place son pull real science after."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}
