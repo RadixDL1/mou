@@ -1,0 +1,25 @@
+{
+    "name": "Heather Evans",
+    "age": 27,
+    "address": {
+        "street": "Peterson Turnpike",
+        "city": "Lake Reginaldbury",
+        "state": "Oregon",
+        "zip": "33493"
+    },
+    "contact": {
+        "phone": "+1-491-767-9446x57906",
+        "servicePhone": "800057326"
+    },
+    "birthday": "1998-03-09",
+    "ip": "109.122.108.195",
+    "foo": "bar",
+    "profile": {
+        "about": "Top which team method present situation. Think education rest left why born test. Artist try kid see walk seat support.\nBetween family structure buy where protect similar. Finally she practice bank.",
+        "bio": "Live practice growth test idea upon. Check plant break consider certain. Theory campaign thing happy else."
+    },
+    "currency": [
+        "LBP",
+        "Lebanese pound"
+    ]
+}
