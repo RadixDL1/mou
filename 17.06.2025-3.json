@@ -1,0 +1,25 @@
+{
+    "name": "Randy Baldwin",
+    "age": 69,
+    "address": {
+        "street": "Mitchell Wall",
+        "city": "Nunezland",
+        "state": "Arkansas",
+        "zip": "96987"
+    },
+    "contact": {
+        "phone": "(657)417-6633",
+        "servicePhone": "800883563"
+    },
+    "birthday": "1956-12-06",
+    "ip": "54.83.128.29",
+    "foo": "bar",
+    "profile": {
+        "about": "Citizen process thousand prevent measure explain expect. Majority sport building blood cultural certain.",
+        "bio": "Success dark where effort more set far hope. Determine cell human occur note get.\nTheir key center interview apply. Since represent bed edge. Machine near brother require ago team somebody space."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}
