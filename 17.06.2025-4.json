@@ -1,0 +1,25 @@
+{
+    "name": "Heather Morgan",
+    "age": 54,
+    "address": {
+        "street": "Johnston Fort",
+        "city": "New Janetside",
+        "state": "Virginia",
+        "zip": "15485"
+    },
+    "contact": {
+        "phone": "001-783-646-2951x00444",
+        "servicePhone": "800250269"
+    },
+    "birthday": "1971-26-06",
+    "ip": "116.16.58.124",
+    "foo": "bar",
+    "profile": {
+        "about": "Summer also may take series. Allow laugh seven go method painting. Career beat film she manager voice.\nFriend able investment marriage hear. Heart meet live without actually across defense.",
+        "bio": "Follow still down star open subject reflect.\nHappy soon central while. Manage focus receive lose sit staff over. Woman on Republican close."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
