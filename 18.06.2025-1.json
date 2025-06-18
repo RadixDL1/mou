@@ -1,0 +1,25 @@
+{
+    "name": "Douglas Vaughn",
+    "age": 15,
+    "address": {
+        "street": "Jeffery Plains",
+        "city": "West Cassandra",
+        "state": "Oklahoma",
+        "zip": "99855"
+    },
+    "contact": {
+        "phone": "4287603496",
+        "servicePhone": "800226443"
+    },
+    "birthday": "2010-06-05",
+    "ip": "117.48.63.50",
+    "foo": "bar",
+    "profile": {
+        "about": "Produce hospital water rate. Ago control car want in. Develop ground trial discussion election.\nReligious several effort. Throughout wide establish spring listen he.",
+        "bio": "I free operation color. Stage where people draw remember minute."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}
