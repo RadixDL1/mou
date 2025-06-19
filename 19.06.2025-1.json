@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Blair",
+    "age": 47,
+    "address": {
+        "street": "Murray Forks",
+        "city": "Nguyenberg",
+        "state": "Maryland",
+        "zip": "22865"
+    },
+    "contact": {
+        "phone": "613-605-9071x62582",
+        "servicePhone": "800321453"
+    },
+    "birthday": "1978-25-06",
+    "ip": "183.102.8.178",
+    "foo": "bar",
+    "profile": {
+        "about": "Raise write avoid government entire. Style street chance I position discover. Color growth eat have whether cold.\nCheck get sit bank leave. System modern most huge a almost hotel.",
+        "bio": "Power produce new sort reach realize behavior. Later lot issue miss.\nPattern station east toward. Cost this various scene benefit. Institution charge during treatment carry child."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
