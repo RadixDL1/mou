@@ -1,0 +1,25 @@
+{
+    "name": "Randy Williams",
+    "age": 46,
+    "address": {
+        "street": "Jeffrey Manors",
+        "city": "Jacksonview",
+        "state": "Missouri",
+        "zip": "86570"
+    },
+    "contact": {
+        "phone": "001-708-335-1347x90111",
+        "servicePhone": "800380284"
+    },
+    "birthday": "1979-12-09",
+    "ip": "24.193.50.57",
+    "foo": "bar",
+    "profile": {
+        "about": "Race cause risk. Offer foot believe can.\nSo main fear treatment president color local. Religious force try only. Parent total personal imagine. But morning perhaps worry gas.",
+        "bio": "When arm now within next event either near. Past act since six image strong. Tax only technology place couple.\nBy let material. Thus none serious hair under forward across."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
