@@ -1,0 +1,25 @@
+{
+    "name": "Nicholas Leonard",
+    "age": 11,
+    "address": {
+        "street": "Butler Stream",
+        "city": "Dunnfort",
+        "state": "Louisiana",
+        "zip": "37349"
+    },
+    "contact": {
+        "phone": "(333)693-2972x0252",
+        "servicePhone": "800138006"
+    },
+    "birthday": "2014-28-06",
+    "ip": "119.146.19.150",
+    "foo": "bar",
+    "profile": {
+        "about": "Six Mr price team send generation. Report see top staff account. Agency number card paper church serve check. Choice point technology popular.",
+        "bio": "Film center speech fall require though. Safe yeah customer unit. Civil baby catch."
+    },
+    "currency": [
+        "TND",
+        "Tunisian dinar"
+    ]
+}
