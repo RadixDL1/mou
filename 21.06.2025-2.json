@@ -1,0 +1,25 @@
+{
+    "name": "Gina Vasquez",
+    "age": 22,
+    "address": {
+        "street": "Katelyn Gateway",
+        "city": "Lake Kendra",
+        "state": "Maine",
+        "zip": "83629"
+    },
+    "contact": {
+        "phone": "(670)453-9150",
+        "servicePhone": "800744405"
+    },
+    "birthday": "2003-02-02",
+    "ip": "129.207.175.56",
+    "foo": "bar",
+    "profile": {
+        "about": "Box various school above listen author. Citizen the black key research why discussion. Money theory east deep.\nWill left life friend. Arm keep approach. Head what build newspaper.",
+        "bio": "Light or deep lose professor tend. Cause there economy.\nLetter turn war change. Marriage certainly forget glass form air huge case. Likely writer win."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}
