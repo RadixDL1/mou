@@ -1,0 +1,25 @@
+{
+    "name": "Carrie Wood",
+    "age": 30,
+    "address": {
+        "street": "Morgan Port",
+        "city": "Clarkland",
+        "state": "South Carolina",
+        "zip": "99651"
+    },
+    "contact": {
+        "phone": "+1-763-336-8574x81408",
+        "servicePhone": "800281892"
+    },
+    "birthday": "1995-20-09",
+    "ip": "78.174.29.88",
+    "foo": "bar",
+    "profile": {
+        "about": "Create on picture property.\nGround interest thank there can public. Now whether difficult grow.\nOther into job fight evening next door. Tax general fly south trade. Consider foreign clearly state.",
+        "bio": "Relationship suddenly as generation bar other happy happen. Them tough strong bar particular available. Special manage father."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
