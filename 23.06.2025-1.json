@@ -1,0 +1,25 @@
+{
+    "name": "Heather Barrera",
+    "age": 34,
+    "address": {
+        "street": "Cristian Glen",
+        "city": "Lake Timothy",
+        "state": "Indiana",
+        "zip": "94780"
+    },
+    "contact": {
+        "phone": "+1-528-940-9773x81269",
+        "servicePhone": "800520772"
+    },
+    "birthday": "1991-21-02",
+    "ip": "171.108.54.134",
+    "foo": "bar",
+    "profile": {
+        "about": "We yes simply special know with. Role onto management sea safe all occur. One message operation agency first suffer.\nFall line rest glass. Start simple community fly gun physical occur.",
+        "bio": "Simply enter again ahead give within certainly. Amount describe effect easy water consider. Voice up think what training bar series various."
+    },
+    "currency": [
+        "GTQ",
+        "Guatemalan quetzal"
+    ]
+}
