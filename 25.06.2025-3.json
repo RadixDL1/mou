@@ -1,0 +1,25 @@
+{
+    "name": "Kayla Miller",
+    "age": 11,
+    "address": {
+        "street": "Travis Plains",
+        "city": "Tuckerside",
+        "state": "Florida",
+        "zip": "07011"
+    },
+    "contact": {
+        "phone": "(298)321-4609x6762",
+        "servicePhone": "800097410"
+    },
+    "birthday": "2014-23-03",
+    "ip": "160.31.129.219",
+    "foo": "bar",
+    "profile": {
+        "about": "Exactly among federal water. Important investment face account across character. Guy candidate attorney agreement way build.",
+        "bio": "Development change often operation authority speech deep or.\nHere collection nation able building. Situation family big specific support. Stay focus remain hard believe since third."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
