@@ -1,0 +1,25 @@
+{
+    "name": "David Byrd",
+    "age": 31,
+    "address": {
+        "street": "Munoz Knoll",
+        "city": "North Christopher",
+        "state": "Colorado",
+        "zip": "39026"
+    },
+    "contact": {
+        "phone": "(683)491-3083",
+        "servicePhone": "800179722"
+    },
+    "birthday": "1994-19-12",
+    "ip": "187.151.126.64",
+    "foo": "bar",
+    "profile": {
+        "about": "Because chair standard south citizen program particularly claim.\nDifficult difficult process court thought. Nice require candidate pretty. Assume religious myself score material college likely.",
+        "bio": "Catch great find they occur up. Protect reveal four. Young evening also."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
