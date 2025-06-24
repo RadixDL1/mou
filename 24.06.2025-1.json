@@ -1,0 +1,25 @@
+{
+    "name": "Kyle Brown",
+    "age": 46,
+    "address": {
+        "street": "Kathleen Drive",
+        "city": "West Brianborough",
+        "state": "Connecticut",
+        "zip": "73439"
+    },
+    "contact": {
+        "phone": "001-745-908-1933x36774",
+        "servicePhone": "800041737"
+    },
+    "birthday": "1979-01-05",
+    "ip": "112.100.21.214",
+    "foo": "bar",
+    "profile": {
+        "about": "Attention arrive woman rock piece third somebody good. Who local answer moment. Foreign discover central soon maybe night.",
+        "bio": "Arrive sense expert whom wear strong region paper. Fast difference beat beautiful see vote. Figure large approach claim on chance bank."
+    },
+    "currency": [
+        "AFN",
+        "Afghan afghani"
+    ]
+}
