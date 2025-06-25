@@ -1,0 +1,25 @@
+{
+    "name": "Dorothy Miller",
+    "age": 101,
+    "address": {
+        "street": "Amanda Keys",
+        "city": "Andersonberg",
+        "state": "Kentucky",
+        "zip": "82973"
+    },
+    "contact": {
+        "phone": "001-596-354-1707x40463",
+        "servicePhone": "800276719"
+    },
+    "birthday": "1924-06-12",
+    "ip": "62.23.88.162",
+    "foo": "bar",
+    "profile": {
+        "about": "While mean little building west. Commercial purpose environmental foot keep interview officer.",
+        "bio": "Former message rather tend time appear result. Image fire service Mrs change approach tough. Morning friend Republican ball up help particular."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
