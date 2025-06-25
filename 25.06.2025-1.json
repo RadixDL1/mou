@@ -1,0 +1,25 @@
+{
+    "name": "Mrs. Virginia Santos",
+    "age": 5,
+    "address": {
+        "street": "Jason Stravenue",
+        "city": "Port Jeffrey",
+        "state": "Virginia",
+        "zip": "23431"
+    },
+    "contact": {
+        "phone": "001-375-270-6767x513",
+        "servicePhone": "800575958"
+    },
+    "birthday": "2020-13-10",
+    "ip": "30.108.47.37",
+    "foo": "bar",
+    "profile": {
+        "about": "Day sing conference get course available. Executive rate west education sound happy.\nTerm lead election feel. Travel region toward three table. Husband fill former wrong thing.",
+        "bio": "Price see fly top. Between front show end student well."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}
