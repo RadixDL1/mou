@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Peters",
+    "age": 13,
+    "address": {
+        "street": "Julie Inlet",
+        "city": "Lake Kimberlyport",
+        "state": "Arkansas",
+        "zip": "21540"
+    },
+    "contact": {
+        "phone": "001-726-423-8534",
+        "servicePhone": "800579036"
+    },
+    "birthday": "2012-10-10",
+    "ip": "66.10.42.109",
+    "foo": "bar",
+    "profile": {
+        "about": "Coach example camera. Fill suggest air resource.",
+        "bio": "Memory program data task. Consumer foreign factor institution sport. Prevent tell best reduce difficult yourself my carry."
+    },
+    "currency": [
+        "QAR",
+        "Qatari riyal"
+    ]
+}
