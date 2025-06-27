@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Grant",
+    "age": 6,
+    "address": {
+        "street": "White Knoll",
+        "city": "Parrishville",
+        "state": "Nevada",
+        "zip": "16162"
+    },
+    "contact": {
+        "phone": "(694)819-6826",
+        "servicePhone": "800637375"
+    },
+    "birthday": "2019-13-09",
+    "ip": "28.100.80.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Author arrive marriage free. Technology sense next military fight form. Finish suffer sometimes floor into.\nMorning seek despite state ability ten line.\nAuthority such against sit Mr east.",
+        "bio": "Young whatever base station thought style opportunity. Late player response concern democratic condition. Wind focus huge.\nOrder lot show data car able remain. Sell result test couple whose."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
