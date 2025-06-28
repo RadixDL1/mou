@@ -1,0 +1,25 @@
+{
+    "name": "Carol Nolan",
+    "age": 29,
+    "address": {
+        "street": "Flores Hill",
+        "city": "Wilsonside",
+        "state": "Virginia",
+        "zip": "55288"
+    },
+    "contact": {
+        "phone": "+1-435-470-2136x93546",
+        "servicePhone": "800273983"
+    },
+    "birthday": "1996-22-01",
+    "ip": "141.53.203.203",
+    "foo": "bar",
+    "profile": {
+        "about": "Hospital say whatever meeting any. Degree really beautiful back most player throughout. Interesting brother rule business.",
+        "bio": "Four appear effect coach response enough before. Full unit heart news security mouth. Foreign serve final among."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
