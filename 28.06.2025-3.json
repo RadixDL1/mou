@@ -1,0 +1,25 @@
+{
+    "name": "Alicia Jones",
+    "age": 96,
+    "address": {
+        "street": "Manning Wells",
+        "city": "Lisaview",
+        "state": "New Hampshire",
+        "zip": "90445"
+    },
+    "contact": {
+        "phone": "+1-791-339-2462x0145",
+        "servicePhone": "800106305"
+    },
+    "birthday": "1929-04-02",
+    "ip": "103.218.28.215",
+    "foo": "bar",
+    "profile": {
+        "about": "Tonight season condition particularly. Away food marriage action. Difficult home control friend from.\nNight the even interesting. Skin full score clearly realize cost player. Team sit cultural wear.",
+        "bio": "Share people certainly lay speech. Area defense there.\nWork much bill. Behavior include summer cut risk ever. Newspaper star these and."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}
