@@ -1,0 +1,25 @@
+{
+    "name": "Heather Martinez",
+    "age": 115,
+    "address": {
+        "street": "Tony Row",
+        "city": "West Jonathonport",
+        "state": "Wyoming",
+        "zip": "08208"
+    },
+    "contact": {
+        "phone": "+1-928-445-5753x65268",
+        "servicePhone": "800706002"
+    },
+    "birthday": "1910-24-02",
+    "ip": "176.138.189.24",
+    "foo": "bar",
+    "profile": {
+        "about": "Church talk bad.\nConsider determine summer city fire send cultural. Capital ability already song.\nBody address American service food eight. Perhaps guy some sense receive. Pay weight answer season.",
+        "bio": "Raise drop across name cultural check sure. Try economic school total assume sport Mrs treat."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}
