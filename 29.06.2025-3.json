@@ -1,0 +1,25 @@
+{
+    "name": "Jeremy Hughes",
+    "age": 14,
+    "address": {
+        "street": "John Flats",
+        "city": "Robinsonbury",
+        "state": "Kansas",
+        "zip": "90124"
+    },
+    "contact": {
+        "phone": "613.302.6113x6540",
+        "servicePhone": "800488637"
+    },
+    "birthday": "2011-22-08",
+    "ip": "221.240.111.232",
+    "foo": "bar",
+    "profile": {
+        "about": "Natural stay question. View meet by. Left mouth director official get day cost natural.\nPut option public century. Small three include rise. State staff ground produce science.",
+        "bio": "During to war million marriage themselves especially. Sure real per street. Itself someone with realize ask stock quickly call.\nDrug since wife goal choice serious believe. For phone design."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
