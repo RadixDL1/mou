@@ -1,0 +1,25 @@
+{
+    "name": "Kathleen Nichols",
+    "age": 29,
+    "address": {
+        "street": "Mariah Hill",
+        "city": "Miaville",
+        "state": "Ohio",
+        "zip": "08756"
+    },
+    "contact": {
+        "phone": "466-960-7113x24430",
+        "servicePhone": "800984400"
+    },
+    "birthday": "1996-19-07",
+    "ip": "134.144.156.251",
+    "foo": "bar",
+    "profile": {
+        "about": "Thousand drive agree minute him such fight spring. Defense reason continue.\nTown then budget herself ask have clearly than. Clear staff budget town admit employee. Green fly shake everybody partner.",
+        "bio": "Tax group report reason consider. Their thank success meeting coach line service north. Either news certain candidate price lawyer to.\nEvening recognize line."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}
