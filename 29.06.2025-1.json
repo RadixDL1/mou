@@ -1,0 +1,25 @@
+{
+    "name": "Gregory Medina",
+    "age": 83,
+    "address": {
+        "street": "Heather Junctions",
+        "city": "North Randall",
+        "state": "Alabama",
+        "zip": "80278"
+    },
+    "contact": {
+        "phone": "633.443.0109",
+        "servicePhone": "800742927"
+    },
+    "birthday": "1942-11-02",
+    "ip": "11.213.122.148",
+    "foo": "bar",
+    "profile": {
+        "about": "On keep health worry child show. Democrat company who similar. Financial produce room others wall. Image quite likely across.\nSay cost worry board. Hear story degree morning.",
+        "bio": "Mention remain politics this. Another weight leg hair seat open live fast. Guy position consider whom high stay.\nSimply PM off customer. Light your war really record."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
