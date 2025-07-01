@@ -1,0 +1,25 @@
+{
+    "name": "Martin Perez",
+    "age": 8,
+    "address": {
+        "street": "Thompson Forge",
+        "city": "North Jason",
+        "state": "Arkansas",
+        "zip": "08775"
+    },
+    "contact": {
+        "phone": "(933)951-7586x7637",
+        "servicePhone": "800894866"
+    },
+    "birthday": "2017-24-08",
+    "ip": "47.202.23.139",
+    "foo": "bar",
+    "profile": {
+        "about": "Generation pretty act.\nProvide charge water business. These attention law rise rest.",
+        "bio": "Your ready art reduce skin card. Pull level clearly goal her very instead third. Surface future role change interest sign."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}
