@@ -1,0 +1,25 @@
+{
+    "name": "Craig Cervantes",
+    "age": 76,
+    "address": {
+        "street": "Luis Knoll",
+        "city": "Bryanburgh",
+        "state": "Connecticut",
+        "zip": "21424"
+    },
+    "contact": {
+        "phone": "517-287-3264",
+        "servicePhone": "800286468"
+    },
+    "birthday": "1949-20-11",
+    "ip": "220.219.131.148",
+    "foo": "bar",
+    "profile": {
+        "about": "Bag figure summer since key. Agency identify international reflect less fund admit very.\nNature return affect finish.\nCommon wonder reduce across fine. Several American have place lay again another.",
+        "bio": "Few a team soldier wish life. Church question best. Poor fact back physical. Walk partner quite image.\nGo option approach score. West produce pass rate. Find since consider before air represent."
+    },
+    "currency": [
+        "TMT",
+        "Turkmenistan manat"
+    ]
+}
