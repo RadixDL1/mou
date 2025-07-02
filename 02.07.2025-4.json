@@ -1,0 +1,25 @@
+{
+    "name": "John Long",
+    "age": 14,
+    "address": {
+        "street": "Hamilton Fort",
+        "city": "Kaylaburgh",
+        "state": "Minnesota",
+        "zip": "32959"
+    },
+    "contact": {
+        "phone": "(669)726-4223x92424",
+        "servicePhone": "800528890"
+    },
+    "birthday": "2011-10-04",
+    "ip": "42.134.53.137",
+    "foo": "bar",
+    "profile": {
+        "about": "Skill agree you.\nNone poor according left young by condition thousand. Once several now author forward important. Technology find second author.",
+        "bio": "Fact social according control shoulder paper material computer. Window five which nature send ability family worry.\nFast offer build I. Understand game though."
+    },
+    "currency": [
+        "CDF",
+        "Congolese franc"
+    ]
+}
