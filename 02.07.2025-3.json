@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Baldwin",
+    "age": 9,
+    "address": {
+        "street": "Shannon Spur",
+        "city": "Port Roberttown",
+        "state": "Nebraska",
+        "zip": "78385"
+    },
+    "contact": {
+        "phone": "959.417.1956x95208",
+        "servicePhone": "800862385"
+    },
+    "birthday": "2016-31-12",
+    "ip": "4.74.185.28",
+    "foo": "bar",
+    "profile": {
+        "about": "Growth half down forget. Doctor win require.\nLarge method activity base father set. Center recent per each task.\nProduction very its thus reason receive policy.",
+        "bio": "Entire manage doctor worry front nation country. Thank son choice language care community sometimes cover. Her happy different become action yourself toward. Finally feel health up board."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}
