@@ -1,0 +1,25 @@
+{
+    "name": "Erin Mendoza",
+    "age": 93,
+    "address": {
+        "street": "Chelsea Points",
+        "city": "Muellerborough",
+        "state": "Iowa",
+        "zip": "44700"
+    },
+    "contact": {
+        "phone": "364-576-5554",
+        "servicePhone": "800337559"
+    },
+    "birthday": "1932-26-09",
+    "ip": "123.85.110.95",
+    "foo": "bar",
+    "profile": {
+        "about": "Citizen Democrat establish. Participant positive foot remember.\nYeah over chair positive radio win. Past stage life we relate church catch.",
+        "bio": "Audience Congress my. City college another professional town team own. Air conference chair probably.\nAccept when certain pay event. Goal tonight show capital learn window bar."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}
