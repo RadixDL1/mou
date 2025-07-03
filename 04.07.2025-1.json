@@ -1,0 +1,25 @@
+{
+    "name": "Angela Day",
+    "age": 113,
+    "address": {
+        "street": "David Roads",
+        "city": "New Jennifer",
+        "state": "Minnesota",
+        "zip": "10472"
+    },
+    "contact": {
+        "phone": "338.758.5779x0613",
+        "servicePhone": "800756346"
+    },
+    "birthday": "1912-23-11",
+    "ip": "39.0.205.101",
+    "foo": "bar",
+    "profile": {
+        "about": "Leave military color table mother. Television poor good conference fear.\nGuess lay land type. Chair nature tough grow. Memory modern enough radio people.",
+        "bio": "Manager sit action gun music particularly result. Imagine technology true example. Between class able senior west security."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}
