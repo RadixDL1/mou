@@ -1,0 +1,25 @@
+{
+    "name": "Samantha Reynolds",
+    "age": 4,
+    "address": {
+        "street": "Duncan Crossing",
+        "city": "Lake Marvinfurt",
+        "state": "New Hampshire",
+        "zip": "88753"
+    },
+    "contact": {
+        "phone": "+1-275-835-2599x42246",
+        "servicePhone": "800525206"
+    },
+    "birthday": "2021-21-02",
+    "ip": "125.20.7.237",
+    "foo": "bar",
+    "profile": {
+        "about": "College friend skin whether. Control church black card air. Trade agency force world focus structure degree.\nAllow base daughter well continue reach development. Most ability floor body until.",
+        "bio": "Camera according camera kind. Executive perhaps force whether it.\nRegion game me there represent leave. Parent available professor foot what rise."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
