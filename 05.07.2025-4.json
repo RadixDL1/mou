@@ -1,0 +1,25 @@
+{
+    "name": "Albert Morales",
+    "age": 48,
+    "address": {
+        "street": "Michael Burgs",
+        "city": "Sandrahaven",
+        "state": "Connecticut",
+        "zip": "24584"
+    },
+    "contact": {
+        "phone": "(529)319-1834x30990",
+        "servicePhone": "800333321"
+    },
+    "birthday": "1977-31-12",
+    "ip": "58.78.14.28",
+    "foo": "bar",
+    "profile": {
+        "about": "Even against young movement part.\nSignificant answer course again. Money data day quite. Pattern individual author account whom tonight them government.",
+        "bio": "Visit learn worry budget feel. Individual opportunity news.\nSea own know resource also against. Analysis article write."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}
