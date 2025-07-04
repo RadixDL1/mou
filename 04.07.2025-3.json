@@ -1,0 +1,25 @@
+{
+    "name": "Betty Ford",
+    "age": 76,
+    "address": {
+        "street": "Hickman Circles",
+        "city": "Loristad",
+        "state": "Tennessee",
+        "zip": "24522"
+    },
+    "contact": {
+        "phone": "+1-493-993-7988x20794",
+        "servicePhone": "800543392"
+    },
+    "birthday": "1949-31-05",
+    "ip": "218.50.103.134",
+    "foo": "bar",
+    "profile": {
+        "about": "Hour popular us natural ask change. Evidence why whole face dog admit. Many space by Democrat executive.\nHead evening no future why your. That town civil stock blood protect hard him.",
+        "bio": "Collection pull after sport. Walk cell end in middle majority environmental yeah. Forget player teacher party.\nKey bed maintain mind important."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
