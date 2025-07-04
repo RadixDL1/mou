@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Jordan",
+    "age": 93,
+    "address": {
+        "street": "Rodriguez Lakes",
+        "city": "South Marcia",
+        "state": "Connecticut",
+        "zip": "10878"
+    },
+    "contact": {
+        "phone": "463.402.6918x208",
+        "servicePhone": "800538580"
+    },
+    "birthday": "1932-27-04",
+    "ip": "173.230.249.76",
+    "foo": "bar",
+    "profile": {
+        "about": "Democratic soldier maybe effort natural. Son any interesting.\nTwo pretty especially full response people many without. Third fish above exactly create air.",
+        "bio": "Staff future husband board business. Thank reduce kind anything recently party. Resource himself person stop hour. History ago size any."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}
