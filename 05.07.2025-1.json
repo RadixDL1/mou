@@ -1,0 +1,25 @@
+{
+    "name": "Alexis Booker",
+    "age": 59,
+    "address": {
+        "street": "Gabriel Valley",
+        "city": "Shannonchester",
+        "state": "Alaska",
+        "zip": "74773"
+    },
+    "contact": {
+        "phone": "+1-414-889-9285x06631",
+        "servicePhone": "800760174"
+    },
+    "birthday": "1966-26-12",
+    "ip": "113.147.219.100",
+    "foo": "bar",
+    "profile": {
+        "about": "Around practice finish should. Become bank option authority door possible.\nSeries travel market task push today within. Trouble expect appear reality miss recently energy.",
+        "bio": "Everybody office history time. System walk involve use through growth light third."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}
