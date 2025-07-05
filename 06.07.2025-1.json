@@ -1,0 +1,25 @@
+{
+    "name": "Adam Clarke",
+    "age": 89,
+    "address": {
+        "street": "Boyd Port",
+        "city": "Johnstad",
+        "state": "New Jersey",
+        "zip": "92803"
+    },
+    "contact": {
+        "phone": "2795919547",
+        "servicePhone": "800375585"
+    },
+    "birthday": "1936-26-12",
+    "ip": "69.37.243.63",
+    "foo": "bar",
+    "profile": {
+        "about": "Those agent forget only former our bill page. Go concern fill method them begin. Energy through ball science. Cause Democrat though that federal toward.",
+        "bio": "Arm cut instead time these know do. Whom walk kitchen rock southern sport. Must truth ago film late.\nBenefit watch reveal affect. Writer military their. Population in describe."
+    },
+    "currency": [
+        "CNY",
+        "Renminbi"
+    ]
+}
