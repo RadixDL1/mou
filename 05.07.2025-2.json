@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Lloyd",
+    "age": 105,
+    "address": {
+        "street": "Juan Points",
+        "city": "South Shannonstad",
+        "state": "North Carolina",
+        "zip": "02152"
+    },
+    "contact": {
+        "phone": "(803)601-3367",
+        "servicePhone": "800608652"
+    },
+    "birthday": "1920-17-01",
+    "ip": "181.10.7.149",
+    "foo": "bar",
+    "profile": {
+        "about": "Race identify own deep. More coach after need knowledge left.\nCrime Mr realize eye way against fire. Whose nature few know detail recent.\nAmount teach never protect take. Night pull cause something.",
+        "bio": "Although and involve light good. Ready actually candidate sound green.\nRather that ability north lead. Outside above fast case. Mean write dog open already behavior."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
