@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Scott",
+    "age": 57,
+    "address": {
+        "street": "Black Mall",
+        "city": "Marcusport",
+        "state": "Minnesota",
+        "zip": "18120"
+    },
+    "contact": {
+        "phone": "(631)660-7944x19077",
+        "servicePhone": "800854012"
+    },
+    "birthday": "1968-27-07",
+    "ip": "54.78.218.115",
+    "foo": "bar",
+    "profile": {
+        "about": "Out race easy bring. Point spend difficult popular defense enough not. Member rock hour edge marriage low quite.\nBill discussion military financial. Customer wind real list.",
+        "bio": "Cold herself bit tough. Able out amount fill reason serve. That practice memory.\nExpert major real action Mrs letter. Vote no model do. Music easy goal language you."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
