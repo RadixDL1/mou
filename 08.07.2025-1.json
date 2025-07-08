@@ -1,0 +1,25 @@
+{
+    "name": "Maria Hamilton",
+    "age": 0,
+    "address": {
+        "street": "Ramirez Grove",
+        "city": "Harveyton",
+        "state": "Idaho",
+        "zip": "25952"
+    },
+    "contact": {
+        "phone": "715-889-6862x8501",
+        "servicePhone": "800804776"
+    },
+    "birthday": "2025-21-01",
+    "ip": "144.89.195.71",
+    "foo": "bar",
+    "profile": {
+        "about": "Center machine its everything seat study. New skill behind such focus.\nNecessary possible both. Information would half imagine.",
+        "bio": "True it general nothing professional ever. Improve since spring wish team. Sure without son can matter range.\nPosition street only it. Police enter perhaps media Democrat nice character."
+    },
+    "currency": [
+        "QAR",
+        "Qatari riyal"
+    ]
+}
