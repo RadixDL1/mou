@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Green",
+    "age": 37,
+    "address": {
+        "street": "Tapia Junction",
+        "city": "Port Crystalbury",
+        "state": "New York",
+        "zip": "55315"
+    },
+    "contact": {
+        "phone": "(959)738-7193x14544",
+        "servicePhone": "800343569"
+    },
+    "birthday": "1988-08-11",
+    "ip": "17.96.165.65",
+    "foo": "bar",
+    "profile": {
+        "about": "Cell less heavy seven dark meet forget. Then person admit investment ask let require. Amount resource report.\nBad happen room. Leg discussion put manage exist. Real they plan age low character.",
+        "bio": "Possible work east truth.\nFour most poor give.\nTeacher popular high bed team region. Detail big common idea often him phone."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
