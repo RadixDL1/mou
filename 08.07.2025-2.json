@@ -1,0 +1,25 @@
+{
+    "name": "Steven Cochran",
+    "age": 95,
+    "address": {
+        "street": "Valerie Plains",
+        "city": "West Antonio",
+        "state": "Colorado",
+        "zip": "30605"
+    },
+    "contact": {
+        "phone": "248-713-2031x0942",
+        "servicePhone": "800816774"
+    },
+    "birthday": "1930-02-03",
+    "ip": "154.118.111.201",
+    "foo": "bar",
+    "profile": {
+        "about": "Guy each again write thank young. Generation hard debate gas audience writer.",
+        "bio": "Test project cultural economic score how. Charge glass goal others side either statement.\nEven man sign source. Radio team marriage suffer reality large similar policy. Address south wind effort."
+    },
+    "currency": [
+        "LTL",
+        "Lithuanian litas"
+    ]
+}
