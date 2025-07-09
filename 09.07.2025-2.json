@@ -1,0 +1,25 @@
+{
+    "name": "Olivia Henry",
+    "age": 64,
+    "address": {
+        "street": "Wade Squares",
+        "city": "South Matthewville",
+        "state": "Colorado",
+        "zip": "06792"
+    },
+    "contact": {
+        "phone": "8893002584",
+        "servicePhone": "800706400"
+    },
+    "birthday": "1961-06-09",
+    "ip": "66.99.129.173",
+    "foo": "bar",
+    "profile": {
+        "about": "Necessary read early agent it although think between. Natural everybody subject. Good hotel night nothing reach threat.",
+        "bio": "Where out morning give modern. Point data produce painting.\nSmile management account yourself still.\nYou soldier morning this herself interesting financial."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
