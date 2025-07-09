@@ -1,0 +1,25 @@
+{
+    "name": "Bryan Hood",
+    "age": 57,
+    "address": {
+        "street": "Jessica Squares",
+        "city": "Wrightborough",
+        "state": "Arizona",
+        "zip": "28774"
+    },
+    "contact": {
+        "phone": "462.874.0661x08003",
+        "servicePhone": "800958218"
+    },
+    "birthday": "1968-20-07",
+    "ip": "96.29.52.108",
+    "foo": "bar",
+    "profile": {
+        "about": "Add soldier significant table government call.\nResource reduce herself live economic black east short. Data teach fire any hand financial. May card per determine but mother nice.",
+        "bio": "National eight provide perhaps lose. Point common what up. Watch image drug scene let. Effort walk throughout space.\nAlong create seek responsibility who. Try finish positive my five."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
