@@ -1,0 +1,25 @@
+{
+    "name": "Michael Fuller",
+    "age": 35,
+    "address": {
+        "street": "Bryant Harbor",
+        "city": "Saraside",
+        "state": "Wisconsin",
+        "zip": "67196"
+    },
+    "contact": {
+        "phone": "(429)788-3592x0697",
+        "servicePhone": "800740115"
+    },
+    "birthday": "1990-23-05",
+    "ip": "189.52.1.18",
+    "foo": "bar",
+    "profile": {
+        "about": "Image player student manager. Federal number statement issue. Business him exist water happy environment language finish.",
+        "bio": "Why environment especially. Hand occur order economy ask long.\nStop strong likely. Wonder meet subject better nothing. Save worker mother best east against."
+    },
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}
