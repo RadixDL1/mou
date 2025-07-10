@@ -1,0 +1,25 @@
+{
+    "name": "Jared Shaffer",
+    "age": 37,
+    "address": {
+        "street": "Ryan Field",
+        "city": "Port Richard",
+        "state": "Oregon",
+        "zip": "14660"
+    },
+    "contact": {
+        "phone": "957-235-5550x6221",
+        "servicePhone": "800723400"
+    },
+    "birthday": "1988-14-06",
+    "ip": "223.17.241.18",
+    "foo": "bar",
+    "profile": {
+        "about": "Worker probably lead statement. Both serve chance student. Arrive woman somebody.\nConsider cut same begin. Energy serve case.",
+        "bio": "Fill more consumer line begin. Investment piece just indeed defense out. Expect event stuff let guy. Enjoy street son."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}
