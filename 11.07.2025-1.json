@@ -1,0 +1,25 @@
+{
+    "name": "Nicole Navarro",
+    "age": 6,
+    "address": {
+        "street": "Spencer Trafficway",
+        "city": "Port Courtneyville",
+        "state": "Arizona",
+        "zip": "06737"
+    },
+    "contact": {
+        "phone": "275.951.6828x1517",
+        "servicePhone": "800497402"
+    },
+    "birthday": "2019-14-04",
+    "ip": "138.65.218.49",
+    "foo": "bar",
+    "profile": {
+        "about": "Generation matter provide heart like. War material decade both administration student. Huge seek finish structure partner child.",
+        "bio": "Big area half head yes. Often walk both either great war happy say.\nServe central quality election could put although. Under at scene imagine."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
