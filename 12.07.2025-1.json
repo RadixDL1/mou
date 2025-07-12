@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Vaughn",
+    "age": 33,
+    "address": {
+        "street": "Williams Glen",
+        "city": "Morrisview",
+        "state": "California",
+        "zip": "22569"
+    },
+    "contact": {
+        "phone": "465.534.4483x728",
+        "servicePhone": "800762017"
+    },
+    "birthday": "1992-26-06",
+    "ip": "4.50.160.52",
+    "foo": "bar",
+    "profile": {
+        "about": "Car view leg dream down wall view. Meeting million high affect.\nInternational role recently woman.",
+        "bio": "Prepare reveal green turn star. Theory attention science president through and source.\nNext now not painting wonder book less government. Out wish avoid school."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}
