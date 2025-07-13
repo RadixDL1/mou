@@ -1,0 +1,25 @@
+{
+    "name": "Veronica Burns",
+    "age": 49,
+    "address": {
+        "street": "Brian Overpass",
+        "city": "South Adammouth",
+        "state": "Idaho",
+        "zip": "15398"
+    },
+    "contact": {
+        "phone": "001-746-608-3143",
+        "servicePhone": "800600632"
+    },
+    "birthday": "1976-18-01",
+    "ip": "43.211.65.191",
+    "foo": "bar",
+    "profile": {
+        "about": "He civil reality final garden will whether. Buy machine evening attention common raise.",
+        "bio": "He eye military recognize stock scene. As green probably month fly above among feeling. Leg when get author once relationship early real. Prevent save leg nothing."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}
