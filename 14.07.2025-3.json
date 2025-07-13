@@ -1,0 +1,25 @@
+{
+    "name": "Joyce Williams",
+    "age": 40,
+    "address": {
+        "street": "Christopher Shoals",
+        "city": "East Rodney",
+        "state": "Montana",
+        "zip": "43980"
+    },
+    "contact": {
+        "phone": "556-597-7956x06543",
+        "servicePhone": "800006190"
+    },
+    "birthday": "1985-19-09",
+    "ip": "92.105.205.197",
+    "foo": "bar",
+    "profile": {
+        "about": "Simple big town. Present operation move office consider trouble summer. Medical speech early mean.\nBring tonight player class you. Free address treat time last feel.",
+        "bio": "Economy degree region almost culture medical choice. Effort amount listen rest go."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}
