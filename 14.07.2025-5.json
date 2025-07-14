@@ -1,0 +1,25 @@
+{
+    "name": "Rebekah Collins",
+    "age": 42,
+    "address": {
+        "street": "Chavez Cove",
+        "city": "Deniseside",
+        "state": "Minnesota",
+        "zip": "87810"
+    },
+    "contact": {
+        "phone": "001-402-659-8520x4988",
+        "servicePhone": "800438973"
+    },
+    "birthday": "1983-12-10",
+    "ip": "201.181.117.214",
+    "foo": "bar",
+    "profile": {
+        "about": "Meeting family high chance along develop. Age ever meet improve senior. Science fund war goal.",
+        "bio": "Bad life sport word stuff responsibility.\nBuild yeah recognize trial. Guess seven want thing. Ok quality team president response throughout.\nHappy bank to huge series hot camera. Vote prepare stage."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}
