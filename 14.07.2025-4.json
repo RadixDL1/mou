@@ -1,0 +1,25 @@
+{
+    "name": "David Williams",
+    "age": 10,
+    "address": {
+        "street": "Holmes Lights",
+        "city": "Amandatown",
+        "state": "Illinois",
+        "zip": "63469"
+    },
+    "contact": {
+        "phone": "(886)261-0925x96408",
+        "servicePhone": "800309526"
+    },
+    "birthday": "2015-26-03",
+    "ip": "30.128.179.90",
+    "foo": "bar",
+    "profile": {
+        "about": "Popular identify leave close herself down. Place third message.\nAttention then national already final agency.\nProbably religious single memory age hundred. Bed great at act talk mother least.",
+        "bio": "Nor picture her. Information thing democratic American major clear try.\nCommon finally tough save defense pick wall hear. Fly run interest body before response."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
