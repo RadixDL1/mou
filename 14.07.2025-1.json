@@ -1,0 +1,25 @@
+{
+    "name": "Susan Lamb",
+    "age": 59,
+    "address": {
+        "street": "Javier Tunnel",
+        "city": "Lake Tiffanyburgh",
+        "state": "New York",
+        "zip": "93425"
+    },
+    "contact": {
+        "phone": "917-497-6860",
+        "servicePhone": "800873386"
+    },
+    "birthday": "1966-26-12",
+    "ip": "43.99.0.220",
+    "foo": "bar",
+    "profile": {
+        "about": "Fill remember explain else back. Stay forward throughout risk. Beat follow study use.\nStaff look new statement sing. Computer friend even entire. Line respond adult small difference six.",
+        "bio": "North boy computer far. Film among budget perhaps commercial pay follow. That decide behind number stock range strategy.\nSecurity along nor almost for.\nWord six road cold Congress far make."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
