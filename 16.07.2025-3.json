@@ -1,0 +1,25 @@
+{
+    "name": "Rhonda Graham",
+    "age": 62,
+    "address": {
+        "street": "Ernest Center",
+        "city": "Bradleychester",
+        "state": "Minnesota",
+        "zip": "69534"
+    },
+    "contact": {
+        "phone": "001-933-794-7835",
+        "servicePhone": "800796705"
+    },
+    "birthday": "1963-08-01",
+    "ip": "41.254.233.205",
+    "foo": "bar",
+    "profile": {
+        "about": "Between store character rest. Throw everything test value. Early ahead play source player whole including.\nVarious since member prevent. Senior year while never spring. According not fall director.",
+        "bio": "Start body defense knowledge since dream away. Admit bill kitchen. Defense house say face brother all experience. Business control great find believe throughout single."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
