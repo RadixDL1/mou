@@ -1,0 +1,25 @@
+{
+    "name": "Brent Arellano",
+    "age": 9,
+    "address": {
+        "street": "John Squares",
+        "city": "Lake Karen",
+        "state": "Tennessee",
+        "zip": "70385"
+    },
+    "contact": {
+        "phone": "(847)823-2014x532",
+        "servicePhone": "800120547"
+    },
+    "birthday": "2016-06-06",
+    "ip": "47.23.36.31",
+    "foo": "bar",
+    "profile": {
+        "about": "Benefit financial like trouble history beyond. Build challenge decade industry art key produce.\nJust our about. Become provide Mr better allow. Body spring keep million nor.",
+        "bio": "Region stop class situation. Something say conference.\nOil commercial house establish. Song from north region hope analysis American. Box administration little moment decision could time brother."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
