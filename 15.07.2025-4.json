@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Smith",
+    "age": 8,
+    "address": {
+        "street": "Ford Expressway",
+        "city": "Port Kyle",
+        "state": "Oregon",
+        "zip": "62776"
+    },
+    "contact": {
+        "phone": "+1-519-479-0444x106",
+        "servicePhone": "800215950"
+    },
+    "birthday": "2017-01-10",
+    "ip": "50.47.72.255",
+    "foo": "bar",
+    "profile": {
+        "about": "Do tonight each food decade. Cell phone speak member.\nPage adult sign matter sign man town. You eye girl travel full job. Each front significant risk I it common.",
+        "bio": "Teach determine the threat sure. Always age interest painting. Large course whatever research. Both member mean rather get family people."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
