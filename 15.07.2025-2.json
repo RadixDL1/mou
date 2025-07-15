@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Williams",
+    "age": 76,
+    "address": {
+        "street": "Stevens Fields",
+        "city": "Danaton",
+        "state": "Florida",
+        "zip": "16550"
+    },
+    "contact": {
+        "phone": "500-926-1733",
+        "servicePhone": "800602768"
+    },
+    "birthday": "1949-11-08",
+    "ip": "147.0.15.244",
+    "foo": "bar",
+    "profile": {
+        "about": "Ago close after enter until fall. Course about experience cut everything authority.\nSit magazine maintain place strong. Past reduce case production personal.",
+        "bio": "High real decade position. Despite quite take theory matter hope beyond. Detail something as control I. Lay control add."
+    },
+    "currency": [
+        "TOP",
+        "Tongan paʻanga"
+    ]
+}
