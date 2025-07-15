@@ -1,0 +1,25 @@
+{
+    "name": "Tiffany Rodriguez",
+    "age": 63,
+    "address": {
+        "street": "Schwartz View",
+        "city": "Alvarezland",
+        "state": "Alaska",
+        "zip": "18494"
+    },
+    "contact": {
+        "phone": "860.648.7478x445",
+        "servicePhone": "800929718"
+    },
+    "birthday": "1962-15-08",
+    "ip": "199.186.53.12",
+    "foo": "bar",
+    "profile": {
+        "about": "Movie two cold phone always lot. Result time guy. Film clearly especially evidence wind.\nNumber federal sign. Be while grow probably bar.",
+        "bio": "Weight next whose morning material view. Finish late toward smile major resource.\nWell work nation much. Agent could record reality. Science window stock agent news experience onto."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}
