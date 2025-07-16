@@ -1,0 +1,25 @@
+{
+    "name": "Brandon Robinson",
+    "age": 88,
+    "address": {
+        "street": "Clark Shores",
+        "city": "Longfort",
+        "state": "Maryland",
+        "zip": "02190"
+    },
+    "contact": {
+        "phone": "+1-484-710-0113",
+        "servicePhone": "800274716"
+    },
+    "birthday": "1937-01-12",
+    "ip": "84.78.44.98",
+    "foo": "bar",
+    "profile": {
+        "about": "Thing quite wall author. Buy end operation hold surface up service.\nAttention chance stop need several.",
+        "bio": "Traditional institution certainly leg. Speak sport picture need. List voice machine past."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}
