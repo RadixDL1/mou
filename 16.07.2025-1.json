@@ -1,0 +1,25 @@
+{
+    "name": "Jordan Johnson",
+    "age": 96,
+    "address": {
+        "street": "Barr Course",
+        "city": "Justinmouth",
+        "state": "Tennessee",
+        "zip": "16114"
+    },
+    "contact": {
+        "phone": "+1-545-488-3880",
+        "servicePhone": "800936571"
+    },
+    "birthday": "1929-03-10",
+    "ip": "90.50.180.67",
+    "foo": "bar",
+    "profile": {
+        "about": "Concern approach thank computer power live. Difference table first. Doctor life heart quality ready himself.",
+        "bio": "Both natural ability stock.\nReady part future power simply information never. Not explain ago prepare. Risk phone knowledge college base form. Particular begin senior catch common but sister effort."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}
