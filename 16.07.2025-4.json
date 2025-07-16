@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Atkins",
+    "age": 88,
+    "address": {
+        "street": "Myers Squares",
+        "city": "Tiffanystad",
+        "state": "Mississippi",
+        "zip": "57119"
+    },
+    "contact": {
+        "phone": "293-755-5414x5091",
+        "servicePhone": "800880703"
+    },
+    "birthday": "1937-11-10",
+    "ip": "70.81.209.189",
+    "foo": "bar",
+    "profile": {
+        "about": "Carry hear food the finish smile. With vote nation address sure and. Subject hand type true light.",
+        "bio": "Ball tell nature hear. Line table star team term decade run. Under determine personal send yes share expect.\nSeries sing program indeed product she tell."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}
