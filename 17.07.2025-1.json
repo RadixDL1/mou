@@ -1,0 +1,25 @@
+{
+    "name": "Susan Gonzales",
+    "age": 114,
+    "address": {
+        "street": "Jeffrey Mills",
+        "city": "New Michael",
+        "state": "Texas",
+        "zip": "87628"
+    },
+    "contact": {
+        "phone": "648.269.5380x627",
+        "servicePhone": "800522132"
+    },
+    "birthday": "1911-14-01",
+    "ip": "15.253.142.2",
+    "foo": "bar",
+    "profile": {
+        "about": "Way news might fire whose perhaps stock. We we commercial number. Available treat and hot finish.\nGrowth meet assume nature million black. Table east kind.",
+        "bio": "Practice sure myself deep federal wear. Fear home pretty become wonder fire. Word become as contain reveal.\nStop until must market. Fall bar serious present. Quality serve could."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
