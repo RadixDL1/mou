@@ -1,0 +1,25 @@
+{
+    "name": "Jacob Hayes",
+    "age": 54,
+    "address": {
+        "street": "Aguilar Loop",
+        "city": "Port Amybury",
+        "state": "Nebraska",
+        "zip": "11443"
+    },
+    "contact": {
+        "phone": "001-249-667-0640x95851",
+        "servicePhone": "800779849"
+    },
+    "birthday": "1971-31-01",
+    "ip": "162.131.69.229",
+    "foo": "bar",
+    "profile": {
+        "about": "Goal feel special. If practice go evidence manage fly.\nThreat able wide enjoy address. Energy economy require play end resource.",
+        "bio": "Successful field health accept father position five. Really order growth economic piece deep.\nFeel special almost series two. City law produce oil body policy."
+    },
+    "currency": [
+        "EUR",
+        "Euro"
+    ]
+}
