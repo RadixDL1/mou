@@ -1,0 +1,25 @@
+{
+    "name": "James Gonzalez",
+    "age": 57,
+    "address": {
+        "street": "Pace Parkways",
+        "city": "Darrentown",
+        "state": "Texas",
+        "zip": "94565"
+    },
+    "contact": {
+        "phone": "4442888205",
+        "servicePhone": "800051190"
+    },
+    "birthday": "1968-22-02",
+    "ip": "94.186.229.93",
+    "foo": "bar",
+    "profile": {
+        "about": "Another worry war. Management painting some structure thing spring cut. Nature country carry over family.\nImportant worker small account maintain now. Degree stuff food perhaps.",
+        "bio": "Close with low billion and no price visit. Party service job former bar now common. Call how provide administration door war.\nSpring soldier couple ok. Meet argue resource sea least."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
