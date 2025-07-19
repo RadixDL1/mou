@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Patton",
+    "age": 61,
+    "address": {
+        "street": "William Club",
+        "city": "North Ianport",
+        "state": "New York",
+        "zip": "86555"
+    },
+    "contact": {
+        "phone": "330-405-6574x17717",
+        "servicePhone": "800629287"
+    },
+    "birthday": "1964-17-06",
+    "ip": "99.59.20.30",
+    "foo": "bar",
+    "profile": {
+        "about": "Always natural imagine way. Meet team drive possible trade data. Night western everything alone hit. Deep economic near sure really not suddenly.",
+        "bio": "At property down writer commercial short thing. Like evidence most reason several push he.\nEvening structure your painting test skill thank. Today meet cold expect return."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
