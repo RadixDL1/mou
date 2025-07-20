@@ -1,0 +1,25 @@
+{
+    "name": "Courtney Jackson",
+    "age": 93,
+    "address": {
+        "street": "Walker Forks",
+        "city": "Port Kimberly",
+        "state": "Tennessee",
+        "zip": "76351"
+    },
+    "contact": {
+        "phone": "+1-279-444-5789",
+        "servicePhone": "800624351"
+    },
+    "birthday": "1932-11-09",
+    "ip": "179.128.115.144",
+    "foo": "bar",
+    "profile": {
+        "about": "Avoid trade throw money. Matter anything section worry expect. Production white school whole.\nInteresting me together under. Night maintain health enough official would do. Station parent end but.",
+        "bio": "Prevent generation along painting. See raise break work.\nReady drive word alone attorney Mr. Fish trouble family training yard. If both need apply someone hot worry."
+    },
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}
