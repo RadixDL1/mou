@@ -1,0 +1,25 @@
+{
+    "name": "Alison Rodriguez",
+    "age": 89,
+    "address": {
+        "street": "Jackson Fall",
+        "city": "East Shannonview",
+        "state": "Vermont",
+        "zip": "78232"
+    },
+    "contact": {
+        "phone": "001-614-219-0902x152",
+        "servicePhone": "800125541"
+    },
+    "birthday": "1936-28-12",
+    "ip": "62.210.120.61",
+    "foo": "bar",
+    "profile": {
+        "about": "Nearly beautiful who song wear capital. Break factor from far send. Capital almost defense above half.",
+        "bio": "Important own election business still. Outside true reduce success.\nBefore window figure guess health hundred debate. Wear half federal important worker important by."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}
