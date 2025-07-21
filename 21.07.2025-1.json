@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Allen",
+    "age": 53,
+    "address": {
+        "street": "Harding Wall",
+        "city": "Lake Gabriel",
+        "state": "Hawaii",
+        "zip": "64815"
+    },
+    "contact": {
+        "phone": "(987)461-5903",
+        "servicePhone": "800207365"
+    },
+    "birthday": "1972-28-10",
+    "ip": "6.83.225.45",
+    "foo": "bar",
+    "profile": {
+        "about": "Cell positive leg individual. System go reason over good and hair.",
+        "bio": "Significant recently remain car. Positive visit road speak role activity. Art power yeah international year difficult two."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}
