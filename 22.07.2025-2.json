@@ -1,0 +1,25 @@
+{
+    "name": "Emma Kelly",
+    "age": 63,
+    "address": {
+        "street": "Brandon Greens",
+        "city": "North Douglasshire",
+        "state": "Missouri",
+        "zip": "10967"
+    },
+    "contact": {
+        "phone": "8397185441",
+        "servicePhone": "800458041"
+    },
+    "birthday": "1962-31-07",
+    "ip": "97.211.58.154",
+    "foo": "bar",
+    "profile": {
+        "about": "Manager drop can movement standard. Describe imagine move leg physical employee. Reason air share attack parent lose.",
+        "bio": "Because always out expect gun identify. Response prevent become measure. Whether hold last despite civil painting.\nDraw skin deep social. Under one system example. Field media real big goal."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}
