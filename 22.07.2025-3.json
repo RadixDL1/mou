@@ -1,0 +1,25 @@
+{
+    "name": "Steven Crosby",
+    "age": 82,
+    "address": {
+        "street": "Steven Square",
+        "city": "Aprilside",
+        "state": "Missouri",
+        "zip": "08179"
+    },
+    "contact": {
+        "phone": "+1-820-361-9991x5166",
+        "servicePhone": "800175349"
+    },
+    "birthday": "1943-15-11",
+    "ip": "183.90.105.250",
+    "foo": "bar",
+    "profile": {
+        "about": "Visit pattern yes which scene.\nLeader thank Mr including.\nAction lot deep authority raise. Soon certainly cover institution still low too. Price reveal firm military.",
+        "bio": "Allow fear in body gun. Speech man wear pick above common. Her home prepare."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
