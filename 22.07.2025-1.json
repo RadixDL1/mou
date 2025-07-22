@@ -1,0 +1,25 @@
+{
+    "name": "Mark Garcia",
+    "age": 102,
+    "address": {
+        "street": "Andrea Pike",
+        "city": "Maryside",
+        "state": "Maryland",
+        "zip": "98770"
+    },
+    "contact": {
+        "phone": "428-749-5684x729",
+        "servicePhone": "800697424"
+    },
+    "birthday": "1923-28-12",
+    "ip": "151.194.251.192",
+    "foo": "bar",
+    "profile": {
+        "about": "Image focus edge couple show. Front whom finish action add. Think give item enter gun.",
+        "bio": "Evidence woman art team happy production debate. Human rich news last.\nAround trouble unit hard long. Themselves leave within candidate standard table."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
