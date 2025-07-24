@@ -1,0 +1,25 @@
+{
+    "name": "Nancy Lozano",
+    "age": 113,
+    "address": {
+        "street": "Martinez Unions",
+        "city": "North Hannah",
+        "state": "New York",
+        "zip": "54122"
+    },
+    "contact": {
+        "phone": "419-933-0488",
+        "servicePhone": "800811253"
+    },
+    "birthday": "1912-20-08",
+    "ip": "32.21.84.141",
+    "foo": "bar",
+    "profile": {
+        "about": "Land statement citizen player defense station. Probably our operation buy.",
+        "bio": "Ability around line us.\nArm total southern material commercial concern. Institution everything service analysis huge present leave appear."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}
