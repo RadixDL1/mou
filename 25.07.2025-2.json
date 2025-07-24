@@ -1,0 +1,25 @@
+{
+    "name": "Julie Andrews",
+    "age": 91,
+    "address": {
+        "street": "Jason Locks",
+        "city": "Lake Jerryhaven",
+        "state": "Rhode Island",
+        "zip": "78511"
+    },
+    "contact": {
+        "phone": "+1-322-264-6443x021",
+        "servicePhone": "800131149"
+    },
+    "birthday": "1934-12-09",
+    "ip": "130.141.132.46",
+    "foo": "bar",
+    "profile": {
+        "about": "Line per ever before gun a. Economy police physical clearly. Others military drop scientist form small. Media according picture choice.",
+        "bio": "Option future stand recent pick Republican. Between enter first lawyer listen. Speak better whatever product us foreign fish.\nInstitution sometimes become treat from hold."
+    },
+    "currency": [
+        "TOP",
+        "Tongan paʻanga"
+    ]
+}
