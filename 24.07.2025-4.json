@@ -1,0 +1,25 @@
+{
+    "name": "Randall Gentry",
+    "age": 66,
+    "address": {
+        "street": "Chambers Shore",
+        "city": "South Melissaburgh",
+        "state": "Florida",
+        "zip": "49037"
+    },
+    "contact": {
+        "phone": "(981)817-8127x289",
+        "servicePhone": "800497859"
+    },
+    "birthday": "1959-11-02",
+    "ip": "136.94.83.42",
+    "foo": "bar",
+    "profile": {
+        "about": "Standard major need establish cup lose. Seek music ball against among. Hard rather fear pattern outside share ability.\nInternational drive if world concern me produce debate.",
+        "bio": "Power once wrong me seem. Partner official board later six unit maintain son. High institution power group recent."
+    },
+    "currency": [
+        "IMP",
+        "Manx pound"
+    ]
+}
