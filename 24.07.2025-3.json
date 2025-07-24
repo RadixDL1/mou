@@ -1,0 +1,25 @@
+{
+    "name": "James Smith",
+    "age": 91,
+    "address": {
+        "street": "Jennifer Plains",
+        "city": "North Laura",
+        "state": "Vermont",
+        "zip": "68228"
+    },
+    "contact": {
+        "phone": "6134048978",
+        "servicePhone": "800554920"
+    },
+    "birthday": "1934-22-12",
+    "ip": "220.150.131.20",
+    "foo": "bar",
+    "profile": {
+        "about": "Measure conference everybody option safe hand. Hot administration population produce save.\nSkin raise various economic ask prove. Energy nearly chair its notice main. Draw work star everything.",
+        "bio": "Usually deal old. It spend here test. Group movie through similar single. Interesting name minute kid performance social case."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
