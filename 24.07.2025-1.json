@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Norris",
+    "age": 76,
+    "address": {
+        "street": "Eric Crossing",
+        "city": "West Dawn",
+        "state": "Alaska",
+        "zip": "05672"
+    },
+    "contact": {
+        "phone": "847.945.9883x57135",
+        "servicePhone": "800166631"
+    },
+    "birthday": "1949-06-07",
+    "ip": "101.191.246.44",
+    "foo": "bar",
+    "profile": {
+        "about": "Low occur new floor various job. North force fly short.\nWatch area some car structure. Weight modern break need watch send.",
+        "bio": "Society figure movie goal before defense. Call act space behind so. Film often from apply several.\nPartner option story others. However everybody with bit energy business."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
