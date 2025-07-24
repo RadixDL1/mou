@@ -1,0 +1,25 @@
+{
+    "name": "Michael Lin",
+    "age": 52,
+    "address": {
+        "street": "Moss Pike",
+        "city": "Albertland",
+        "state": "Delaware",
+        "zip": "37732"
+    },
+    "contact": {
+        "phone": "(474)614-8182x8601",
+        "servicePhone": "800239372"
+    },
+    "birthday": "1973-16-04",
+    "ip": "70.222.228.106",
+    "foo": "bar",
+    "profile": {
+        "about": "Lead whole available difference west role for. Others firm training hold reason group. Notice be before other. Fish child week born me research.",
+        "bio": "Bag discover attack nearly probably political stand. Hear see wide image occur woman.\nManage difference letter city. Few few affect guy."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}
