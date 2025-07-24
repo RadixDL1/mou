@@ -1,0 +1,25 @@
+{
+    "name": "Michael Roy",
+    "age": 30,
+    "address": {
+        "street": "Kimberly Track",
+        "city": "East Marcusside",
+        "state": "Rhode Island",
+        "zip": "75402"
+    },
+    "contact": {
+        "phone": "736.883.8872x892",
+        "servicePhone": "800088221"
+    },
+    "birthday": "1995-30-08",
+    "ip": "31.12.117.82",
+    "foo": "bar",
+    "profile": {
+        "about": "Drug around former remain.\nRate simply both leader. Carry industry me story professor spring gas. Media power special edge social book.",
+        "bio": "Read manager around hot yourself treatment hundred. Sense white happen strong argue call worry doctor. Play feeling movie black receive get central few."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}
