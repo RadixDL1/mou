@@ -1,0 +1,25 @@
+{
+    "name": "Ruben Hernandez",
+    "age": 10,
+    "address": {
+        "street": "Ann Unions",
+        "city": "Wheelermouth",
+        "state": "South Carolina",
+        "zip": "52952"
+    },
+    "contact": {
+        "phone": "001-399-983-4467x99361",
+        "servicePhone": "800175537"
+    },
+    "birthday": "2015-15-07",
+    "ip": "143.195.117.11",
+    "foo": "bar",
+    "profile": {
+        "about": "Hard stop interview. Sense these personal turn red. Light example room ask improve country animal want.\nOwner down third course without. Only sport expect Democrat director civil.",
+        "bio": "Necessary leave machine article carry. More cup unit among employee seat."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}
