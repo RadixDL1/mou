@@ -1,0 +1,25 @@
+{
+    "name": "Diana Jones",
+    "age": 45,
+    "address": {
+        "street": "Sabrina Roads",
+        "city": "Watsonstad",
+        "state": "Georgia",
+        "zip": "33562"
+    },
+    "contact": {
+        "phone": "926-702-5476x111",
+        "servicePhone": "800638075"
+    },
+    "birthday": "1980-24-06",
+    "ip": "112.168.66.245",
+    "foo": "bar",
+    "profile": {
+        "about": "Per agent contain someone likely her however quality. Light long place step. Prepare collection best agency side marriage cell.",
+        "bio": "Himself back prepare. Military really recent cold reveal. Present himself senior. Three form pass however.\nLight law little hard when. Second area throw walk space."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
