@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Allison",
+    "age": 70,
+    "address": {
+        "street": "Massey Passage",
+        "city": "Steveborough",
+        "state": "Vermont",
+        "zip": "14762"
+    },
+    "contact": {
+        "phone": "707-449-3837",
+        "servicePhone": "800480444"
+    },
+    "birthday": "1955-23-11",
+    "ip": "214.123.67.133",
+    "foo": "bar",
+    "profile": {
+        "about": "Lawyer huge sit another mind professional. Suddenly citizen technology conference give down behind. Voice everyone shoulder surface yard people.",
+        "bio": "Involve something five American take believe. Seven agency instead surface again ten mind.\nView relate news budget expert forward wife. Of question bill event federal."
+    },
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}
