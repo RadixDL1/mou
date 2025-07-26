@@ -1,0 +1,25 @@
+{
+    "name": "Barbara Sexton",
+    "age": 18,
+    "address": {
+        "street": "Cindy Mount",
+        "city": "Lake Jerome",
+        "state": "Maine",
+        "zip": "01201"
+    },
+    "contact": {
+        "phone": "(269)506-7555x88774",
+        "servicePhone": "800866861"
+    },
+    "birthday": "2007-23-04",
+    "ip": "163.178.144.150",
+    "foo": "bar",
+    "profile": {
+        "about": "Assume hit yes last feel information crime. Light piece history price trip local religious. Marriage industry phone animal parent. Three base share yard.",
+        "bio": "Throughout authority full control enjoy two soldier. Newspaper level exactly probably far participant. Let edge tonight tell.\nSomething site high clearly itself. Design ok team major once full."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
