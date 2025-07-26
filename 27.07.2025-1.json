@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Snyder",
+    "age": 7,
+    "address": {
+        "street": "Katie Island",
+        "city": "West Michaelville",
+        "state": "Montana",
+        "zip": "47212"
+    },
+    "contact": {
+        "phone": "(868)581-4753",
+        "servicePhone": "800068241"
+    },
+    "birthday": "2018-12-08",
+    "ip": "30.224.104.158",
+    "foo": "bar",
+    "profile": {
+        "about": "Until catch miss everyone protect language western purpose. Quality part contain grow it.\nLearn goal choose writer policy know. There surface power. Energy to though these.",
+        "bio": "Seem say life official stuff recognize need. Stage answer answer.\nYard bank community prevent close church moment politics.\nSouthern color investment bill tell include toward."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
