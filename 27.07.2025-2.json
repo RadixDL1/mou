@@ -1,0 +1,25 @@
+{
+    "name": "Robert Smith MD",
+    "age": 34,
+    "address": {
+        "street": "Mcdonald Village",
+        "city": "East Peter",
+        "state": "Oregon",
+        "zip": "42354"
+    },
+    "contact": {
+        "phone": "257.660.0761",
+        "servicePhone": "800511911"
+    },
+    "birthday": "1991-01-02",
+    "ip": "218.249.245.42",
+    "foo": "bar",
+    "profile": {
+        "about": "Culture government one blue. World now start form street rest model.\nEffect table have your beat small. Need himself add member behind. Religious wrong wrong line attack always say.",
+        "bio": "Set eat follow purpose price offer. Call mention return the involve. Car whose nothing hot along south.\nResearch forget ability prove. Her of only position onto. Rise well social turn boy."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
