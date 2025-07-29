@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Sutton",
+    "age": 69,
+    "address": {
+        "street": "Pamela Prairie",
+        "city": "Montgomeryside",
+        "state": "Wyoming",
+        "zip": "06063"
+    },
+    "contact": {
+        "phone": "452-531-2886",
+        "servicePhone": "800659918"
+    },
+    "birthday": "1956-02-04",
+    "ip": "9.61.50.176",
+    "foo": "bar",
+    "profile": {
+        "about": "Town do hit during.\nEvening reduce ever expert. Hope realize population. Radio card person.\nBetween commercial skill everything week. Create edge already Congress everyone.",
+        "bio": "Through alone fall design authority.\nSong face top road. Decade future manage eat shake look."
+    },
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}
