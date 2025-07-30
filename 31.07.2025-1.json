@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Bailey",
+    "age": 111,
+    "address": {
+        "street": "Scott Valley",
+        "city": "Nortonside",
+        "state": "Vermont",
+        "zip": "33918"
+    },
+    "contact": {
+        "phone": "001-458-529-3511x8302",
+        "servicePhone": "800669189"
+    },
+    "birthday": "1914-26-05",
+    "ip": "169.53.115.12",
+    "foo": "bar",
+    "profile": {
+        "about": "Miss would lay prevent season. Everything live member simply not medical catch.\nStory class still down road change activity. Let accept talk rise foreign special. Ok mission ball.",
+        "bio": "Offer quite amount summer arm late pull. Economic face sort know stop.\nThese structure certainly husband. Sea its themselves draw science whether its. Right news picture point."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
