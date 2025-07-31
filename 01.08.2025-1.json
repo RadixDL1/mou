@@ -1,0 +1,25 @@
+{
+    "name": "James Obrien",
+    "age": 93,
+    "address": {
+        "street": "Morris Circles",
+        "city": "Woodston",
+        "state": "Arkansas",
+        "zip": "23586"
+    },
+    "contact": {
+        "phone": "001-701-377-1254x985",
+        "servicePhone": "800823164"
+    },
+    "birthday": "1932-11-04",
+    "ip": "54.109.122.233",
+    "foo": "bar",
+    "profile": {
+        "about": "Remember push difficult smile. Thousand network region chance again either book decade. Research decade stuff last.",
+        "bio": "Agency quite authority pressure resource even in. Great service lose social. Strategy free senior."
+    },
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}
