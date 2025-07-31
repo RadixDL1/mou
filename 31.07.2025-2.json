@@ -1,0 +1,25 @@
+{
+    "name": "Justin Smith",
+    "age": 106,
+    "address": {
+        "street": "Thomas Garden",
+        "city": "West Kelliton",
+        "state": "South Dakota",
+        "zip": "88992"
+    },
+    "contact": {
+        "phone": "(721)908-2056x90934",
+        "servicePhone": "800369816"
+    },
+    "birthday": "1919-16-02",
+    "ip": "173.151.195.170",
+    "foo": "bar",
+    "profile": {
+        "about": "Talk boy approach stock computer. Far result provide under director single.\nThird season hot fly quite face too. According apply attack theory expert.",
+        "bio": "Indeed draw top interesting benefit play eight how. Kitchen anyone find bill. Win relationship different without member relationship rich."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}
