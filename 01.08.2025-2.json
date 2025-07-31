@@ -1,0 +1,25 @@
+{
+    "name": "Felicia Rodriguez",
+    "age": 32,
+    "address": {
+        "street": "Jennifer Centers",
+        "city": "Jordanfort",
+        "state": "Vermont",
+        "zip": "71323"
+    },
+    "contact": {
+        "phone": "3769993817",
+        "servicePhone": "800863896"
+    },
+    "birthday": "1993-17-11",
+    "ip": "105.189.178.40",
+    "foo": "bar",
+    "profile": {
+        "about": "Economic ago fear significant during. Fact care strong beyond glass answer receive. Case while society toward wear.",
+        "bio": "Term audience spring visit.\nEat full hospital sound food. Science record color father almost money option."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
