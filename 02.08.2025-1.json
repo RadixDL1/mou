@@ -1,0 +1,25 @@
+{
+    "name": "Kelly Chavez",
+    "age": 97,
+    "address": {
+        "street": "Shields Flats",
+        "city": "Brittanyton",
+        "state": "Delaware",
+        "zip": "55639"
+    },
+    "contact": {
+        "phone": "(898)371-6194",
+        "servicePhone": "800561859"
+    },
+    "birthday": "1928-01-01",
+    "ip": "25.22.132.141",
+    "foo": "bar",
+    "profile": {
+        "about": "Shake new late whose. Fight the war cause. Rock majority note compare eight he.",
+        "bio": "World music standard wrong drug movement. Large work wind enjoy eat safe degree table. Least remain development national interview environmental player."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
