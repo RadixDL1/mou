@@ -1,0 +1,25 @@
+{
+    "name": "Nathan Turner",
+    "age": 59,
+    "address": {
+        "street": "Michael Trace",
+        "city": "New Michaelbury",
+        "state": "Oklahoma",
+        "zip": "10888"
+    },
+    "contact": {
+        "phone": "(803)505-0420x68059",
+        "servicePhone": "800515231"
+    },
+    "birthday": "1966-13-02",
+    "ip": "163.124.56.221",
+    "foo": "bar",
+    "profile": {
+        "about": "Their which receive movement arrive lay boy. Matter scene draw avoid.\nNature history world enough. Wife prove stock girl open despite.",
+        "bio": "Could again keep pass different. Blood financial kind eight eye adult.\nStudent road wonder issue produce. Share radio successful agree concern health or. Far drop story."
+    },
+    "currency": [
+        "ERN",
+        "Eritrean nakfa"
+    ]
+}
