@@ -1,0 +1,25 @@
+{
+    "name": "Robert Patrick",
+    "age": 55,
+    "address": {
+        "street": "Scott Plaza",
+        "city": "East Kathyberg",
+        "state": "Louisiana",
+        "zip": "12122"
+    },
+    "contact": {
+        "phone": "+1-449-911-9913x597",
+        "servicePhone": "800223910"
+    },
+    "birthday": "1970-08-03",
+    "ip": "178.49.129.252",
+    "foo": "bar",
+    "profile": {
+        "about": "Good nothing right hit accept itself him. Position project either good baby senior money huge. East boy around memory democratic.",
+        "bio": "Choose close officer song bag have appear. Recognize want beyond might our."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
