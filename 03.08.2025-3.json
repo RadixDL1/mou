@@ -1,0 +1,25 @@
+{
+    "name": "David Henry",
+    "age": 5,
+    "address": {
+        "street": "Williams Curve",
+        "city": "Stephenhaven",
+        "state": "Hawaii",
+        "zip": "92124"
+    },
+    "contact": {
+        "phone": "796.714.2482x24230",
+        "servicePhone": "800716494"
+    },
+    "birthday": "2020-23-11",
+    "ip": "112.227.98.17",
+    "foo": "bar",
+    "profile": {
+        "about": "Identify different those finish decision. Base consider industry front experience stop think. Oil agree because clearly.\nEnjoy dog add understand beat. Far wife pattern music design.",
+        "bio": "Billion foreign red. Well carry bring writer fish remember part organization. Ok recent south true.\nIn peace open. Work friend level deep animal tough out. Wait wind understand first."
+    },
+    "currency": [
+        "CDF",
+        "Congolese franc"
+    ]
+}
