@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Cruz",
+    "age": 40,
+    "address": {
+        "street": "Barrett Bypass",
+        "city": "Stephensberg",
+        "state": "Georgia",
+        "zip": "86703"
+    },
+    "contact": {
+        "phone": "+1-883-696-3741x81610",
+        "servicePhone": "800392395"
+    },
+    "birthday": "1985-22-09",
+    "ip": "99.132.22.13",
+    "foo": "bar",
+    "profile": {
+        "about": "Including share method bed. Garden great science think different drug several.\nPolicy international they mission.\nHundred thing however leave. The charge realize eye.",
+        "bio": "Within week college beautiful door. One fish system allow risk become."
+    },
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}
