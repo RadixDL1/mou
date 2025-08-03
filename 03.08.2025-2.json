@@ -1,0 +1,25 @@
+{
+    "name": "Joe Butler",
+    "age": 81,
+    "address": {
+        "street": "Samantha Port",
+        "city": "New Justin",
+        "state": "Arizona",
+        "zip": "54363"
+    },
+    "contact": {
+        "phone": "(300)573-3686x946",
+        "servicePhone": "800277601"
+    },
+    "birthday": "1944-26-08",
+    "ip": "3.34.234.1",
+    "foo": "bar",
+    "profile": {
+        "about": "Mr that baby can start. Newspaper education school leave. Available machine dog better soldier evening necessary.\nBecome science west cup. Mission deep others.",
+        "bio": "Chance build knowledge no traditional still right. Information smile tree discussion he.\nThreat after address itself arrive plan media. Foot now medical newspaper notice girl old management."
+    },
+    "currency": [
+        "NIS",
+        "Israeli new shekel"
+    ]
+}
