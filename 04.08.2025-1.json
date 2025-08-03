@@ -1,0 +1,25 @@
+{
+    "name": "Patricia Perez",
+    "age": 73,
+    "address": {
+        "street": "Kennedy Falls",
+        "city": "Port Tylerville",
+        "state": "North Dakota",
+        "zip": "88050"
+    },
+    "contact": {
+        "phone": "942.759.6023x37744",
+        "servicePhone": "800253188"
+    },
+    "birthday": "1952-16-01",
+    "ip": "200.240.87.57",
+    "foo": "bar",
+    "profile": {
+        "about": "Central drive state marriage upon experience. Mind best result allow parent. Administration end rise it walk.",
+        "bio": "Official city to yes national high various. Environment get type. Maybe white wind team reduce character pull."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
