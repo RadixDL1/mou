@@ -1,0 +1,25 @@
+{
+    "name": "Zachary Graham",
+    "age": 75,
+    "address": {
+        "street": "Lori Turnpike",
+        "city": "Lake Kimberly",
+        "state": "Washington",
+        "zip": "22331"
+    },
+    "contact": {
+        "phone": "697-512-7726x06660",
+        "servicePhone": "800854767"
+    },
+    "birthday": "1950-14-05",
+    "ip": "76.16.23.247",
+    "foo": "bar",
+    "profile": {
+        "about": "Approach education blood understand ability child my. Loss resource rule water specific.\nTop also else training visit. Occur company forward true rate trade economic. Person day break term.",
+        "bio": "Party item a sport. Else per behavior media production front. He three item theory concern although perhaps.\nRecent successful really later medical often customer. Reason war PM section."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}
