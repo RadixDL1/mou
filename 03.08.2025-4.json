@@ -1,0 +1,25 @@
+{
+    "name": "James Rodriguez",
+    "age": 60,
+    "address": {
+        "street": "Wong Square",
+        "city": "East Michaelland",
+        "state": "Utah",
+        "zip": "89950"
+    },
+    "contact": {
+        "phone": "001-409-937-5882x01936",
+        "servicePhone": "800661490"
+    },
+    "birthday": "1965-25-05",
+    "ip": "105.178.153.71",
+    "foo": "bar",
+    "profile": {
+        "about": "Author call research plan. Say table school school like southern artist.",
+        "bio": "Nice range both sign. Weight car response daughter report talk point.\nSimple Mrs marriage drive including name. Over attack with hand remember. Customer paper pay simple."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
