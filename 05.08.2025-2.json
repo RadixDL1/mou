@@ -1,0 +1,25 @@
+{
+    "name": "Mark Foster",
+    "age": 73,
+    "address": {
+        "street": "Morales Shores",
+        "city": "East Kristin",
+        "state": "Pennsylvania",
+        "zip": "98980"
+    },
+    "contact": {
+        "phone": "615-401-7931",
+        "servicePhone": "800998646"
+    },
+    "birthday": "1952-27-04",
+    "ip": "21.176.2.238",
+    "foo": "bar",
+    "profile": {
+        "about": "Lay clearly street eye world smile say. Doctor involve husband carry east stay side. Nor body between rate near information light.",
+        "bio": "Major medical together capital accept. Support president my stop large head anyone. Certainly develop third personal.\nCold music environmental summer determine. My approach staff main set."
+    },
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}
