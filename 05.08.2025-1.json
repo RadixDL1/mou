@@ -1,0 +1,25 @@
+{
+    "name": "Tracy Cantu",
+    "age": 36,
+    "address": {
+        "street": "Nicholas Tunnel",
+        "city": "Thomasport",
+        "state": "Illinois",
+        "zip": "84184"
+    },
+    "contact": {
+        "phone": "001-947-688-8728x1541",
+        "servicePhone": "800788335"
+    },
+    "birthday": "1989-07-09",
+    "ip": "46.81.189.139",
+    "foo": "bar",
+    "profile": {
+        "about": "Break card laugh heart. Car make list sense draw blood less. Especially eight until structure. Like southern strong describe picture air.",
+        "bio": "Still money ready different fast full. Hot recognize tree career effect organization.\nNorth child fact article tax. Truth point ready word road."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
