@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Kelly",
+    "age": 95,
+    "address": {
+        "street": "Vasquez Lights",
+        "city": "Port Scott",
+        "state": "Indiana",
+        "zip": "29706"
+    },
+    "contact": {
+        "phone": "710.585.2959x669",
+        "servicePhone": "800847295"
+    },
+    "birthday": "1930-09-01",
+    "ip": "76.37.153.228",
+    "foo": "bar",
+    "profile": {
+        "about": "Development style together light treatment. Message away special network message put surface.",
+        "bio": "So fish consumer power challenge. Family despite store set thus sound any. Performance hospital view huge how weight.\nStart TV force really. Face local back."
+    },
+    "currency": [
+        "TMT",
+        "Turkmenistan manat"
+    ]
+}
