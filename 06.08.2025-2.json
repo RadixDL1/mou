@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Martin",
+    "age": 84,
+    "address": {
+        "street": "Jennifer Freeway",
+        "city": "Danielshire",
+        "state": "Florida",
+        "zip": "90224"
+    },
+    "contact": {
+        "phone": "505-967-6734",
+        "servicePhone": "800754290"
+    },
+    "birthday": "1941-19-06",
+    "ip": "199.131.163.98",
+    "foo": "bar",
+    "profile": {
+        "about": "Try ability already young. College rock country bank. Group race up minute six key garden.",
+        "bio": "Whether live evening story others face production down. Republican close recently affect ground technology carry."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
