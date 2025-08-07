@@ -1,0 +1,25 @@
+{
+    "name": "Michael Bowers",
+    "age": 110,
+    "address": {
+        "street": "Nunez Walk",
+        "city": "Rebekahside",
+        "state": "Florida",
+        "zip": "71338"
+    },
+    "contact": {
+        "phone": "7483213482",
+        "servicePhone": "800944919"
+    },
+    "birthday": "1915-02-12",
+    "ip": "101.194.134.209",
+    "foo": "bar",
+    "profile": {
+        "about": "High wait pass alone how. Yard visit science thought fear. Happy especially cover relationship throughout radio start. Learn either rest others.",
+        "bio": "What huge year author hotel church start. Available assume sit chance carry one water little. Question dog later phone.\nSense senior gas success in Democrat win. Although every short modern."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
