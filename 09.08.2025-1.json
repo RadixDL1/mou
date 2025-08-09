@@ -1,0 +1,25 @@
+{
+    "name": "Diana Robinson",
+    "age": 2,
+    "address": {
+        "street": "Garrett Fields",
+        "city": "Lynnhaven",
+        "state": "Texas",
+        "zip": "37498"
+    },
+    "contact": {
+        "phone": "863.751.5371x7982",
+        "servicePhone": "800909236"
+    },
+    "birthday": "2023-15-07",
+    "ip": "162.58.216.222",
+    "foo": "bar",
+    "profile": {
+        "about": "Over yes hand table field. Mean any religious activity. Dream nothing son federal hair forward.\nInside simply indeed level. Building be forget box indeed various. Read authority source interesting.",
+        "bio": "Task kid serve news yes significant relationship. Miss movie analysis his.\nSuccessful middle consumer some process beyond east. Society try same yard quite responsibility them."
+    },
+    "currency": [
+        "GYD",
+        "Guyanese dollar"
+    ]
+}
