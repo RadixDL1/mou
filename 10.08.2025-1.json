@@ -1,0 +1,25 @@
+{
+    "name": "Kara Gibson",
+    "age": 104,
+    "address": {
+        "street": "Michael Landing",
+        "city": "Port Ryan",
+        "state": "Hawaii",
+        "zip": "81865"
+    },
+    "contact": {
+        "phone": "981-907-4119",
+        "servicePhone": "800886609"
+    },
+    "birthday": "1921-11-06",
+    "ip": "121.16.141.227",
+    "foo": "bar",
+    "profile": {
+        "about": "Player might movie able in meet who family. Great property radio any language book.\nStation leave response north. View understand always situation. Involve protect support born rich best.",
+        "bio": "Bring third require will project still make. Enough area difference fast. Evening difference dark yet."
+    },
+    "currency": [
+        "QAR",
+        "Qatari riyal"
+    ]
+}
