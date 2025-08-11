@@ -1,0 +1,25 @@
+{
+    "name": "Carol Yu",
+    "age": 54,
+    "address": {
+        "street": "Robert Lights",
+        "city": "Foleyfurt",
+        "state": "Pennsylvania",
+        "zip": "64210"
+    },
+    "contact": {
+        "phone": "630.487.7029x568",
+        "servicePhone": "800623574"
+    },
+    "birthday": "1971-31-08",
+    "ip": "169.20.129.99",
+    "foo": "bar",
+    "profile": {
+        "about": "Around ground doctor traditional. Even similar man cost actually. Star its keep mouth.",
+        "bio": "Happen form get high natural agreement. Exactly hit north first listen station with.\nTax outside require bar heart manager listen.\nNewspaper pull little better or international."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}
