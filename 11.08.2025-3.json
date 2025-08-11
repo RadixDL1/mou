@@ -1,0 +1,25 @@
+{
+    "name": "Trevor Frost",
+    "age": 91,
+    "address": {
+        "street": "Nicole Island",
+        "city": "Rosarioburgh",
+        "state": "Alabama",
+        "zip": "33418"
+    },
+    "contact": {
+        "phone": "479-950-8653",
+        "servicePhone": "800041327"
+    },
+    "birthday": "1934-27-12",
+    "ip": "111.241.4.101",
+    "foo": "bar",
+    "profile": {
+        "about": "Your finally feel watch. Affect position parent each have significant meet.\nAttorney huge process cover difference for deep. Improve add important explain.",
+        "bio": "Hospital increase share need everybody than check. Old way page year base see.\nMaybe would show. Glass stuff past will her offer rock section. Often evening they human final sure fire."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
