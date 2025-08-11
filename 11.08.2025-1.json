@@ -1,0 +1,25 @@
+{
+    "name": "Julie Taylor",
+    "age": 89,
+    "address": {
+        "street": "Tina Trail",
+        "city": "New David",
+        "state": "Minnesota",
+        "zip": "61499"
+    },
+    "contact": {
+        "phone": "502-337-4070x94520",
+        "servicePhone": "800434649"
+    },
+    "birthday": "1936-20-05",
+    "ip": "96.205.166.85",
+    "foo": "bar",
+    "profile": {
+        "about": "Produce keep realize half miss. Picture pass small avoid. Wrong third three party voice.\nRegion machine difference. Available bank meet degree same experience. One job see.",
+        "bio": "Off hold friend push study less.\nEverybody above billion key instead space middle head. Second fund field trial what say. Group including nature learn make."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}
