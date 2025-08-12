@@ -1,0 +1,25 @@
+{
+    "name": "Patricia Brown",
+    "age": 74,
+    "address": {
+        "street": "Knight Port",
+        "city": "Trevinoville",
+        "state": "Pennsylvania",
+        "zip": "11267"
+    },
+    "contact": {
+        "phone": "735.536.0362",
+        "servicePhone": "800373243"
+    },
+    "birthday": "1951-03-02",
+    "ip": "102.251.141.79",
+    "foo": "bar",
+    "profile": {
+        "about": "True leave dark marriage discover. Trouble series choose occur.\nFirm check later popular case executive act. Health billion want rich. Knowledge clearly leader green mean occur lead.",
+        "bio": "Movement final like stop make PM apply such. Story fast edge into surface forward.\nTalk end customer threat material. Color thing concern through. Character range experience letter probably way oil."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
