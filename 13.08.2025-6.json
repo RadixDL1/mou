@@ -1,0 +1,25 @@
+{
+    "name": "Carla Santiago",
+    "age": 31,
+    "address": {
+        "street": "Kelly Springs",
+        "city": "West Raymond",
+        "state": "Minnesota",
+        "zip": "10163"
+    },
+    "contact": {
+        "phone": "(838)475-1539",
+        "servicePhone": "800677306"
+    },
+    "birthday": "1994-12-07",
+    "ip": "185.238.226.66",
+    "foo": "bar",
+    "profile": {
+        "about": "Age theory information. Necessary response professional take later. Open across final.\nProgram show indeed shoulder feel focus. Participant him their police. Bank citizen miss.",
+        "bio": "Can simply time management activity turn society. Everything arrive sometimes eat director result.\nPolitical assume hard who. Economy upon allow."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
