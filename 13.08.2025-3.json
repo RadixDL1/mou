@@ -1,0 +1,25 @@
+{
+    "name": "Shawna Kelly",
+    "age": 89,
+    "address": {
+        "street": "Jessica Cape",
+        "city": "Wilsonhaven",
+        "state": "Mississippi",
+        "zip": "29273"
+    },
+    "contact": {
+        "phone": "900.531.5368x9033",
+        "servicePhone": "800169289"
+    },
+    "birthday": "1936-08-06",
+    "ip": "154.147.74.55",
+    "foo": "bar",
+    "profile": {
+        "about": "Establish fight knowledge. One drive sure admit easy these improve pressure.\nBody he edge worker tree system wife. Both agent call as.",
+        "bio": "Event money anyone security thus bit. Mrs pattern quickly yeah personal between.\nScience both husband ago."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}
