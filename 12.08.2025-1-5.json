@@ -1,0 +1,25 @@
+{
+    "name": "Tara Foley",
+    "age": 14,
+    "address": {
+        "street": "Glenn Hill",
+        "city": "New John",
+        "state": "Indiana",
+        "zip": "99212"
+    },
+    "contact": {
+        "phone": "8247113394",
+        "servicePhone": "800238512"
+    },
+    "birthday": "2011-28-08",
+    "ip": "121.180.80.164",
+    "foo": "bar",
+    "profile": {
+        "about": "Prove experience recognize. Organization international enough left down under land. Democrat cause traditional no manage left research. Will many inside truth edge model.",
+        "bio": "Ahead no mention hard.\nTo main how firm since memory. Once past fight billion list.\nPrevent term analysis. Fear phone forward site key protect."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
