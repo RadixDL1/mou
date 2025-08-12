@@ -1,0 +1,25 @@
+{
+    "name": "Aaron Sparks",
+    "age": 7,
+    "address": {
+        "street": "Casey Parkways",
+        "city": "Ortegastad",
+        "state": "Vermont",
+        "zip": "51109"
+    },
+    "contact": {
+        "phone": "001-436-700-1574",
+        "servicePhone": "800068876"
+    },
+    "birthday": "2018-16-09",
+    "ip": "116.160.150.131",
+    "foo": "bar",
+    "profile": {
+        "about": "Treatment contain home also pass. Class perform president. Save next various carry citizen ask third.\nFull effort production life either. Model serve arm public service anything light.",
+        "bio": "Set star how worry available inside manage. Whom later experience still.\nConsider current conference tonight. Cultural list why memory will reflect. More across main war audience never."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}
