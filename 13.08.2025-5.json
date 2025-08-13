@@ -1,0 +1,25 @@
+{
+    "name": "Anna Richardson",
+    "age": 89,
+    "address": {
+        "street": "Gary Mount",
+        "city": "Rickyshire",
+        "state": "Maryland",
+        "zip": "39751"
+    },
+    "contact": {
+        "phone": "908.791.6440x4755",
+        "servicePhone": "800233506"
+    },
+    "birthday": "1936-02-02",
+    "ip": "168.130.143.72",
+    "foo": "bar",
+    "profile": {
+        "about": "Recent various they research. Board paper several range receive rise.",
+        "bio": "Art house popular listen present occur.\nYoung why new seven forward support. Drop sing country about.\nIndicate record compare could decision perform apply. Where my bag already."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
