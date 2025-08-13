@@ -1,0 +1,25 @@
+{
+    "name": "Amy King",
+    "age": 23,
+    "address": {
+        "street": "King Light",
+        "city": "Lake Jeremyville",
+        "state": "Kansas",
+        "zip": "99825"
+    },
+    "contact": {
+        "phone": "(285)246-1921x2365",
+        "servicePhone": "800392974"
+    },
+    "birthday": "2002-14-07",
+    "ip": "78.242.185.179",
+    "foo": "bar",
+    "profile": {
+        "about": "Him party color occur newspaper trouble control task. Number notice almost history account. Order religious building market sea miss.",
+        "bio": "Author anyone leader poor sort western. Report company one pull remember property. Really work market author week."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
