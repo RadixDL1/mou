@@ -1,0 +1,25 @@
+{
+    "name": "Justin Harper",
+    "age": 50,
+    "address": {
+        "street": "Warren Station",
+        "city": "Gonzalezmouth",
+        "state": "Kentucky",
+        "zip": "32911"
+    },
+    "contact": {
+        "phone": "+1-428-264-6858x1607",
+        "servicePhone": "800018841"
+    },
+    "birthday": "1975-22-12",
+    "ip": "205.105.139.240",
+    "foo": "bar",
+    "profile": {
+        "about": "Amount daughter seem special newspaper. Begin early draw.\nExpect water my adult. Most no process throw minute report education. Stand get police open. Trip candidate per game population.",
+        "bio": "Can sound wide house ever determine this. Design body dog maintain view cut current. Need detail million audience recently agree place."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
