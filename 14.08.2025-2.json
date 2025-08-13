@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Johnson",
+    "age": 8,
+    "address": {
+        "street": "Yolanda Manor",
+        "city": "Port Christina",
+        "state": "New Jersey",
+        "zip": "93145"
+    },
+    "contact": {
+        "phone": "798-869-9254x584",
+        "servicePhone": "800496040"
+    },
+    "birthday": "2017-26-02",
+    "ip": "150.219.47.207",
+    "foo": "bar",
+    "profile": {
+        "about": "Person often instead news. Major student cultural do herself main.",
+        "bio": "Trip less scene have experience describe if. Teach condition firm.\nSomething sing cost student bed environment. Time hope spring scene room speech. Ever section fact bit."
+    },
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}
