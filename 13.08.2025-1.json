@@ -1,0 +1,25 @@
+{
+    "name": "William Li",
+    "age": 7,
+    "address": {
+        "street": "Erika Fields",
+        "city": "North Susan",
+        "state": "Washington",
+        "zip": "78211"
+    },
+    "contact": {
+        "phone": "(875)854-0282x8369",
+        "servicePhone": "800983777"
+    },
+    "birthday": "2018-16-07",
+    "ip": "20.40.40.193",
+    "foo": "bar",
+    "profile": {
+        "about": "Base close wife quite five seven effect describe.\nUntil before game budget. American face level author share road pressure. Dream dinner man already often support along.",
+        "bio": "Six leader vote drop bed. Their economic ahead catch media. Central our have rather boy region throw. Fast people resource red night born thus modern."
+    },
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}
