@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Kennedy",
+    "age": 91,
+    "address": {
+        "street": "Campbell Common",
+        "city": "Lake Ryan",
+        "state": "Wyoming",
+        "zip": "85983"
+    },
+    "contact": {
+        "phone": "(318)755-7061x9800",
+        "servicePhone": "800391171"
+    },
+    "birthday": "1934-23-03",
+    "ip": "203.228.217.39",
+    "foo": "bar",
+    "profile": {
+        "about": "Fish factor exactly evening. Mother source law front lot.\nQuality his dark knowledge project radio. Reach character act yeah improve book. True rest accept skill current computer soon.",
+        "bio": "Little traditional decade vote hard face continue. Energy your political not. Drug weight thing class century cause commercial."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}
