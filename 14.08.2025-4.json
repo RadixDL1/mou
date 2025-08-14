@@ -1,0 +1,25 @@
+{
+    "name": "Bradley Stanley",
+    "age": 28,
+    "address": {
+        "street": "Jasmine Terrace",
+        "city": "Stephensberg",
+        "state": "Wyoming",
+        "zip": "53040"
+    },
+    "contact": {
+        "phone": "599.814.6455x73938",
+        "servicePhone": "800955773"
+    },
+    "birthday": "1997-12-05",
+    "ip": "166.247.13.148",
+    "foo": "bar",
+    "profile": {
+        "about": "Language place record. His set break head some gas.\nOffice tonight property once little should experience. Production record job not alone year lot. Attorney southern hit fire.",
+        "bio": "Resource plant choose instead research sign. Travel line cost just down church ability.\nPlace control fill assume position whose. Half enjoy return catch small material perform itself."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
