@@ -1,0 +1,25 @@
+{
+    "name": "Alexander Tapia",
+    "age": 106,
+    "address": {
+        "street": "Donald Cape",
+        "city": "New Lisaport",
+        "state": "Michigan",
+        "zip": "04530"
+    },
+    "contact": {
+        "phone": "001-846-751-4022x0035",
+        "servicePhone": "800669707"
+    },
+    "birthday": "1919-12-04",
+    "ip": "115.14.84.2",
+    "foo": "bar",
+    "profile": {
+        "about": "Interest pattern lawyer defense explain agreement.\nPoor out you. Stop create day card style on way.",
+        "bio": "Wish head some compare financial. The difference middle college understand learn.\nA before this military. Girl safe member still can civil. Idea serve play challenge. Religious home public."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}
