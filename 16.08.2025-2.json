@@ -1,0 +1,25 @@
+{
+    "name": "Brianna Allen",
+    "age": 50,
+    "address": {
+        "street": "Willie Flat",
+        "city": "Port Dawnland",
+        "state": "Nebraska",
+        "zip": "62734"
+    },
+    "contact": {
+        "phone": "001-585-503-8179x7820",
+        "servicePhone": "800097345"
+    },
+    "birthday": "1975-30-09",
+    "ip": "216.107.112.48",
+    "foo": "bar",
+    "profile": {
+        "about": "Security about story learn raise white hair. Security back learn since tell. Also could difficult by even just they.",
+        "bio": "Service budget find his. Pressure stock heart free garden. Night occur impact.\nAmount however nature fact their two. Prove picture yard happy work smile shake."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
