@@ -1,0 +1,25 @@
+{
+    "name": "Laura Bray",
+    "age": 38,
+    "address": {
+        "street": "Phillips Coves",
+        "city": "South Michelle",
+        "state": "Kansas",
+        "zip": "92185"
+    },
+    "contact": {
+        "phone": "765-282-0560x56659",
+        "servicePhone": "800431368"
+    },
+    "birthday": "1987-28-02",
+    "ip": "107.223.145.142",
+    "foo": "bar",
+    "profile": {
+        "about": "Last deep market suggest.\nOnto yeah down nature watch machine likely. Good ready in hard.",
+        "bio": "Others way film so. Those reality protect parent arrive politics law.\nPage impact goal stuff."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}
