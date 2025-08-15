@@ -1,0 +1,25 @@
+{
+    "name": "Gregory Conrad",
+    "age": 13,
+    "address": {
+        "street": "Peterson Forges",
+        "city": "South Darylbury",
+        "state": "Michigan",
+        "zip": "09966"
+    },
+    "contact": {
+        "phone": "547-668-5453",
+        "servicePhone": "800110908"
+    },
+    "birthday": "2012-03-03",
+    "ip": "182.164.95.86",
+    "foo": "bar",
+    "profile": {
+        "about": "Detail event it event draw. Style successful likely respond play. Than ask military head away increase. Ground good before same goal by leg.",
+        "bio": "Finish we night break.\nFine popular group large entire music interest. Organization already condition view plant. Forward manage common turn. Piece wall religious rule."
+    },
+    "currency": [
+        "SAR",
+        "Saudi riyal"
+    ]
+}
