@@ -1,0 +1,25 @@
+{
+    "name": "Zachary Thomas",
+    "age": 52,
+    "address": {
+        "street": "Morrow Spur",
+        "city": "West Lisa",
+        "state": "Georgia",
+        "zip": "52814"
+    },
+    "contact": {
+        "phone": "+1-244-587-4412x8468",
+        "servicePhone": "800611866"
+    },
+    "birthday": "1973-16-08",
+    "ip": "180.135.225.141",
+    "foo": "bar",
+    "profile": {
+        "about": "Only from seven yes security build. Coach factor center crime Mr brother bring. Firm Democrat party month visit simply.",
+        "bio": "Lead look plan nice.\nSeveral laugh home image act today traditional then. Assume five real tonight try interview exist. Edge whole stand rise card."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
