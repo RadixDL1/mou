@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Romero",
+    "age": 22,
+    "address": {
+        "street": "Kathleen Park",
+        "city": "East Barbaraborough",
+        "state": "Arizona",
+        "zip": "98814"
+    },
+    "contact": {
+        "phone": "001-273-335-6564",
+        "servicePhone": "800597628"
+    },
+    "birthday": "2003-21-08",
+    "ip": "9.63.167.232",
+    "foo": "bar",
+    "profile": {
+        "about": "Theory toward food cause law painting catch. Key reality clear real meet.\nSeveral create why great. Weight political stage both six.",
+        "bio": "Son make involve lay. Notice part bank condition age.\nSize behavior concern enough imagine. Coach table hear deal year lead his. Perform necessary traditional drop."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}
