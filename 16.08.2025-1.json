@@ -1,0 +1,25 @@
+{
+    "name": "Alicia Taylor",
+    "age": 27,
+    "address": {
+        "street": "George Drive",
+        "city": "Port Jasontown",
+        "state": "Kentucky",
+        "zip": "67874"
+    },
+    "contact": {
+        "phone": "466.791.2234x2637",
+        "servicePhone": "800327134"
+    },
+    "birthday": "1998-15-07",
+    "ip": "214.200.125.105",
+    "foo": "bar",
+    "profile": {
+        "about": "Newspaper answer theory care. Some religious my because. Shoulder benefit company painting certain short produce eight.",
+        "bio": "Because former to assume myself administration. Cultural lose develop character. Help perhaps money long partner.\nAnything brother vote American. Tend east sometimes organization hear."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}
