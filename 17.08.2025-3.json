@@ -1,0 +1,25 @@
+{
+    "name": "Stephen Brown",
+    "age": 4,
+    "address": {
+        "street": "Williams Trace",
+        "city": "North Ryan",
+        "state": "Wisconsin",
+        "zip": "71155"
+    },
+    "contact": {
+        "phone": "(678)982-2819x963",
+        "servicePhone": "800741196"
+    },
+    "birthday": "2021-08-08",
+    "ip": "195.152.39.50",
+    "foo": "bar",
+    "profile": {
+        "about": "Them clearly among approach. Center put recognize.\nPay free often eight interesting box. Type democratic finish likely.",
+        "bio": "Player return reality across of TV middle.\nWait bag tree role think born. Along wish effort natural guy occur. Culture drug store player fill least physical."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}
