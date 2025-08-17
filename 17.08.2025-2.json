@@ -1,0 +1,25 @@
+{
+    "name": "Victoria Ibarra",
+    "age": 8,
+    "address": {
+        "street": "Lopez Vista",
+        "city": "South Nicolehaven",
+        "state": "Minnesota",
+        "zip": "37416"
+    },
+    "contact": {
+        "phone": "4374984004",
+        "servicePhone": "800862262"
+    },
+    "birthday": "2017-20-05",
+    "ip": "78.177.251.21",
+    "foo": "bar",
+    "profile": {
+        "about": "Rest best draw mother learn senior practice maybe. About bill huge employee hold interest rise.",
+        "bio": "Deal area citizen miss if also. Require majority improve board government report. Magazine build cold."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}
