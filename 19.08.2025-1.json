@@ -1,0 +1,25 @@
+{
+    "name": "Ruben Mejia",
+    "age": 83,
+    "address": {
+        "street": "Kaiser Station",
+        "city": "Aliciafurt",
+        "state": "Kentucky",
+        "zip": "33091"
+    },
+    "contact": {
+        "phone": "389-640-5292",
+        "servicePhone": "800519108"
+    },
+    "birthday": "1942-24-06",
+    "ip": "120.166.9.245",
+    "foo": "bar",
+    "profile": {
+        "about": "Town notice movie option. Light purpose civil sense professor thing edge.\nAlone red choose wall. Protect energy catch number hit organization policy development. Seem ago own newspaper hit.",
+        "bio": "International Republican arm yet program music. Above forward better total. Poor management attorney doctor nature."
+    },
+    "currency": [
+        "AFN",
+        "Afghan afghani"
+    ]
+}
