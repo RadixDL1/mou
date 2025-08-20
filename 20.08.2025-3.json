@@ -1,0 +1,25 @@
+{
+    "name": "Maurice Price",
+    "age": 75,
+    "address": {
+        "street": "Smith Haven",
+        "city": "Dominguezport",
+        "state": "Ohio",
+        "zip": "87175"
+    },
+    "contact": {
+        "phone": "(833)614-3796x6195",
+        "servicePhone": "800256921"
+    },
+    "birthday": "1950-26-05",
+    "ip": "183.171.218.183",
+    "foo": "bar",
+    "profile": {
+        "about": "Voice design month situation system prepare. Court reflect turn speech go view compare.",
+        "bio": "Option in year start. Me sell sure hundred thank white. Here minute task such.\nCertain involve court memory Mr indeed force. True face purpose management enough method on."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
