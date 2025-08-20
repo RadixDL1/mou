@@ -1,0 +1,25 @@
+{
+    "name": "Rachel Hall",
+    "age": 3,
+    "address": {
+        "street": "Kelsey Island",
+        "city": "Jonathanport",
+        "state": "Nebraska",
+        "zip": "54502"
+    },
+    "contact": {
+        "phone": "668.880.6397x2513",
+        "servicePhone": "800769492"
+    },
+    "birthday": "2022-14-11",
+    "ip": "11.159.24.180",
+    "foo": "bar",
+    "profile": {
+        "about": "Six expert recently follow blood morning surface recognize. Certainly check guess moment. Eight point off reason develop loss. Available really fear foreign by idea financial.",
+        "bio": "Another include player protect collection view. Marriage rich treat heavy assume health far shake. Young mean federal treat medical small poor."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}
