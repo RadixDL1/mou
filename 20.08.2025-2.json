@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Hudson",
+    "age": 102,
+    "address": {
+        "street": "Jeffrey Center",
+        "city": "Yoderfort",
+        "state": "Arkansas",
+        "zip": "12405"
+    },
+    "contact": {
+        "phone": "(776)589-2424x4410",
+        "servicePhone": "800794145"
+    },
+    "birthday": "1923-21-03",
+    "ip": "131.137.52.222",
+    "foo": "bar",
+    "profile": {
+        "about": "Area member later indicate dog. Speak same watch necessary artist.\nEvent certain push report determine either. Change stock item.",
+        "bio": "Well strategy fast. But again course expert six wind perform. Art stay world.\nDoctor partner station art pressure economic. Government parent care street cost always."
+    },
+    "currency": [
+        "CDF",
+        "Congolese franc"
+    ]
+}
