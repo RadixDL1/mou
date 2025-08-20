@@ -1,0 +1,25 @@
+{
+    "name": "Jon Hendricks",
+    "age": 47,
+    "address": {
+        "street": "Collins Circles",
+        "city": "Lake Kevinborough",
+        "state": "Nevada",
+        "zip": "52012"
+    },
+    "contact": {
+        "phone": "481.984.8816",
+        "servicePhone": "800548446"
+    },
+    "birthday": "1978-14-12",
+    "ip": "153.195.192.111",
+    "foo": "bar",
+    "profile": {
+        "about": "Book middle soon society. Place way represent different rise member risk enjoy.\nYou after suggest cost finish service whether. Decision the later and. Wind foot senior computer speak.",
+        "bio": "Final this suffer defense tonight difficult hair quite. Indicate read discover arrive police.\nBox assume firm nothing reveal maintain. Model heart during big success body."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
