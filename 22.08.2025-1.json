@@ -1,0 +1,25 @@
+{
+    "name": "Wesley Alexander",
+    "age": 58,
+    "address": {
+        "street": "Mcmahon Divide",
+        "city": "New Edward",
+        "state": "Minnesota",
+        "zip": "27963"
+    },
+    "contact": {
+        "phone": "(439)594-0206x0936",
+        "servicePhone": "800849509"
+    },
+    "birthday": "1967-15-09",
+    "ip": "107.255.218.33",
+    "foo": "bar",
+    "profile": {
+        "about": "Cultural prevent range teach drug. Expert beyond bad rich development response.\nAssume trial investment structure. Save subject I.",
+        "bio": "Actually single analysis still. Sell fish kid several great. Cut trade would.\nHundred town night. Politics training sense.\nVote study material local without difference dinner."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
