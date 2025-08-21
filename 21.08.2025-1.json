@@ -1,0 +1,25 @@
+{
+    "name": "Shane Davis",
+    "age": 90,
+    "address": {
+        "street": "Thornton Ville",
+        "city": "Lake Kylieland",
+        "state": "Minnesota",
+        "zip": "80368"
+    },
+    "contact": {
+        "phone": "+1-738-225-8604x5011",
+        "servicePhone": "800112003"
+    },
+    "birthday": "1935-05-07",
+    "ip": "97.54.210.208",
+    "foo": "bar",
+    "profile": {
+        "about": "Share sit skin notice sell structure. Upon account record weight body power.\nForeign second institution economy. Bed social statement hotel some general. Fund unit prepare change current possible.",
+        "bio": "Instead avoid put contain perform. Administration that make score mission leave argue. Prove detail or election enjoy think.\nMinute item for reveal beyond. The pretty probably rate."
+    },
+    "currency": [
+        "AFN",
+        "Afghan afghani"
+    ]
+}
