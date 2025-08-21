@@ -1,0 +1,25 @@
+{
+    "name": "Lauren Adams",
+    "age": 60,
+    "address": {
+        "street": "Kristina Drive",
+        "city": "New Chelsealand",
+        "state": "Virginia",
+        "zip": "88320"
+    },
+    "contact": {
+        "phone": "250-453-2700",
+        "servicePhone": "800946472"
+    },
+    "birthday": "1965-28-01",
+    "ip": "201.113.128.195",
+    "foo": "bar",
+    "profile": {
+        "about": "Rock option knowledge yet quite. Get civil every store ball cold strong. Way television treatment fact center.\nRate law art. Small kind politics writer machine performance memory entire.",
+        "bio": "Reflect threat sister. Some campaign push resource good ten. Peace art toward technology hold upon.\nBe two decision. Above charge cut sort adult how.\nCertain upon loss those."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}
