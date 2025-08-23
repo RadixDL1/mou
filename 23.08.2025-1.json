@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Jackson",
+    "age": 73,
+    "address": {
+        "street": "Munoz Junctions",
+        "city": "Josephside",
+        "state": "Kentucky",
+        "zip": "01091"
+    },
+    "contact": {
+        "phone": "+1-292-628-7874x235",
+        "servicePhone": "800934125"
+    },
+    "birthday": "1952-30-09",
+    "ip": "139.238.118.180",
+    "foo": "bar",
+    "profile": {
+        "about": "Idea occur turn civil mean. Evidence cup certain office. Boy choose own news heavy ten reason.\nWithout modern make. Win record attack large stay throw. Effort where at me.",
+        "bio": "Society while those however firm woman ahead watch. Play behind find attention quite style many. Opportunity many learn fear something cold."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
