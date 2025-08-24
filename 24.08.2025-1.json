@@ -1,0 +1,25 @@
+{
+    "name": "Lindsay Barrett",
+    "age": 33,
+    "address": {
+        "street": "Lopez Streets",
+        "city": "Kyletown",
+        "state": "Georgia",
+        "zip": "32657"
+    },
+    "contact": {
+        "phone": "764-405-1977x512",
+        "servicePhone": "800181879"
+    },
+    "birthday": "1992-23-07",
+    "ip": "207.114.92.52",
+    "foo": "bar",
+    "profile": {
+        "about": "Wind race run exactly. Piece national close her cold apply.\nDirector baby what personal political class table. Leader public our source man. Sell describe while help should century.",
+        "bio": "Church fund suffer meeting may tax. Large really right food far personal determine radio. Avoid nor theory tend hand even. Rather get pretty line put administration."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}
