@@ -1,0 +1,25 @@
+{
+    "name": "Stephen Martin",
+    "age": 66,
+    "address": {
+        "street": "Tony Manor",
+        "city": "East Erinside",
+        "state": "Virginia",
+        "zip": "20502"
+    },
+    "contact": {
+        "phone": "+1-222-570-0942x394",
+        "servicePhone": "800702312"
+    },
+    "birthday": "1959-11-05",
+    "ip": "57.213.158.53",
+    "foo": "bar",
+    "profile": {
+        "about": "Expect check herself rather actually each. Language throughout whom big few authority. Scene performance number hit.",
+        "bio": "Strategy station success. Animal paper week suggest.\nRate per lay determine. Money finish despite evening agree contain develop.\nPolicy direction across. Change home class represent."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}
