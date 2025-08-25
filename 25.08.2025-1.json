@@ -1,0 +1,25 @@
+{
+    "name": "Michael Thompson",
+    "age": 39,
+    "address": {
+        "street": "Amy Path",
+        "city": "Heidimouth",
+        "state": "Arizona",
+        "zip": "96870"
+    },
+    "contact": {
+        "phone": "600.368.4533x55587",
+        "servicePhone": "800085621"
+    },
+    "birthday": "1986-04-04",
+    "ip": "103.50.241.88",
+    "foo": "bar",
+    "profile": {
+        "about": "Lawyer single these effort them. Safe throw international sport quickly adult box. Option hope professional energy.\nSend far price. Big consider what hand with.",
+        "bio": "Relationship assume writer hear. Religious my figure can social attention alone. Movie simple push century.\nResponse customer author cup offer. Civil line then. Street adult scientist trouble."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
