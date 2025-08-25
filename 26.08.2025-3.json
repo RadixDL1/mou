@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Hale",
+    "age": 114,
+    "address": {
+        "street": "Elizabeth Lodge",
+        "city": "North Jasminestad",
+        "state": "Nevada",
+        "zip": "52719"
+    },
+    "contact": {
+        "phone": "+1-250-450-6854x25089",
+        "servicePhone": "800868549"
+    },
+    "birthday": "1911-19-10",
+    "ip": "139.119.137.35",
+    "foo": "bar",
+    "profile": {
+        "about": "Find these service worker. Job morning education certainly.\nHuge opportunity guy red hundred. Them before almost view for language.",
+        "bio": "Question dog set to structure. Fish again someone inside tonight cell.\nLaugh natural once.\nImage you direction agent star. Public spend fight story."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
