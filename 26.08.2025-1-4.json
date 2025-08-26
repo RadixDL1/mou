@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Peterson",
+    "age": 77,
+    "address": {
+        "street": "Martin Freeway",
+        "city": "South Johnberg",
+        "state": "Mississippi",
+        "zip": "16009"
+    },
+    "contact": {
+        "phone": "799-820-3600x199",
+        "servicePhone": "800359985"
+    },
+    "birthday": "1948-24-05",
+    "ip": "175.172.68.195",
+    "foo": "bar",
+    "profile": {
+        "about": "We ever room kitchen a. Have health age bit religious top. Site girl through TV word agreement bank. Area different much color medical Congress.",
+        "bio": "Hot role camera middle treatment view purpose cut. Son artist energy benefit understand. Answer including indeed always threat add. Guess beat about various night."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}
