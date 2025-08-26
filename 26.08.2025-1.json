@@ -1,0 +1,25 @@
+{
+    "name": "William Walker",
+    "age": 101,
+    "address": {
+        "street": "Deborah Hollow",
+        "city": "Shortmouth",
+        "state": "Nevada",
+        "zip": "76363"
+    },
+    "contact": {
+        "phone": "+1-597-417-8841x79606",
+        "servicePhone": "800279975"
+    },
+    "birthday": "1924-16-11",
+    "ip": "62.199.223.135",
+    "foo": "bar",
+    "profile": {
+        "about": "Treatment which bill themselves might talk some under. Lawyer look career cell. Side investment style home those add.",
+        "bio": "Center rather Mr half. Then apply toward set item break total. Pull ten choice defense along plant."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
