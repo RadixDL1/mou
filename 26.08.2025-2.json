@@ -1,0 +1,25 @@
+{
+    "name": "Sharon Johnson",
+    "age": 6,
+    "address": {
+        "street": "Ortiz Spring",
+        "city": "West Kaitlynport",
+        "state": "Michigan",
+        "zip": "60945"
+    },
+    "contact": {
+        "phone": "+1-597-428-3893x68000",
+        "servicePhone": "800213450"
+    },
+    "birthday": "2019-29-10",
+    "ip": "2.211.53.152",
+    "foo": "bar",
+    "profile": {
+        "about": "Sport decide since buy. Even write along boy economic mean. As break property anyone money management clear.\nCoach benefit black news north. Huge history everybody low knowledge experience perhaps.",
+        "bio": "Keep bill agree include seat. Maintain artist them large possible exist own.\nHer hold represent teach somebody will. Leg medical example school."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
