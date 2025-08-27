@@ -1,0 +1,25 @@
+{
+    "name": "Albert Harris",
+    "age": 42,
+    "address": {
+        "street": "Martinez Extension",
+        "city": "Jasonmouth",
+        "state": "Michigan",
+        "zip": "95546"
+    },
+    "contact": {
+        "phone": "(910)968-8581",
+        "servicePhone": "800992418"
+    },
+    "birthday": "1983-07-08",
+    "ip": "100.25.15.255",
+    "foo": "bar",
+    "profile": {
+        "about": "Reach allow garden goal red. Tell your product it when receive book.\nWalk thousand according better. Heart that call few than painting last.",
+        "bio": "Meet image sea force employee ground move. Morning pay be expect him until course question."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}
