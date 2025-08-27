@@ -1,0 +1,25 @@
+{
+    "name": "Sara Green",
+    "age": 44,
+    "address": {
+        "street": "Bowers Extension",
+        "city": "East Danieltown",
+        "state": "Oregon",
+        "zip": "75924"
+    },
+    "contact": {
+        "phone": "+1-739-738-2124",
+        "servicePhone": "800902803"
+    },
+    "birthday": "1981-13-02",
+    "ip": "21.85.153.132",
+    "foo": "bar",
+    "profile": {
+        "about": "Everyone model hard news cell. Each military production happy everybody let. Station under grow then.",
+        "bio": "Policy though upon. South really person rise PM meet.\nWorld to computer method full participant who.\nLot break six understand son. Get or section success service smile according."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}
