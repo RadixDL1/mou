@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Robles",
+    "age": 55,
+    "address": {
+        "street": "Garrett Harbors",
+        "city": "New Andreamouth",
+        "state": "Montana",
+        "zip": "99648"
+    },
+    "contact": {
+        "phone": "(710)300-0371",
+        "servicePhone": "800284762"
+    },
+    "birthday": "1970-11-01",
+    "ip": "2.93.125.82",
+    "foo": "bar",
+    "profile": {
+        "about": "Young believe bag. Base always a pick put.\nTest want paper book reason with. Not data maybe.",
+        "bio": "Study education reduce beat property available entire end. Hair different democratic win fine free guess.\nMouth including pass west get. Play worker card happen PM scientist reality."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}
