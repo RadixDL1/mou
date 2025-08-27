@@ -1,0 +1,25 @@
+{
+    "name": "Dakota Garcia",
+    "age": 83,
+    "address": {
+        "street": "Brown Brook",
+        "city": "Joneston",
+        "state": "Vermont",
+        "zip": "31195"
+    },
+    "contact": {
+        "phone": "602-750-5600",
+        "servicePhone": "800512630"
+    },
+    "birthday": "1942-09-12",
+    "ip": "165.58.28.154",
+    "foo": "bar",
+    "profile": {
+        "about": "Clear truth outside ten money. Wait material sign peace support artist.\nSame yes usually produce own entire. Would fast bar deal audience role catch.",
+        "bio": "Involve same save my account school operation cup. Quite professor son region. Argue example many system describe.\nUse those maintain language. Main it military both. Six international realize."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
