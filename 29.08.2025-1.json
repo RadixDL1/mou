@@ -1,0 +1,25 @@
+{
+    "name": "Logan Jenkins",
+    "age": 28,
+    "address": {
+        "street": "Shannon Estates",
+        "city": "East Derek",
+        "state": "Virginia",
+        "zip": "30841"
+    },
+    "contact": {
+        "phone": "001-629-402-6053",
+        "servicePhone": "800241857"
+    },
+    "birthday": "1997-23-08",
+    "ip": "123.78.215.10",
+    "foo": "bar",
+    "profile": {
+        "about": "Have meet sing instead. Central audience view physical week decade.",
+        "bio": "Out size defense this eat. Return green already maybe.\nStructure power yet site. Its partner space growth take together care. By power notice stage possible guess."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
