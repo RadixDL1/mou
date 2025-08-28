@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Reed",
+    "age": 51,
+    "address": {
+        "street": "Riley Throughway",
+        "city": "West Courtneyland",
+        "state": "West Virginia",
+        "zip": "32838"
+    },
+    "contact": {
+        "phone": "663-745-2326x1191",
+        "servicePhone": "800845408"
+    },
+    "birthday": "1974-18-01",
+    "ip": "2.202.168.4",
+    "foo": "bar",
+    "profile": {
+        "about": "Strong reality cultural big. Then edge its face.\nHand many what. New and allow.\nTrip of detail environmental little.",
+        "bio": "Build part different night. Position organization evidence. Serious sit ahead through.\nCold kid parent especially picture economy according. Huge me concern remember catch control idea."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}
