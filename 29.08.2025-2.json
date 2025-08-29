@@ -1,0 +1,25 @@
+{
+    "name": "Craig Hopkins",
+    "age": 101,
+    "address": {
+        "street": "Scott Mews",
+        "city": "South Courtneyberg",
+        "state": "Rhode Island",
+        "zip": "64628"
+    },
+    "contact": {
+        "phone": "+1-984-287-1257x8986",
+        "servicePhone": "800176711"
+    },
+    "birthday": "1924-16-10",
+    "ip": "50.219.199.56",
+    "foo": "bar",
+    "profile": {
+        "about": "Economy feel officer build protect matter. Set whatever avoid social. City seem authority dog. Appear draw set drug.\nMrs sit investment way. Method trial them participant trip Republican.",
+        "bio": "Something anything time. Happen than language onto owner stock federal.\nMain then around group security. Court itself project manage enough old event. Between receive recognize truth."
+    },
+    "currency": [
+        "NIS",
+        "Israeli new shekel"
+    ]
+}
