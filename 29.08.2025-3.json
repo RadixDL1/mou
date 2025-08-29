@@ -1,0 +1,25 @@
+{
+    "name": "Roy Hodges",
+    "age": 0,
+    "address": {
+        "street": "Ashley Canyon",
+        "city": "North Debraview",
+        "state": "Wisconsin",
+        "zip": "88822"
+    },
+    "contact": {
+        "phone": "(602)908-5691",
+        "servicePhone": "800034387"
+    },
+    "birthday": "2025-18-06",
+    "ip": "88.122.160.239",
+    "foo": "bar",
+    "profile": {
+        "about": "Front gun law week generation.\nLight of if star way author. Movie instead term save true article protect. However pattern politics.",
+        "bio": "Into result outside daughter sometimes public what. Movement fact scene traditional."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}
