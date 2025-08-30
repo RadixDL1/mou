@@ -1,0 +1,25 @@
+{
+    "name": "Alexandria Graham",
+    "age": 17,
+    "address": {
+        "street": "Alex Views",
+        "city": "Robinmouth",
+        "state": "Texas",
+        "zip": "37983"
+    },
+    "contact": {
+        "phone": "700-304-6981x799",
+        "servicePhone": "800697530"
+    },
+    "birthday": "2008-05-03",
+    "ip": "39.92.206.253",
+    "foo": "bar",
+    "profile": {
+        "about": "Police apply scene agree smile. Third we main. Stage us wonder control their before friend.\nKnowledge with performance alone listen. Employee until of.",
+        "bio": "Student tough sister painting phone hit improve.\nElection draw top public middle. Garden head say book board now tend.\nMiss never age man man. Home resource success give business body final."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}
