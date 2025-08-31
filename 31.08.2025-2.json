@@ -1,0 +1,25 @@
+{
+    "name": "Katherine Ramirez",
+    "age": 7,
+    "address": {
+        "street": "Elliott Ranch",
+        "city": "West Bobby",
+        "state": "Mississippi",
+        "zip": "42350"
+    },
+    "contact": {
+        "phone": "419.304.2407",
+        "servicePhone": "800292118"
+    },
+    "birthday": "2018-26-10",
+    "ip": "21.160.116.222",
+    "foo": "bar",
+    "profile": {
+        "about": "Natural give once under. Short voice administration oil themselves each newspaper above.\nWell admit either hair out perform.",
+        "bio": "Exactly part body cut method.\nHimself hospital probably good window. Physical author large. Several education experience question. International watch official identify final serious."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}
