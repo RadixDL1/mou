@@ -1,0 +1,25 @@
+{
+    "name": "Brandon Banks",
+    "age": 84,
+    "address": {
+        "street": "Bush Oval",
+        "city": "Lake Deborah",
+        "state": "Kentucky",
+        "zip": "75209"
+    },
+    "contact": {
+        "phone": "001-345-367-0243x330",
+        "servicePhone": "800900064"
+    },
+    "birthday": "1941-22-07",
+    "ip": "147.105.32.51",
+    "foo": "bar",
+    "profile": {
+        "about": "Data at specific idea particularly especially them. Light bag after size lead. Report more be century a.\nPiece describe adult bed. Human green shake financial certain charge.",
+        "bio": "Visit cold eight affect phone seem plant.\nScore name development. Single increase board process of month dog interview.\nPull material American already event process consumer keep."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
