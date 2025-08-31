@@ -1,0 +1,25 @@
+{
+    "name": "Jacqueline Cook",
+    "age": 76,
+    "address": {
+        "street": "Bell Club",
+        "city": "Vincentstad",
+        "state": "Indiana",
+        "zip": "20075"
+    },
+    "contact": {
+        "phone": "(836)699-2535",
+        "servicePhone": "800055408"
+    },
+    "birthday": "1949-06-01",
+    "ip": "4.52.145.252",
+    "foo": "bar",
+    "profile": {
+        "about": "Glass fine cell standard. About challenge college population. World laugh doctor idea condition support action.\nTonight figure force pick production season. Writer bring involve trip visit resource.",
+        "bio": "Million this this let fine matter. Follow enter federal. Form whether concern cold.\nFactor billion who through item analysis. Less must lot quickly voice threat assume."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}
