@@ -1,0 +1,25 @@
+{
+    "name": "James Howard",
+    "age": 81,
+    "address": {
+        "street": "Hill Avenue",
+        "city": "Branditown",
+        "state": "North Carolina",
+        "zip": "80315"
+    },
+    "contact": {
+        "phone": "(347)468-4604x282",
+        "servicePhone": "800743766"
+    },
+    "birthday": "1944-18-11",
+    "ip": "118.42.163.128",
+    "foo": "bar",
+    "profile": {
+        "about": "Key responsibility can light actually will. Interest market economic sister interview leave draw. Around door people five little unit ready.\nUpon should else expect.",
+        "bio": "Whom mother stage democratic. Catch Mrs sit pattern bar. Real family value picture.\nPm enjoy mother. Action actually million American again sell reason news."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}
