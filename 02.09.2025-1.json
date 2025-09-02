@@ -1,0 +1,25 @@
+{
+    "name": "Richard Tapia",
+    "age": 31,
+    "address": {
+        "street": "Lopez Vista",
+        "city": "New Steven",
+        "state": "Oregon",
+        "zip": "99511"
+    },
+    "contact": {
+        "phone": "815-802-8285x4051",
+        "servicePhone": "800210619"
+    },
+    "birthday": "1994-01-03",
+    "ip": "50.75.131.236",
+    "foo": "bar",
+    "profile": {
+        "about": "Suddenly western image amount successful night. Outside author former medical prove century.",
+        "bio": "Not Republican real provide. Left member similar by adult able.\nStrong term real reduce ball provide machine end. Quality school third hair teach door. Behavior how key share sign."
+    },
+    "currency": [
+        "JMD",
+        "Jamaican dollar"
+    ]
+}
