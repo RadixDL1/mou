@@ -1,0 +1,25 @@
+{
+    "name": "Gavin Blackburn",
+    "age": 74,
+    "address": {
+        "street": "Stark Cape",
+        "city": "Alexanderfurt",
+        "state": "South Carolina",
+        "zip": "19101"
+    },
+    "contact": {
+        "phone": "+1-388-763-6601",
+        "servicePhone": "800585744"
+    },
+    "birthday": "1951-27-06",
+    "ip": "108.32.44.70",
+    "foo": "bar",
+    "profile": {
+        "about": "They none professional oil reduce rule. Medical finish buy professor.\nNo deep behavior cover. Education particular hospital can middle let learn.",
+        "bio": "His any your quickly shake. Nearly company type stand.\nTeach plant against third theory model offer. Cup view manage half history. Reflect will deal society. Entire new new perform quickly."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}
