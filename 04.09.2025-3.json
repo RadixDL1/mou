@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Turner",
+    "age": 94,
+    "address": {
+        "street": "Justin Views",
+        "city": "New Tamiborough",
+        "state": "Ohio",
+        "zip": "09678"
+    },
+    "contact": {
+        "phone": "(536)515-3583x8451",
+        "servicePhone": "800687534"
+    },
+    "birthday": "1931-14-12",
+    "ip": "168.240.234.48",
+    "foo": "bar",
+    "profile": {
+        "about": "Cut fly several weight. Mr seat between decide. Star early top key all.\nSay for market produce.\nCut least art fly. Increase learn year recently floor. Very economy action.",
+        "bio": "Near car sometimes enough manage road head. Since popular minute.\nCrime suggest likely budget represent."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}
