@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Reyes",
+    "age": 40,
+    "address": {
+        "street": "Bowman Plain",
+        "city": "East Karen",
+        "state": "Michigan",
+        "zip": "63885"
+    },
+    "contact": {
+        "phone": "378.828.6953x54414",
+        "servicePhone": "800132253"
+    },
+    "birthday": "1985-10-07",
+    "ip": "131.192.184.0",
+    "foo": "bar",
+    "profile": {
+        "about": "Along hotel person single Democrat program. Lay bed task north us quality maybe.\nPerformance really color like performance such. Hard after paper. Between heavy adult prepare page reach.",
+        "bio": "Any nature kitchen wrong.\nDetermine parent term sign high too important. During son while pattern window."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}
