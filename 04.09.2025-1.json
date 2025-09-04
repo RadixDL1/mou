@@ -1,0 +1,25 @@
+{
+    "name": "Alicia Kelly",
+    "age": 20,
+    "address": {
+        "street": "Jill Plaza",
+        "city": "Leahfort",
+        "state": "California",
+        "zip": "06821"
+    },
+    "contact": {
+        "phone": "001-202-819-5107x75119",
+        "servicePhone": "800015480"
+    },
+    "birthday": "2005-28-07",
+    "ip": "158.75.201.183",
+    "foo": "bar",
+    "profile": {
+        "about": "Base money Congress smile no other player.\nCompare knowledge case series. Western class structure short. Doctor likely song many hospital new treatment.",
+        "bio": "Leave manage commercial marriage.\nSign between daughter campaign. Certain study much color."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}
