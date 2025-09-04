@@ -1,0 +1,25 @@
+{
+    "name": "Lance Clark",
+    "age": 101,
+    "address": {
+        "street": "Moss Expressway",
+        "city": "New Andresmouth",
+        "state": "Nebraska",
+        "zip": "48876"
+    },
+    "contact": {
+        "phone": "248-265-8105x5250",
+        "servicePhone": "800106370"
+    },
+    "birthday": "1924-17-01",
+    "ip": "24.0.111.9",
+    "foo": "bar",
+    "profile": {
+        "about": "Discover summer Republican husband yard lay hospital. Program south kind capital not. Main compare own including girl example push.",
+        "bio": "Improve natural center talk push bag. Fill practice him scene group appear. Truth check ahead speak pull on fast admit."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
