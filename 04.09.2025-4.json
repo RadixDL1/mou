@@ -1,0 +1,25 @@
+{
+    "name": "Jason Welch",
+    "age": 39,
+    "address": {
+        "street": "Baker Locks",
+        "city": "Kennethstad",
+        "state": "California",
+        "zip": "25409"
+    },
+    "contact": {
+        "phone": "2336891214",
+        "servicePhone": "800392236"
+    },
+    "birthday": "1986-21-05",
+    "ip": "50.123.184.197",
+    "foo": "bar",
+    "profile": {
+        "about": "Consider might final goal base rest could.\nMonth town music various. Process successful bar southern sing important able. Concern keep away answer. Rest almost town military point degree.",
+        "bio": "Care opportunity agent maintain hundred account magazine evening. Financial according front attention late describe."
+    },
+    "currency": [
+        "SRD",
+        "Surinamese dollar"
+    ]
+}
