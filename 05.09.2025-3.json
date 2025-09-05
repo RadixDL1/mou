@@ -1,0 +1,25 @@
+{
+    "name": "Lindsay Jensen",
+    "age": 13,
+    "address": {
+        "street": "Benson Wall",
+        "city": "Johnsonfurt",
+        "state": "California",
+        "zip": "01772"
+    },
+    "contact": {
+        "phone": "001-731-213-0280x9792",
+        "servicePhone": "800868779"
+    },
+    "birthday": "2012-06-07",
+    "ip": "42.223.241.195",
+    "foo": "bar",
+    "profile": {
+        "about": "Everyone hold model left. Place what long pressure executive hair.\nHe study wonder join. There song sure size save response.\nAccording high official responsibility might save.",
+        "bio": "Hair continue eye for. Congress exactly strategy friend trial.\nPrice consumer stage believe she force. Financial send difficult direction sell health. Accept attack might four."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}
