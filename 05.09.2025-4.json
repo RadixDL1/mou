@@ -1,0 +1,25 @@
+{
+    "name": "Sara Thompson",
+    "age": 74,
+    "address": {
+        "street": "Gary Curve",
+        "city": "Hahnhaven",
+        "state": "Wisconsin",
+        "zip": "97913"
+    },
+    "contact": {
+        "phone": "001-413-537-9395x914",
+        "servicePhone": "800870105"
+    },
+    "birthday": "1951-26-09",
+    "ip": "116.122.185.134",
+    "foo": "bar",
+    "profile": {
+        "about": "Fall put usually building hospital form rule range. Court open cause his inside. Affect community move small the major.\nCommon find paper early whom.",
+        "bio": "Item road recognize plant sense push. Arrive same ability still involve.\nImagine green color series card arrive decade. Issue join store wish research spend."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
