@@ -1,0 +1,25 @@
+{
+    "name": "Jesse James",
+    "age": 43,
+    "address": {
+        "street": "Church Hills",
+        "city": "Huntermouth",
+        "state": "Connecticut",
+        "zip": "99019"
+    },
+    "contact": {
+        "phone": "001-867-576-1295x5736",
+        "servicePhone": "800312522"
+    },
+    "birthday": "1982-26-02",
+    "ip": "33.10.191.106",
+    "foo": "bar",
+    "profile": {
+        "about": "Morning attorney as trouble. Letter get plan field. Free speak without window outside sell church.",
+        "bio": "Several generation natural church watch. General behind college price good none. Economy hard create behind."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
