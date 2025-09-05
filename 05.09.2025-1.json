@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Miller",
+    "age": 107,
+    "address": {
+        "street": "Bradley Court",
+        "city": "Andersonview",
+        "state": "Florida",
+        "zip": "61367"
+    },
+    "contact": {
+        "phone": "219-436-2043",
+        "servicePhone": "800903664"
+    },
+    "birthday": "1918-17-02",
+    "ip": "180.194.129.211",
+    "foo": "bar",
+    "profile": {
+        "about": "Budget sign finish senior source walk. Admit offer PM tree.\nTough wall fire surface side bill accept crime. Determine bed work well. Call whether player space recently.",
+        "bio": "Head open above. Treat yard down feeling check alone light. Region item cost step sometimes from administration.\nSpeak under human parent Congress know."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}
