@@ -1,0 +1,25 @@
+{
+    "name": "Brooke Decker",
+    "age": 17,
+    "address": {
+        "street": "Shane Crescent",
+        "city": "Harrisberg",
+        "state": "New York",
+        "zip": "51973"
+    },
+    "contact": {
+        "phone": "(533)829-9096x218",
+        "servicePhone": "800697346"
+    },
+    "birthday": "2008-18-10",
+    "ip": "26.26.181.219",
+    "foo": "bar",
+    "profile": {
+        "about": "Serve manager than as. Let success write over direction state person type.\nFear wide peace any. News learn page black address three. Now no scientist change.",
+        "bio": "Industry focus throw smile happy mind money. Newspaper for hour stock. Worry cultural house beautiful decision.\nDirector arm small name exactly wall."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}
