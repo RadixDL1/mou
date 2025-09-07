@@ -1,0 +1,25 @@
+{
+    "name": "Curtis Gonzalez",
+    "age": 72,
+    "address": {
+        "street": "Cassandra Route",
+        "city": "East Rebecca",
+        "state": "Illinois",
+        "zip": "47988"
+    },
+    "contact": {
+        "phone": "(501)271-9236",
+        "servicePhone": "800603416"
+    },
+    "birthday": "1953-10-07",
+    "ip": "186.206.154.229",
+    "foo": "bar",
+    "profile": {
+        "about": "Product benefit seem grow. Common job executive education dream religious. Production threat score gas rest structure.\nWrong play PM town represent data movement. Prove manager he plan sense.",
+        "bio": "Attorney now traditional actually different attack. Thought me politics everything. Upon respond indeed short easy themselves."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
