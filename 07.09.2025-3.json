@@ -1,0 +1,25 @@
+{
+    "name": "Nathaniel Osborne",
+    "age": 27,
+    "address": {
+        "street": "Marcus Brook",
+        "city": "Lake Andrew",
+        "state": "South Carolina",
+        "zip": "75050"
+    },
+    "contact": {
+        "phone": "611.208.7846x044",
+        "servicePhone": "800095781"
+    },
+    "birthday": "1998-02-06",
+    "ip": "109.195.131.141",
+    "foo": "bar",
+    "profile": {
+        "about": "Blood her simple school table national agent. Property read option tree wait picture several. Worker imagine article strong.",
+        "bio": "Direction not better. Television manage would home certain.\nCost education capital candidate order same. Stand science alone probably section data language.\nAuthor ask camera look air."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}
