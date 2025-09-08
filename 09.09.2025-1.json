@@ -1,0 +1,25 @@
+{
+    "name": "Bobby Bennett",
+    "age": 90,
+    "address": {
+        "street": "Rose Roads",
+        "city": "New David",
+        "state": "Vermont",
+        "zip": "52696"
+    },
+    "contact": {
+        "phone": "(442)616-4686x123",
+        "servicePhone": "800266638"
+    },
+    "birthday": "1935-25-11",
+    "ip": "26.69.162.193",
+    "foo": "bar",
+    "profile": {
+        "about": "Upon special teacher magazine mean. Her radio four yeah show mind yard. Second play ok find minute management state.",
+        "bio": "Answer pay south senior.\nMessage next door most truth fast.\nTeacher beautiful town party skin serious.\nCould eat a work consumer. Up concern result act debate much. Long production up hour."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
