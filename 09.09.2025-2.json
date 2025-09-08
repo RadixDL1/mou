@@ -1,0 +1,25 @@
+{
+    "name": "Travis Rogers",
+    "age": 17,
+    "address": {
+        "street": "James Squares",
+        "city": "Garciaview",
+        "state": "Nevada",
+        "zip": "29030"
+    },
+    "contact": {
+        "phone": "(446)808-3673x12747",
+        "servicePhone": "800970703"
+    },
+    "birthday": "2008-21-03",
+    "ip": "45.118.128.50",
+    "foo": "bar",
+    "profile": {
+        "about": "Red play maybe serve.\nAnd thing kid recent. Take provide trade bag study.",
+        "bio": "Section husband effect easy while whom. Myself line police class car station sing."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
