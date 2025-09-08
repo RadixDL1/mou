@@ -1,0 +1,25 @@
+{
+    "name": "Meghan Taylor",
+    "age": 65,
+    "address": {
+        "street": "Russell Creek",
+        "city": "Clarkhaven",
+        "state": "Connecticut",
+        "zip": "22613"
+    },
+    "contact": {
+        "phone": "001-725-413-6295x234",
+        "servicePhone": "800194383"
+    },
+    "birthday": "1960-25-01",
+    "ip": "84.231.123.210",
+    "foo": "bar",
+    "profile": {
+        "about": "Prepare a back technology. Indeed movement new lay performance. Top evening discover mission.",
+        "bio": "Customer none success window third report Mr. Economic stuff ago doctor find hear. Really today well attorney however feeling girl them."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}
