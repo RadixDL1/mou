@@ -1,0 +1,25 @@
+{
+    "name": "Jill Warren",
+    "age": 58,
+    "address": {
+        "street": "Wilson Unions",
+        "city": "Jeffreyside",
+        "state": "Michigan",
+        "zip": "41012"
+    },
+    "contact": {
+        "phone": "001-834-718-4032x9973",
+        "servicePhone": "800150400"
+    },
+    "birthday": "1967-20-10",
+    "ip": "188.49.205.173",
+    "foo": "bar",
+    "profile": {
+        "about": "Magazine American occur perhaps how. Its later man money product feeling. Recently relationship know sense foot identify one.\nMr bed sit level area probably. Mrs think believe paper.",
+        "bio": "Grow these your front as. Fish compare produce. Next fear maintain suffer.\nWhere by car visit win ready. Happy type series business section.\nRelationship from little decade drug."
+    },
+    "currency": [
+        "CNY",
+        "Renminbi"
+    ]
+}
