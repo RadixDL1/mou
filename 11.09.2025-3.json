@@ -1,0 +1,25 @@
+{
+    "name": "Michele Johnson",
+    "age": 56,
+    "address": {
+        "street": "Huang Circle",
+        "city": "Lake Robertport",
+        "state": "Nevada",
+        "zip": "49517"
+    },
+    "contact": {
+        "phone": "(343)427-2348",
+        "servicePhone": "800041811"
+    },
+    "birthday": "1969-07-11",
+    "ip": "181.69.70.182",
+    "foo": "bar",
+    "profile": {
+        "about": "Simple your miss education force ten. Dinner nature spend involve with while kind.\nCenter single her staff receive before. Edge enough bad herself example play.",
+        "bio": "Up threat current. Everything season tend probably fire somebody produce.\nSecurity air improve campaign TV reduce very. We begin save recent cell long."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}
