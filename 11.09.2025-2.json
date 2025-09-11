@@ -1,0 +1,25 @@
+{
+    "name": "Cathy Johnson",
+    "age": 109,
+    "address": {
+        "street": "Wolf Tunnel",
+        "city": "Hodgeshire",
+        "state": "California",
+        "zip": "14014"
+    },
+    "contact": {
+        "phone": "643-771-5058x57816",
+        "servicePhone": "800608751"
+    },
+    "birthday": "1916-03-02",
+    "ip": "45.69.255.19",
+    "foo": "bar",
+    "profile": {
+        "about": "Success factor place magazine. Traditional show point smile me according join.\nAudience accept word already why fear fly. Picture material term home. Work appear civil possible imagine.",
+        "bio": "Positive pay debate little. Outside practice so size across."
+    },
+    "currency": [
+        "LBP",
+        "Lebanese pound"
+    ]
+}
