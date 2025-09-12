@@ -1,0 +1,25 @@
+{
+    "name": "Jesse Espinoza",
+    "age": 42,
+    "address": {
+        "street": "Sanders Light",
+        "city": "New Michael",
+        "state": "Maine",
+        "zip": "55765"
+    },
+    "contact": {
+        "phone": "255-624-3837x9775",
+        "servicePhone": "800922839"
+    },
+    "birthday": "1983-11-06",
+    "ip": "57.130.191.100",
+    "foo": "bar",
+    "profile": {
+        "about": "Here degree stop official responsibility much decision. Outside soon only guy a tell apply win. Enjoy about cold form action thought.",
+        "bio": "Cut those our notice how safe baby. He never single month trade heavy dinner. Year series answer if.\nEvidence in phone medical fear. National rate market buy."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}
