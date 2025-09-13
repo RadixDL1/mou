@@ -1,0 +1,25 @@
+{
+    "name": "Richard Hernandez",
+    "age": 103,
+    "address": {
+        "street": "Christopher Avenue",
+        "city": "Parkermouth",
+        "state": "Nevada",
+        "zip": "28776"
+    },
+    "contact": {
+        "phone": "+1-464-387-7071x190",
+        "servicePhone": "800557782"
+    },
+    "birthday": "1922-17-06",
+    "ip": "64.108.128.184",
+    "foo": "bar",
+    "profile": {
+        "about": "Person later claim she week. Work scene near even difficult. Difficult compare street least coach.\nRespond ten management. Best pretty peace.",
+        "bio": "Their whatever ever its leg official. Without look amount direction right. Class then organization certainly young news. Individual write way professional beyond idea assume strategy."
+    },
+    "currency": [
+        "SZL",
+        "Swazi lilangeni"
+    ]
+}
