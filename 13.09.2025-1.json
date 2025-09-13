@@ -1,0 +1,25 @@
+{
+    "name": "Jose Rodriguez",
+    "age": 112,
+    "address": {
+        "street": "Hernandez Burg",
+        "city": "Pittmanshire",
+        "state": "Kentucky",
+        "zip": "30493"
+    },
+    "contact": {
+        "phone": "617.999.4540",
+        "servicePhone": "800912088"
+    },
+    "birthday": "1913-15-05",
+    "ip": "111.195.84.241",
+    "foo": "bar",
+    "profile": {
+        "about": "Stand three positive any. Ready poor tax. Apply because including city national.",
+        "bio": "Civil his soldier artist other. Allow appear international.\nThroughout class cause no activity. Notice in general second night."
+    },
+    "currency": [
+        "TOP",
+        "Tongan paʻanga"
+    ]
+}
