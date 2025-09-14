@@ -1,0 +1,25 @@
+{
+    "name": "Justin Espinoza",
+    "age": 1,
+    "address": {
+        "street": "Marvin Flat",
+        "city": "Ronaldberg",
+        "state": "Oregon",
+        "zip": "19726"
+    },
+    "contact": {
+        "phone": "601.703.6451x67733",
+        "servicePhone": "800034995"
+    },
+    "birthday": "2024-25-07",
+    "ip": "129.177.88.11",
+    "foo": "bar",
+    "profile": {
+        "about": "Establish debate trade relate. Almost in grow become kitchen first condition home. Practice politics agreement dog. Public probably common person present.",
+        "bio": "Public get offer. Movie traditional conference statement outside sound federal. Top foreign rest support rest reflect bit."
+    },
+    "currency": [
+        "TOP",
+        "Tongan paʻanga"
+    ]
+}
