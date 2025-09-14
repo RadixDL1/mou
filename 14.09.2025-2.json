@@ -1,0 +1,25 @@
+{
+    "name": "Sherry Johnson",
+    "age": 84,
+    "address": {
+        "street": "Moore Roads",
+        "city": "South Michaelport",
+        "state": "Idaho",
+        "zip": "61399"
+    },
+    "contact": {
+        "phone": "+1-652-472-9817",
+        "servicePhone": "800628948"
+    },
+    "birthday": "1941-06-08",
+    "ip": "145.143.7.202",
+    "foo": "bar",
+    "profile": {
+        "about": "Bank economy rich food teacher huge. School apply single yes it here. Garden cell same education certainly wear.",
+        "bio": "Who cup figure. Interest keep appear before draw help owner. Poor someone why certain.\nHot above close. Step per former lay quite peace left. It stuff page likely.\nOld consider vote. Or we season."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
