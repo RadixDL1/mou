@@ -1,0 +1,25 @@
+{
+    "name": "Heather Richard",
+    "age": 28,
+    "address": {
+        "street": "Michael Forge",
+        "city": "Port Sarah",
+        "state": "Arizona",
+        "zip": "42818"
+    },
+    "contact": {
+        "phone": "001-550-622-0587x2281",
+        "servicePhone": "800104334"
+    },
+    "birthday": "1997-23-04",
+    "ip": "16.185.165.36",
+    "foo": "bar",
+    "profile": {
+        "about": "Marriage red oil beautiful skill.\nSpecial them your wrong myself serve want wait. Billion fire score within.\nPolitics miss hundred chance. Candidate often many. Bit hold cut tend turn break.",
+        "bio": "Anything risk into common off soldier interview across. Report if this rest answer.\nSend discussion teacher certain radio huge. Bed yes heavy several attack cold eat. Teach save station."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}
