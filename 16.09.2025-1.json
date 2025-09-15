@@ -1,0 +1,25 @@
+{
+    "name": "Heather Harris",
+    "age": 112,
+    "address": {
+        "street": "Jones Forge",
+        "city": "Brownmouth",
+        "state": "Virginia",
+        "zip": "71254"
+    },
+    "contact": {
+        "phone": "+1-577-243-9790x293",
+        "servicePhone": "800970132"
+    },
+    "birthday": "1913-05-05",
+    "ip": "53.73.225.91",
+    "foo": "bar",
+    "profile": {
+        "about": "Instead woman society experience outside discuss. These treatment sometimes which somebody real. By loss role father establish.\nDog bag agree low.",
+        "bio": "Sense when partner center effect southern serious. Approach keep interest continue interview really."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
