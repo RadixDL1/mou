@@ -1,0 +1,25 @@
+{
+    "name": "Christine Mcdaniel",
+    "age": 84,
+    "address": {
+        "street": "Beverly Forges",
+        "city": "Duffymouth",
+        "state": "Oklahoma",
+        "zip": "83582"
+    },
+    "contact": {
+        "phone": "+1-238-864-3981",
+        "servicePhone": "800593749"
+    },
+    "birthday": "1941-18-04",
+    "ip": "30.220.16.97",
+    "foo": "bar",
+    "profile": {
+        "about": "Under nearly stay government like ten. A do help might ball site. Worker alone school morning politics and.",
+        "bio": "Travel book or husband suffer boy. Over listen issue choose behavior wife. Develop now poor natural within cultural something."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
