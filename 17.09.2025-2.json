@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Anderson",
+    "age": 68,
+    "address": {
+        "street": "Cristina Way",
+        "city": "Danielland",
+        "state": "North Dakota",
+        "zip": "14926"
+    },
+    "contact": {
+        "phone": "(441)264-3432",
+        "servicePhone": "800401213"
+    },
+    "birthday": "1957-26-08",
+    "ip": "58.194.200.98",
+    "foo": "bar",
+    "profile": {
+        "about": "Store task after little four white owner language. Daughter action risk fire bed. Strategy court democratic behavior.",
+        "bio": "Little whole hot western listen network. From perhaps school should know everybody community need. Message something line college perform media summer. Evening professor home."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}
