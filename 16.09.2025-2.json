@@ -1,0 +1,25 @@
+{
+    "name": "Stacey Jones",
+    "age": 34,
+    "address": {
+        "street": "Jessica Island",
+        "city": "West Justinside",
+        "state": "New Hampshire",
+        "zip": "47482"
+    },
+    "contact": {
+        "phone": "001-657-837-3235x47850",
+        "servicePhone": "800220848"
+    },
+    "birthday": "1991-18-08",
+    "ip": "150.95.96.103",
+    "foo": "bar",
+    "profile": {
+        "about": "Weight start describe support example discussion. Rather inside enjoy car. Beyond section size value name.\nAttorney modern city reach stuff view.",
+        "bio": "Beat piece outside result past many since. President parent find me example score ok. Doctor phone anything first protect effort time health. Officer simply team minute public your."
+    },
+    "currency": [
+        "CDF",
+        "Congolese franc"
+    ]
+}
