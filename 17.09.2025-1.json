@@ -1,0 +1,25 @@
+{
+    "name": "Ms. Jamie Garcia",
+    "age": 58,
+    "address": {
+        "street": "Grace Plains",
+        "city": "Murrayport",
+        "state": "New Mexico",
+        "zip": "42792"
+    },
+    "contact": {
+        "phone": "562.793.7929x65689",
+        "servicePhone": "800665427"
+    },
+    "birthday": "1967-27-02",
+    "ip": "182.54.34.28",
+    "foo": "bar",
+    "profile": {
+        "about": "Course thank car call share natural condition. Sometimes sit TV white. Heavy animal too.\nSince mission by government pressure somebody. Career fact eight may.",
+        "bio": "Tell truth consider senior. Kid between face firm better she room school. Player put reveal off provide.\nMember dinner design stage grow argue."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
