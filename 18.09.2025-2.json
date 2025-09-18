@@ -1,0 +1,25 @@
+{
+    "name": "Dakota Wilkerson",
+    "age": 30,
+    "address": {
+        "street": "Luis Track",
+        "city": "Thomasmouth",
+        "state": "Minnesota",
+        "zip": "94216"
+    },
+    "contact": {
+        "phone": "001-541-969-6257",
+        "servicePhone": "800822060"
+    },
+    "birthday": "1995-19-09",
+    "ip": "43.116.91.127",
+    "foo": "bar",
+    "profile": {
+        "about": "Lose ten catch soldier boy hot. Woman few special statement film politics. Public become during Mr bill recently.",
+        "bio": "Relate large form. Whatever hold today reality. Central world every five support design so. Standard design nature economic.\nSeem debate piece play machine."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
