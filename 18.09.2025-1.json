@@ -1,0 +1,25 @@
+{
+    "name": "Natasha Williams",
+    "age": 95,
+    "address": {
+        "street": "Jamie Hills",
+        "city": "West Jenniferhaven",
+        "state": "Arkansas",
+        "zip": "90710"
+    },
+    "contact": {
+        "phone": "319.235.6256",
+        "servicePhone": "800604794"
+    },
+    "birthday": "1930-22-07",
+    "ip": "139.65.116.119",
+    "foo": "bar",
+    "profile": {
+        "about": "Rather whole follow them. Series relate they body.\nWhere good step success. When event inside wonder attorney.",
+        "bio": "List call administration very. Business very establish thus Democrat oil campaign.\nServe property summer will. Car perhaps help allow worry man. Response hear none field begin growth."
+    },
+    "currency": [
+        "INR",
+        "Indian rupee"
+    ]
+}
