@@ -1,0 +1,25 @@
+{
+    "name": "Ronald Zhang",
+    "age": 13,
+    "address": {
+        "street": "Sawyer Street",
+        "city": "Tannerport",
+        "state": "Illinois",
+        "zip": "51763"
+    },
+    "contact": {
+        "phone": "786.687.3992",
+        "servicePhone": "800118028"
+    },
+    "birthday": "2012-29-05",
+    "ip": "103.10.144.17",
+    "foo": "bar",
+    "profile": {
+        "about": "Today contain land southern interesting win employee. Possible fight street can.\nOur detail lawyer blue. People free focus window cut.",
+        "bio": "Large her fund under later assume. Attention price still list. Learn even decision sit."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
