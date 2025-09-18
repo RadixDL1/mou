@@ -1,0 +1,25 @@
+{
+    "name": "Margaret Pitts",
+    "age": 67,
+    "address": {
+        "street": "Payne Corners",
+        "city": "Port Tonya",
+        "state": "Hawaii",
+        "zip": "48001"
+    },
+    "contact": {
+        "phone": "(903)569-6044x89551",
+        "servicePhone": "800631231"
+    },
+    "birthday": "1958-24-11",
+    "ip": "210.67.228.71",
+    "foo": "bar",
+    "profile": {
+        "about": "Bring mouth of box condition college. Response step race. Present house protect himself.",
+        "bio": "Employee third nice road dream piece. Political trade form red evidence field people. Might treatment represent soon.\nPrice finally bar member shoulder behind. Their do management."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}
