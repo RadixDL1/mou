@@ -1,0 +1,25 @@
+{
+    "name": "James Bryan",
+    "age": 22,
+    "address": {
+        "street": "Barber Manor",
+        "city": "Lake Susanstad",
+        "state": "Pennsylvania",
+        "zip": "84750"
+    },
+    "contact": {
+        "phone": "001-753-244-0722x171",
+        "servicePhone": "800907355"
+    },
+    "birthday": "2003-18-06",
+    "ip": "109.251.20.10",
+    "foo": "bar",
+    "profile": {
+        "about": "Onto medical sometimes avoid. Good return skill able democratic. Though effort theory approach.",
+        "bio": "Wonder car Republican have several agreement address. Simple nice play door.\nAcross maintain cultural few. Beyond visit upon happen watch cup. Republican tend according past design join feeling."
+    },
+    "currency": [
+        "VUV",
+        "Vanuatu vatu"
+    ]
+}
