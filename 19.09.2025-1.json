@@ -1,0 +1,25 @@
+{
+    "name": "Robert Roberts",
+    "age": 109,
+    "address": {
+        "street": "Brian Greens",
+        "city": "New Matthewville",
+        "state": "Minnesota",
+        "zip": "19967"
+    },
+    "contact": {
+        "phone": "+1-738-922-7603x279",
+        "servicePhone": "800814322"
+    },
+    "birthday": "1916-02-12",
+    "ip": "65.209.232.76",
+    "foo": "bar",
+    "profile": {
+        "about": "Cost have upon idea important population. Soldier today myself. Simply arm decision parent. Life soon popular name factor.",
+        "bio": "Meet phone fund officer people certainly together. Street general by. Its writer baby better serious wear east.\nCharacter college gun indicate. Gun whether bar good."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
