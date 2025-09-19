@@ -1,0 +1,25 @@
+{
+    "name": "Maria Moore",
+    "age": 65,
+    "address": {
+        "street": "Gabriella Gateway",
+        "city": "Wrightton",
+        "state": "Louisiana",
+        "zip": "22881"
+    },
+    "contact": {
+        "phone": "(222)611-8612",
+        "servicePhone": "800689458"
+    },
+    "birthday": "1960-01-11",
+    "ip": "158.85.117.67",
+    "foo": "bar",
+    "profile": {
+        "about": "Half different citizen from. Purpose old various far bag partner. Teacher set some theory other product away.",
+        "bio": "Task her require fire class play.\nMight stop become he police east war might. Middle though candidate contain generation."
+    },
+    "currency": [
+        "TOP",
+        "Tongan paʻanga"
+    ]
+}
