@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Sullivan",
+    "age": 94,
+    "address": {
+        "street": "Obrien Stravenue",
+        "city": "Rebeccatown",
+        "state": "Wyoming",
+        "zip": "33179"
+    },
+    "contact": {
+        "phone": "+1-806-717-8788x70638",
+        "servicePhone": "800785095"
+    },
+    "birthday": "1931-22-06",
+    "ip": "196.141.108.41",
+    "foo": "bar",
+    "profile": {
+        "about": "Research indeed discuss himself specific through. View short result several opportunity question. Tax know red trouble.",
+        "bio": "Always perform success upon with far study. Serious speech policy way yeah ever. Someone car explain drug here voice check court."
+    },
+    "currency": [
+        "LBP",
+        "Lebanese pound"
+    ]
+}
