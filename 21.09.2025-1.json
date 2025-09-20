@@ -1,0 +1,25 @@
+{
+    "name": "John Hensley",
+    "age": 81,
+    "address": {
+        "street": "Richardson Forge",
+        "city": "West Carlchester",
+        "state": "South Dakota",
+        "zip": "47328"
+    },
+    "contact": {
+        "phone": "+1-558-430-0190x23817",
+        "servicePhone": "800767471"
+    },
+    "birthday": "1944-11-02",
+    "ip": "185.64.220.70",
+    "foo": "bar",
+    "profile": {
+        "about": "President black however perhaps bar fear likely.\nListen course scientist must trial sit clear color. Act heart so form.\nYard focus arrive you long father line. New knowledge soon.",
+        "bio": "Democrat fire since leg five. Suffer blood become product year better. Type person before poor. Push society side daughter above."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}
