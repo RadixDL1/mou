@@ -1,0 +1,25 @@
+{
+    "name": "Crystal Mitchell",
+    "age": 94,
+    "address": {
+        "street": "Earl Summit",
+        "city": "New Douglasstad",
+        "state": "New Hampshire",
+        "zip": "53622"
+    },
+    "contact": {
+        "phone": "672-961-1196",
+        "servicePhone": "800809286"
+    },
+    "birthday": "1931-08-11",
+    "ip": "223.219.223.171",
+    "foo": "bar",
+    "profile": {
+        "about": "Commercial effect nice guess with. Wall as operation them fear assume.",
+        "bio": "Water management at rock show. Like article unit yet thus.\nAvoid identify movement appear general nation soon. Man film pretty right. Seat for people table guess nation health."
+    },
+    "currency": [
+        "QAR",
+        "Qatari riyal"
+    ]
+}
