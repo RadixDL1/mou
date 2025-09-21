@@ -1,0 +1,25 @@
+{
+    "name": "Miguel Travis",
+    "age": 19,
+    "address": {
+        "street": "Lisa Neck",
+        "city": "Lake Jessica",
+        "state": "Colorado",
+        "zip": "03377"
+    },
+    "contact": {
+        "phone": "524-533-7444",
+        "servicePhone": "800179689"
+    },
+    "birthday": "2006-18-06",
+    "ip": "97.157.249.152",
+    "foo": "bar",
+    "profile": {
+        "about": "Consider wide environment challenge interesting. Physical until level give science include. None address line speak free answer hope.",
+        "bio": "About candidate century factor officer east director. Computer yeah where save. Act imagine choose plan suddenly audience."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
