@@ -1,0 +1,25 @@
+{
+    "name": "Terry Hernandez",
+    "age": 45,
+    "address": {
+        "street": "Joseph Turnpike",
+        "city": "Johnsonstad",
+        "state": "Florida",
+        "zip": "57516"
+    },
+    "contact": {
+        "phone": "(828)315-8733x209",
+        "servicePhone": "800548673"
+    },
+    "birthday": "1980-21-07",
+    "ip": "97.28.241.176",
+    "foo": "bar",
+    "profile": {
+        "about": "Around deep pass close year. Describe better common while start town.\nSay key seven performance event mother music sister. Fast executive sea various quality attorney employee.",
+        "bio": "Child number method some local. Term agent television audience fund none lot vote."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
