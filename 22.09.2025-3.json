@@ -1,0 +1,25 @@
+{
+    "name": "Patricia Barnes",
+    "age": 1,
+    "address": {
+        "street": "Strickland Drives",
+        "city": "Lake Robert",
+        "state": "Nebraska",
+        "zip": "06949"
+    },
+    "contact": {
+        "phone": "274.457.4799",
+        "servicePhone": "800660369"
+    },
+    "birthday": "2024-04-01",
+    "ip": "51.127.128.139",
+    "foo": "bar",
+    "profile": {
+        "about": "Theory full government. Director south later. Election degree magazine sense beyond product.\nPractice science turn light reach. Behind could form option. Rate phone east discover.",
+        "bio": "Style happy into once person yet board home. Something seven central as play."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
