@@ -1,0 +1,25 @@
+{
+    "name": "Levi Alexander",
+    "age": 87,
+    "address": {
+        "street": "Gentry Mews",
+        "city": "Joshualand",
+        "state": "Maine",
+        "zip": "51537"
+    },
+    "contact": {
+        "phone": "(520)997-0947x6189",
+        "servicePhone": "800160698"
+    },
+    "birthday": "1938-01-11",
+    "ip": "121.207.123.128",
+    "foo": "bar",
+    "profile": {
+        "about": "Form girl market view hard believe medical. Executive those especially sell. Partner until professor there development.",
+        "bio": "American eight player run.\nEach go card million improve people. Send also short lot it only. Explain five various consider near."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
