@@ -1,0 +1,25 @@
+{
+    "name": "Michael Lam",
+    "age": 59,
+    "address": {
+        "street": "Amber Park",
+        "city": "Lake Kendra",
+        "state": "California",
+        "zip": "45938"
+    },
+    "contact": {
+        "phone": "001-726-610-3172",
+        "servicePhone": "800456125"
+    },
+    "birthday": "1966-13-09",
+    "ip": "68.127.133.5",
+    "foo": "bar",
+    "profile": {
+        "about": "Born else rather choose writer seat. Current tax mother pretty agree. Real authority together allow.\nVoice full enough treatment by occur. Story two little just.",
+        "bio": "Send question member great. Continue rock challenge.\nEat summer knowledge. Reduce school religious Republican leave just build. Hand open summer. Mother make respond top."
+    },
+    "currency": [
+        "KMF",
+        "Comorian franc"
+    ]
+}
