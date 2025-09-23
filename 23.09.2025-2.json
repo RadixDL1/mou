@@ -1,0 +1,25 @@
+{
+    "name": "Kristina Howard",
+    "age": 34,
+    "address": {
+        "street": "Berry Mission",
+        "city": "Petersonport",
+        "state": "New Hampshire",
+        "zip": "20534"
+    },
+    "contact": {
+        "phone": "231-835-1607",
+        "servicePhone": "800006053"
+    },
+    "birthday": "1991-07-07",
+    "ip": "15.66.71.32",
+    "foo": "bar",
+    "profile": {
+        "about": "Protect message a its himself morning both. For sure we argue.\nGive hour tough as hot between. Environmental nothing bag model thought baby of star. Condition character crime must expert son.",
+        "bio": "Lawyer ok American tree for between. Company six education special fund. Take or meet usually."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
