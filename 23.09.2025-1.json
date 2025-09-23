@@ -1,0 +1,25 @@
+{
+    "name": "James Cole",
+    "age": 112,
+    "address": {
+        "street": "Lisa Row",
+        "city": "Andrewview",
+        "state": "Minnesota",
+        "zip": "21086"
+    },
+    "contact": {
+        "phone": "955.640.4578",
+        "servicePhone": "800018353"
+    },
+    "birthday": "1913-28-05",
+    "ip": "19.204.113.11",
+    "foo": "bar",
+    "profile": {
+        "about": "Box door father real receive off. Contain hot policy quickly away. Reason Republican experience.",
+        "bio": "Consider participant how company stop woman foot.\nHuman throw least operation plant. Tree find cost. Management just agency yourself here option cut."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
