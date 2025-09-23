@@ -1,0 +1,25 @@
+{
+    "name": "Stacy Lewis",
+    "age": 53,
+    "address": {
+        "street": "Baker Circle",
+        "city": "Reevesland",
+        "state": "Rhode Island",
+        "zip": "16494"
+    },
+    "contact": {
+        "phone": "(769)815-2663",
+        "servicePhone": "800975834"
+    },
+    "birthday": "1972-28-05",
+    "ip": "78.187.45.173",
+    "foo": "bar",
+    "profile": {
+        "about": "Company standard require fund western. Drop teacher book around.\nYourself themselves trade let baby. It vote college sing.",
+        "bio": "Attorney thank walk make game. Statement difficult policy sing. Today money growth hot."
+    },
+    "currency": [
+        "BWP",
+        "Botswana pula"
+    ]
+}
