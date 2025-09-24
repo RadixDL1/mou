@@ -1,0 +1,25 @@
+{
+    "name": "Angela Cox",
+    "age": 41,
+    "address": {
+        "street": "Tiffany Canyon",
+        "city": "South Megan",
+        "state": "New Mexico",
+        "zip": "45126"
+    },
+    "contact": {
+        "phone": "001-879-631-9921x564",
+        "servicePhone": "800771684"
+    },
+    "birthday": "1984-16-04",
+    "ip": "76.35.91.193",
+    "foo": "bar",
+    "profile": {
+        "about": "Charge when already century from. Next green activity gun.\nGame executive nice close police theory truth. Half car message present reach understand. Area describe bag discover method.",
+        "bio": "Support research sit finish staff six site. Marriage successful party church building whether around.\nImage foot husband positive serious first pretty rate. Simply doctor economic effort."
+    },
+    "currency": [
+        "BMD",
+        "Bermudian dollar"
+    ]
+}
