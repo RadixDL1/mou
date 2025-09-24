@@ -1,0 +1,25 @@
+{
+    "name": "Chad Johnson",
+    "age": 74,
+    "address": {
+        "street": "Patricia Forks",
+        "city": "Port Danielchester",
+        "state": "South Dakota",
+        "zip": "40430"
+    },
+    "contact": {
+        "phone": "2605007759",
+        "servicePhone": "800615255"
+    },
+    "birthday": "1951-16-02",
+    "ip": "27.245.133.209",
+    "foo": "bar",
+    "profile": {
+        "about": "Southern might cause nor mother method team. Walk central oil ball.\nTell quite manager from establish. Poor morning election she hope.",
+        "bio": "Throw American nor run guy human. Cut officer fight could spend. Less one source school left friend.\nCity make natural thing. Trial happen risk fly."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}
