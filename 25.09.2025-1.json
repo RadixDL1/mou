@@ -1,0 +1,25 @@
+{
+    "name": "Scott Wu",
+    "age": 8,
+    "address": {
+        "street": "Rebecca Port",
+        "city": "Port Michelle",
+        "state": "Kentucky",
+        "zip": "04895"
+    },
+    "contact": {
+        "phone": "265.554.1547",
+        "servicePhone": "800590344"
+    },
+    "birthday": "2017-12-04",
+    "ip": "177.173.34.173",
+    "foo": "bar",
+    "profile": {
+        "about": "True rise section free his lead. Bank brother treatment magazine wear me develop.\nProve capital rock approach.\nMention number mean first strategy sit. General research science camera.",
+        "bio": "Support force woman although visit outside picture. List hair child create wear east identify. Building south simply across carry include series."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
