@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Adams",
+    "age": 82,
+    "address": {
+        "street": "Ryan Forest",
+        "city": "Danielview",
+        "state": "Wyoming",
+        "zip": "78674"
+    },
+    "contact": {
+        "phone": "+1-523-862-6131x08266",
+        "servicePhone": "800037876"
+    },
+    "birthday": "1943-15-11",
+    "ip": "1.91.202.8",
+    "foo": "bar",
+    "profile": {
+        "about": "Should ago ever gas community from large other. Feeling age others consider course four practice.\nEat develop green society. Worker cold figure possible.",
+        "bio": "Tax TV dinner especially commercial. Word sometimes story. Beat scene sometimes school reason study.\nPoint power interest at lot senior. Network employee laugh stuff notice once interesting."
+    },
+    "currency": [
+        "INR",
+        "Indian rupee"
+    ]
+}
