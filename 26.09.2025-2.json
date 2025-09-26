@@ -1,0 +1,25 @@
+{
+    "name": "Carrie Walton",
+    "age": 9,
+    "address": {
+        "street": "Booth Orchard",
+        "city": "North Scottland",
+        "state": "Mississippi",
+        "zip": "49856"
+    },
+    "contact": {
+        "phone": "6908585386",
+        "servicePhone": "800710127"
+    },
+    "birthday": "2016-01-07",
+    "ip": "211.188.255.69",
+    "foo": "bar",
+    "profile": {
+        "about": "Shoulder realize story third sense everybody subject. How consumer physical win ask region. Them peace order conference necessary enjoy someone.",
+        "bio": "Appear new figure what. Student fish military when. Treat head protect than until election skin cell."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}
