@@ -1,0 +1,25 @@
+{
+    "name": "Robert Tyler",
+    "age": 23,
+    "address": {
+        "street": "Ryan Light",
+        "city": "East Danielle",
+        "state": "Idaho",
+        "zip": "33949"
+    },
+    "contact": {
+        "phone": "+1-495-510-9437",
+        "servicePhone": "800966093"
+    },
+    "birthday": "2002-10-01",
+    "ip": "134.163.64.37",
+    "foo": "bar",
+    "profile": {
+        "about": "End discover low hot during choice voice. Speak house lead suggest main quite population evening.\nExist green protect professor generation service agreement change.",
+        "bio": "Fear hope stand case street road fear. That what organization recently medical case important. Debate loss what network baby personal only high."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}
