@@ -1,0 +1,25 @@
+{
+    "name": "Michael Kidd",
+    "age": 101,
+    "address": {
+        "street": "Conley Branch",
+        "city": "Port Heather",
+        "state": "Virginia",
+        "zip": "71113"
+    },
+    "contact": {
+        "phone": "659.350.5498",
+        "servicePhone": "800549834"
+    },
+    "birthday": "1924-16-11",
+    "ip": "107.96.136.245",
+    "foo": "bar",
+    "profile": {
+        "about": "Gas bad western south team police.\nDown camera health high challenge. Establish million shoulder point talk.",
+        "bio": "Cultural they despite cost rock whom. Mouth administration fish sound pattern bad. Baby heavy after.\nOld local hotel door behavior.\nOpen ahead pattern level. Draw far art."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
