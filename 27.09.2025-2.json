@@ -1,0 +1,25 @@
+{
+    "name": "Dawn Moore",
+    "age": 88,
+    "address": {
+        "street": "Williams Ridge",
+        "city": "West Hannahmouth",
+        "state": "Arkansas",
+        "zip": "86493"
+    },
+    "contact": {
+        "phone": "+1-405-295-5189x2794",
+        "servicePhone": "800447471"
+    },
+    "birthday": "1937-22-08",
+    "ip": "6.75.6.142",
+    "foo": "bar",
+    "profile": {
+        "about": "Your consider system six smile. Everything site among very.",
+        "bio": "Surface radio fire break appear. Discover meeting relate hit. Determine west college remain."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}
