@@ -1,0 +1,25 @@
+{
+    "name": "Jerry Hamilton",
+    "age": 76,
+    "address": {
+        "street": "Jacob Fall",
+        "city": "Jamesshire",
+        "state": "Rhode Island",
+        "zip": "21534"
+    },
+    "contact": {
+        "phone": "604-970-0025",
+        "servicePhone": "800105655"
+    },
+    "birthday": "1949-26-01",
+    "ip": "53.148.16.41",
+    "foo": "bar",
+    "profile": {
+        "about": "Form matter newspaper ok show away.\nLeast analysis look identify. International agency lot machine soon section apply. Bill loss early research sell poor.",
+        "bio": "Almost dog movie value research strategy. Either day garden establish between home.\nPartner learn off last hour approach. Deal everyone discover husband."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
