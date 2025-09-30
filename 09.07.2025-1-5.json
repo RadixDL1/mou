@@ -1,0 +1,25 @@
+{
+    "name": "Lauren Carrillo",
+    "age": 29,
+    "address": {
+        "street": "Velazquez Ports",
+        "city": "Port Rebecca",
+        "state": "Indiana",
+        "zip": "78922"
+    },
+    "contact": {
+        "phone": "704.507.9935x882",
+        "servicePhone": "800316410"
+    },
+    "birthday": "1996-06-07",
+    "ip": "126.196.161.238",
+    "foo": "bar",
+    "profile": {
+        "about": "Past cause source design forget yes. Term over nature grow rich better. Focus toward camera west current speech.",
+        "bio": "Property course ten each power follow actually. Where three speech set. Behind conference tend degree father.\nManager lead against grow check."
+    },
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}

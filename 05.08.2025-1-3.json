@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Phillips",
+    "age": 50,
+    "address": {
+        "street": "Davis Pine",
+        "city": "Port Shawn",
+        "state": "Michigan",
+        "zip": "90921"
+    },
+    "contact": {
+        "phone": "+1-943-988-1600x5660",
+        "servicePhone": "800932120"
+    },
+    "birthday": "1975-03-09",
+    "ip": "174.156.249.178",
+    "foo": "bar",
+    "profile": {
+        "about": "Political seem involve city western add mention. So past forward who statement cell.\nWould law determine draw. Certainly push join step. Painting expert report fish understand opportunity role.",
+        "bio": "Woman organization miss contain brother agent happen. Second model hand low return. Alone pull officer tax democratic."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}
