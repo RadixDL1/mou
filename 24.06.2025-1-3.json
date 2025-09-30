@@ -1,0 +1,25 @@
+{
+    "name": "Shannon Grant",
+    "age": 18,
+    "address": {
+        "street": "Tammy Landing",
+        "city": "Smithside",
+        "state": "Hawaii",
+        "zip": "61599"
+    },
+    "contact": {
+        "phone": "8336277464",
+        "servicePhone": "800197490"
+    },
+    "birthday": "2007-08-01",
+    "ip": "64.3.11.134",
+    "foo": "bar",
+    "profile": {
+        "about": "Nice wish while physical policy husband build. Join upon service hot.\nAmong four them hospital. Exist girl mind these process financial.",
+        "bio": "Risk glass receive community your model next student. Skill wrong policy chair hard look.\nInterview beat you through bag including tend. Quite civil much."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}

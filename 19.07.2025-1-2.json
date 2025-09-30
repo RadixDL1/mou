@@ -1,0 +1,25 @@
+{
+    "name": "Michael Perry",
+    "age": 109,
+    "address": {
+        "street": "Jennings Walk",
+        "city": "Bennettside",
+        "state": "Illinois",
+        "zip": "93024"
+    },
+    "contact": {
+        "phone": "900.296.7868x74851",
+        "servicePhone": "800513564"
+    },
+    "birthday": "1916-04-01",
+    "ip": "209.71.27.210",
+    "foo": "bar",
+    "profile": {
+        "about": "Many few fine long kitchen board. Themselves detail yet most approach five south.\nWestern itself size. Wall hundred story. Less add edge prepare success age film.",
+        "bio": "Draw book above service rule list since. Card beautiful hotel experience quite appear natural month. Right news term we project five.\nThem talk court cell."
+    },
+    "currency": [
+        "QAR",
+        "Qatari riyal"
+    ]
+}
