@@ -1,0 +1,25 @@
+{
+    "name": "Jonathan Wheeler",
+    "age": 38,
+    "address": {
+        "street": "Melissa Alley",
+        "city": "South Susanhaven",
+        "state": "New Hampshire",
+        "zip": "55618"
+    },
+    "contact": {
+        "phone": "(281)692-2695",
+        "servicePhone": "800955174"
+    },
+    "birthday": "1987-22-01",
+    "ip": "211.137.127.212",
+    "foo": "bar",
+    "profile": {
+        "about": "Truth rate will life part cell cold. Alone arrive month give day adult. Away carry miss bill defense standard gun begin.\nConference cost memory performance where. Produce fear check window.",
+        "bio": "Huge success safe your country. You price cold.\nManage wide break family heavy. Thought difficult opportunity. They adult cell."
+    },
+    "currency": [
+        "SAR",
+        "Saudi riyal"
+    ]
+}
