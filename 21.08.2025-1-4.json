@@ -1,0 +1,25 @@
+{
+    "name": "Amy Vega",
+    "age": 90,
+    "address": {
+        "street": "Christopher Fork",
+        "city": "Josephborough",
+        "state": "Indiana",
+        "zip": "60515"
+    },
+    "contact": {
+        "phone": "2199968687",
+        "servicePhone": "800727001"
+    },
+    "birthday": "1935-26-10",
+    "ip": "23.244.89.3",
+    "foo": "bar",
+    "profile": {
+        "about": "Gas long PM finish difference history actually. Authority trade behavior church always in option.",
+        "bio": "Economy nation try pattern contain. Daughter stock discuss boy answer."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}

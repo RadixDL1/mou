@@ -1,0 +1,25 @@
+{
+    "name": "David Campbell",
+    "age": 15,
+    "address": {
+        "street": "Harrison Rapid",
+        "city": "South William",
+        "state": "New York",
+        "zip": "57577"
+    },
+    "contact": {
+        "phone": "(831)573-8965x9426",
+        "servicePhone": "800909435"
+    },
+    "birthday": "2010-25-05",
+    "ip": "27.5.85.30",
+    "foo": "bar",
+    "profile": {
+        "about": "Spend surface drive window try key.\nWithin news state campaign itself smile newspaper. Near hard close evidence explain. Artist themselves drug against boy site Congress.",
+        "bio": "Fine ability individual conference money upon.\nDetail thank to here fire local around operation. Lay choice rest assume. Become deep clearly those service individual western dark."
+    },
+    "currency": [
+        "LBP",
+        "Lebanese pound"
+    ]
+}
