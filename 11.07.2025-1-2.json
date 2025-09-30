@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Smith",
+    "age": 114,
+    "address": {
+        "street": "Davis Landing",
+        "city": "Shelleyton",
+        "state": "Rhode Island",
+        "zip": "48267"
+    },
+    "contact": {
+        "phone": "394-340-5550x30475",
+        "servicePhone": "800651646"
+    },
+    "birthday": "1911-24-12",
+    "ip": "149.234.135.137",
+    "foo": "bar",
+    "profile": {
+        "about": "Get growth reach skin eye son always. Politics away total I wall accept person. Quality book civil above indeed reflect generation.",
+        "bio": "Many save fund public fire discuss method. Risk thousand hundred pick will shake game. Else area look hit kid."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}
