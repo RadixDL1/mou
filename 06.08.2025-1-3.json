@@ -1,0 +1,25 @@
+{
+    "name": "Jackie Griffin",
+    "age": 106,
+    "address": {
+        "street": "Mario Burgs",
+        "city": "Martinview",
+        "state": "Mississippi",
+        "zip": "70464"
+    },
+    "contact": {
+        "phone": "899-739-8643x137",
+        "servicePhone": "800816757"
+    },
+    "birthday": "1919-08-05",
+    "ip": "86.158.58.169",
+    "foo": "bar",
+    "profile": {
+        "about": "Floor bad check win necessary offer strategy accept.\nRealize top white good that last certain huge. Eat simple carry treat under difficult. Manager agent itself game section line.",
+        "bio": "List anyone might network citizen send.\nPiece hand particular mind friend oil. Southern positive try improve card ask food. Different movie a decade offer."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}

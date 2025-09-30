@@ -1,0 +1,25 @@
+{
+    "name": "Heidi Brooks",
+    "age": 4,
+    "address": {
+        "street": "Linda Center",
+        "city": "North Kim",
+        "state": "Louisiana",
+        "zip": "82496"
+    },
+    "contact": {
+        "phone": "763-574-4591",
+        "servicePhone": "800638723"
+    },
+    "birthday": "2021-08-05",
+    "ip": "61.125.107.12",
+    "foo": "bar",
+    "profile": {
+        "about": "Food pretty rich media mother own. Employee writer miss. Try stand time us.\nKitchen suddenly stop. Order game group full.\nEverything save person minute. Letter personal debate political.",
+        "bio": "Wall listen open. Own whatever per father pretty. Still no before very.\nTown sign add deep structure up have. Someone close and baby. From open really control let."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}

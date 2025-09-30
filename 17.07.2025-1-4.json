@@ -1,0 +1,25 @@
+{
+    "name": "Carolyn Irwin",
+    "age": 26,
+    "address": {
+        "street": "Amanda Mountains",
+        "city": "New Gary",
+        "state": "Connecticut",
+        "zip": "51383"
+    },
+    "contact": {
+        "phone": "+1-363-663-1325",
+        "servicePhone": "800008807"
+    },
+    "birthday": "1999-01-12",
+    "ip": "85.19.201.95",
+    "foo": "bar",
+    "profile": {
+        "about": "Science art then story sort difficult experience. Act beyond rather huge per about.\nTraditional player product pick whose your sure. Size significant first performance build glass try.",
+        "bio": "Prevent offer scientist member onto example. Painting line term news discover.\nCivil speech pay commercial deal. Several hit it teacher address according. Your lose affect factor live crime."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
