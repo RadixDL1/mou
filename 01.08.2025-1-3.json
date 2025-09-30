@@ -1,0 +1,25 @@
+{
+    "name": "Charles Lewis",
+    "age": 67,
+    "address": {
+        "street": "Johnson Hills",
+        "city": "West Benjamin",
+        "state": "Indiana",
+        "zip": "54196"
+    },
+    "contact": {
+        "phone": "532-988-6380x43778",
+        "servicePhone": "800982801"
+    },
+    "birthday": "1958-15-04",
+    "ip": "161.252.28.39",
+    "foo": "bar",
+    "profile": {
+        "about": "Let loss like born. Effect economy move head.\nDream present close unit. Determine learn bit coach know other either feeling.",
+        "bio": "Hotel morning beat not enter born thousand. Outside bar bit manager try since. Prepare class for million sure order.\nStuff along trip tell. Interest because without prepare before skin important."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
