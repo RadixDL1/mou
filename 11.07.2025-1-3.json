@@ -1,0 +1,25 @@
+{
+    "name": "Jacob Parker",
+    "age": 80,
+    "address": {
+        "street": "Brian Underpass",
+        "city": "Leemouth",
+        "state": "Mississippi",
+        "zip": "91277"
+    },
+    "contact": {
+        "phone": "+1-278-800-3482x793",
+        "servicePhone": "800336732"
+    },
+    "birthday": "1945-14-01",
+    "ip": "119.168.91.105",
+    "foo": "bar",
+    "profile": {
+        "about": "Trip expert purpose. What prevent enter institution nice everything her. Write structure scene from security. Former race employee serious alone sister arrive.",
+        "bio": "Safe west allow partner son. Treat us assume generation southern fish artist around. West no nothing themselves."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}
