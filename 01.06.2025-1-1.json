@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Bell",
+    "age": 17,
+    "address": {
+        "street": "Sandra Brooks",
+        "city": "Moontown",
+        "state": "Arkansas",
+        "zip": "35223"
+    },
+    "contact": {
+        "phone": "409.408.6952x88790",
+        "servicePhone": "800622509"
+    },
+    "birthday": "2008-17-06",
+    "ip": "174.204.131.123",
+    "foo": "bar",
+    "profile": {
+        "about": "Growth offer family threat mention. Read doctor increase wind son. Myself new could court financial whose wait.\nAble war family central. Fire sound clear event bad.",
+        "bio": "Professional bad officer experience finally. Position author relate develop score.\nContinue beat scene wonder. Loss conference back partner himself when."
+    },
+    "currency": [
+        "AFN",
+        "Afghan afghani"
+    ]
+}

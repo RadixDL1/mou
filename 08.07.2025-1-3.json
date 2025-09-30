@@ -1,0 +1,25 @@
+{
+    "name": "Jerome Hancock",
+    "age": 13,
+    "address": {
+        "street": "Ashley Shoals",
+        "city": "Brandontown",
+        "state": "North Carolina",
+        "zip": "18247"
+    },
+    "contact": {
+        "phone": "(215)828-9786x506",
+        "servicePhone": "800917698"
+    },
+    "birthday": "2012-16-02",
+    "ip": "155.174.68.91",
+    "foo": "bar",
+    "profile": {
+        "about": "Stay those offer approach experience rich strong husband. Yourself enter type performance. Tonight provide compare rock son.",
+        "bio": "Candidate score now mission important good. Idea win property exist manager adult more."
+    },
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}
